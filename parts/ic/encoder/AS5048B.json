@@ -1,0 +1,96 @@
+{
+    "MPN": [
+        false,
+        "AS5048B"
+    ],
+    "datasheet": [
+        false,
+        "https://ams.com/documents/20143/36005/AS5048_DS000298_4-00.pdf/910aef1f-6cd3-cbda-9d09-41f152104832"
+    ],
+    "description": [
+        false,
+        "Board Mount Hall Effect / Magnetic Sensors 14-Bit Rotary Pos Sensor I2C"
+    ],
+    "entity": "a066141f-254e-4618-b2ee-f809524eaee5",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AMS"
+    ],
+    "model": "2a99aa4d-569e-4a72-af9f-b01e650621ae",
+    "orderable_MPNs": {
+        "bca06afa-ebec-44b0-bb8b-8a7b38036342": "AS5048B-HTSP"
+    },
+    "package": "1c292321-60bc-44c2-8ffb-5b26d9d0bd95",
+    "pad_map": {
+        "0b0cf287-9904-45c4-8122-2cff820c752f": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "cf45ddcf-de1f-4023-963d-19a775089616"
+        },
+        "0df84563-be9b-4489-99a5-62191a0f2d70": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "50802313-69bc-4461-89c1-fd9ffc619ac8"
+        },
+        "3996fb19-75f2-4d01-b988-f551cbd5c145": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "20a4a245-9f83-42ca-b7f6-6d104c997791"
+        },
+        "4b38b3f0-2586-49c4-a71d-01ddd42dd4b7": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "16645aeb-d26e-4294-b3a9-9939714672a8"
+        },
+        "756ceb07-6a51-42dc-9827-7fb7163029bd": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "7ec2ef68-2178-40e4-ba50-26766165d733"
+        },
+        "8046d373-82cd-4241-9eca-f6f0d3712ca5": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "3e3cb9e1-5de4-44cd-a5f9-e1c71c7dd56c"
+        },
+        "933239d3-9ef6-4e70-adf0-13e8c40786c1": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "5ef399d2-afa8-4205-8387-4f349d0aaca7"
+        },
+        "9d48abf0-1c91-4726-8377-17d103b59000": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "6370f053-42e4-43c6-a88b-94b22eeee6ca"
+        },
+        "a4521b23-60bc-4b32-ac74-a3f09314d1bf": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "3e554bad-1acb-4558-a001-b27e5cd7e58f"
+        },
+        "a8c74b65-12e8-476b-ade1-fdfcfc0c91cb": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "22f042b2-1daf-4774-ab02-3e4706d7b26c"
+        },
+        "af143e03-1437-446e-a699-37f2522e61fe": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "9203cbd7-773f-4203-9827-d029e197ae60"
+        },
+        "b7836709-a477-42d6-99da-7e44286ad05b": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "bbc7c7df-841c-462b-90f3-37a3baf861ef"
+        },
+        "db158bdf-4a2f-4982-b604-b907e77f02ab": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "ee1eb211-1a72-4425-a316-1b16911439fe"
+        },
+        "e4c7b6ab-7d55-430f-8015-8fdd26ae856b": {
+            "gate": "748fb512-0545-4a0d-8354-4fd49fb6b077",
+            "pin": "5cf88d19-eae7-4ceb-b78a-b8acee9eb027"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "encoder",
+        "ic",
+        "magnetic encoder"
+    ],
+    "type": "part",
+    "uuid": "2ffab51e-810d-4dae-bcfb-54f665c6b547",
+    "value": [
+        false,
+        ""
+    ]
+}

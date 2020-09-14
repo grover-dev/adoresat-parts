@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "748fb512-0545-4a0d-8354-4fd49fb6b077": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eb0875a2-7f05-4e04-be73-230fe59ccf0d"
+        }
+    },
+    "manufacturer": "AMS",
+    "name": "AS5048B",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "a066141f-254e-4618-b2ee-f809524eaee5"
+}
