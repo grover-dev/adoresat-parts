@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "MAX1034"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/256/MAX1034-MAX1035-220022.pdf"
+    ],
+    "description": [
+        false,
+        "Analog to Digital Converters - ADC 8-/4-Channel, A +/- VREF Multirange Inputs, Serial 14-Bit ADCs"
+    ],
+    "entity": "577977ed-9057-413b-b78d-62128f57f560",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "594df5bc-1ecc-4216-871d-0dc25df8630f",
+    "orderable_MPNs": {
+        "f2ab61db-6148-48aa-a272-1a98c0a15578": "MAX1034BEUG+"
+    },
+    "package": "5d90dc1e-d58a-4145-8b91-4543e58dc81e",
+    "pad_map": {
+        "0781216d-760a-4129-a966-909a8809b661": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "2dc90219-47de-4072-80ac-5944354ea8a3"
+        },
+        "0f67d5cf-9c70-4284-84df-6181efd0013b": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "8e169b2c-ca7c-49b3-bff6-310640726568"
+        },
+        "23fec528-63f2-4e0e-9699-259fbde825a3": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "38897b34-2c33-4ef1-9135-cfc52aa22409"
+        },
+        "389190be-4074-428c-b310-6c0741684a52": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "5efb0207-3533-4715-ba24-e7aa032fd05d"
+        },
+        "49025483-038e-438b-a8d2-b2daaa229fb1": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "5d10cd58-9e92-428a-9080-0c88cd939d43"
+        },
+        "4bdcb8ca-f17c-4198-abec-1fec4e1ff4d2": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "8a52c7b4-a83f-4a13-8669-02589ca139bd"
+        },
+        "581148f6-1ce9-4d0e-b5d6-231002b154f7": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "17cdab33-f385-44b3-b473-8e9917805ead"
+        },
+        "6d89526c-43fa-4156-8c50-ef2c90f40539": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "b33b1ca4-7176-4a47-8688-d40b7dea54f6"
+        },
+        "80881bd2-7c86-4d12-a5ec-5c4b17ad1087": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "a398aae1-ecb8-4643-b91f-04ae752fa976"
+        },
+        "812fb42a-1ab5-4b22-a026-2ee4523ddf5b": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "b1825705-63ec-4fe9-8d57-68571277e72d"
+        },
+        "848f2468-51dd-4b1f-a3d2-2939bed50f20": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "420c955c-2b27-4728-bc84-88ab26520254"
+        },
+        "948fb5f0-6897-45c4-a62b-375d82cea317": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "f7ef90fa-f82e-443f-b0b2-5b11eba14f09"
+        },
+        "9597ec9e-1f9f-4da4-a701-b8616ce387a2": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "77cc8173-f07a-4eab-aebe-1a7fb7d19b3b"
+        },
+        "9e90856b-83f5-439e-96be-abbec4444a00": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "96847633-e463-4442-aca8-b3d6e8799478"
+        },
+        "a1578337-463e-4037-9702-acd4ee392fbc": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "a12b617e-bcc4-4dfa-a3a1-46a34b58480a"
+        },
+        "a89b38b5-7849-4903-95df-dcb0cd264018": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "c3fd8f94-fbe5-4a5a-952f-af4514aed5c9"
+        },
+        "b8f5029e-a1cf-416d-98c9-740897792231": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "e845a5da-0a73-480a-adb7-a2dc7e92bd30"
+        },
+        "ca0462f6-13e5-4b7c-b1f4-6358b69b9591": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "940006cc-f50b-4cde-84e7-20e24883d24c"
+        },
+        "d4de8685-a9f0-4f8d-b29b-d30bd3bd6710": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "d899fe4b-9f60-421d-b01a-75ae4e358bdc"
+        },
+        "d94de90e-2dcb-4239-a28a-268b11f4c888": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "ad516e32-bfc2-47e0-a817-9e158bb52afb"
+        },
+        "ea3ad94a-502e-4f33-b06c-2c3ef32d8893": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "db2636ab-c4c4-4ac2-8b9b-2abaed621bf8"
+        },
+        "f1fb4cc9-06b4-4770-b2d4-c17794c7168c": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "fe3de4ef-35aa-45ea-9cb1-814a89d71097"
+        },
+        "f7303d8b-6c87-4e5b-9c10-c76ff1b7644e": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "47a0eb6d-c01a-47fa-b17c-4932f187cf91"
+        },
+        "fafeab8a-3ddc-4e68-b020-bf25408f0c31": {
+            "gate": "e872b35b-9211-4554-81ec-b8a7b1f676bc",
+            "pin": "cff0f7ca-87c5-4145-833a-b33ec1d6f7b9"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "183d502b-de0b-4999-b198-ccdcecaf111f",
+    "value": [
+        false,
+        ""
+    ]
+}
