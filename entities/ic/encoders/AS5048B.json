@@ -10,7 +10,10 @@
     "manufacturer": "AMS",
     "name": "AS5048B",
     "prefix": "U",
-    "tags": [],
+    "tags": [
+        "encoder",
+        "ic"
+    ],
     "type": "entity",
     "uuid": "a066141f-254e-4618-b2ee-f809524eaee5"
 }
