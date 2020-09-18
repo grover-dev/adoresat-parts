@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "AD8132"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/609/AD8132-1502099.pdf"
+    ],
+    "description": [
+        false,
+        "Differential Amplifiers"
+    ],
+    "entity": "e03b3788-1d42-4fd3-bfcc-c856ad8835ee",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "0b1b2624-2a73-446b-98be-102533d362e1",
+    "package": "e0a9ca36-deca-46f6-9b6d-fa84b852d20f",
+    "pad_map": {
+        "1bbb0995-683a-48fc-b741-91bcef0e054a": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "11af1f4c-a9d7-4def-8ed3-8f89eec6bdbb"
+        },
+        "69a692e5-bb42-4156-a35a-963cc4737766": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "d4af8af4-b9bc-4b54-948c-8df3b156838d"
+        },
+        "69d958ea-38cb-4dc0-a678-d99b841b9a16": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "dc05a309-dfba-4d6a-a872-8f786bbf7292"
+        },
+        "911d29e8-74d5-4646-a1d2-8ce73a9ae62d": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "1afc1911-5820-4777-b92e-b197b252a4ed"
+        },
+        "9a17c2cf-230f-44b1-9e02-1e13cd041604": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "a3945015-3d06-4889-b312-b38e658e99cc"
+        },
+        "b12e13bb-6dc8-4302-b563-cf2161f90f27": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "0c115cac-3226-4d3c-97d8-03c168fb1962"
+        },
+        "bf95e986-4819-4e04-92cf-555d3700eb68": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "94a7cebc-68d2-4b04-b53c-1795b15faea5"
+        },
+        "e9ba3ef4-ce58-4748-a36c-c9896394af02": {
+            "gate": "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84",
+            "pin": "ee235b3d-df36-4600-b45f-39ff4f7fbf17"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "differential amplifier",
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "d475cdf0-5771-4b8d-9193-e9c03348e59d",
+    "value": [
+        false,
+        ""
+    ]
+}
