@@ -45,7 +45,7 @@
         "d4af8af4-b9bc-4b54-948c-8df3b156838d": {
             "direction": "output",
             "names": [
-                "+OUT"
+                "-OUT"
             ],
             "primary_name": "5",
             "swap_group": 0
