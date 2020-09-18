@@ -1,0 +1,72 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "AD8132",
+    "pins": {
+        "0c115cac-3226-4d3c-97d8-03c168fb1962": {
+            "direction": "power_input",
+            "names": [
+                "V+"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "11af1f4c-a9d7-4def-8ed3-8f89eec6bdbb": {
+            "direction": "passive",
+            "names": [
+                "V-"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "1afc1911-5820-4777-b92e-b197b252a4ed": {
+            "direction": "output",
+            "names": [
+                "+OUT"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "94a7cebc-68d2-4b04-b53c-1795b15faea5": {
+            "direction": "input",
+            "names": [
+                "V_OCM"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "a3945015-3d06-4889-b312-b38e658e99cc": {
+            "direction": "input",
+            "names": [
+                "-IN"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "d4af8af4-b9bc-4b54-948c-8df3b156838d": {
+            "direction": "output",
+            "names": [
+                "+OUT"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "dc05a309-dfba-4d6a-a872-8f786bbf7292": {
+            "direction": "input",
+            "names": [
+                "+IN"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "ee235b3d-df36-4600-b45f-39ff4f7fbf17": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1e8de0c7-73c7-4d37-9ff6-5de2ee0dd118"
+}

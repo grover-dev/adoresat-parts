@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "cfa9e7bc-9f71-49a4-a3d8-f15c6c033f84": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1e8de0c7-73c7-4d37-9ff6-5de2ee0dd118"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "AD8132",
+    "prefix": "U",
+    "tags": [
+        "differential amplifier",
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "e03b3788-1d42-4fd3-bfcc-c856ad8835ee"
+}
