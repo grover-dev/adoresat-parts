@@ -4,25 +4,25 @@
     "junctions": {
         "49453eb7-fdae-4125-bf8b-9989d5021c5a": {
             "position": [
-                -5000000,
+                -11875000,
                 13750000
             ]
         },
         "524d20b9-5f99-450c-816c-51d7de7f750e": {
             "position": [
-                5000000,
+                11875000,
                 -13750000
             ]
         },
         "7e520f55-c49e-4b9f-81b6-680df1e4758f": {
             "position": [
-                -5000000,
+                -11875000,
                 -13750000
             ]
         },
         "bffb94cd-8ba5-4e99-ada1-dae3f96136ef": {
             "position": [
-                5000000,
+                11875000,
                 13750000
             ]
         }
@@ -65,10 +65,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                5000000,
+                14375000,
                 7500000
             ]
         },
@@ -82,10 +82,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                5000000,
+                14375000,
                 -7500000
             ]
         },
@@ -99,10 +99,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -5000000,
+                -14375000,
                 -7500000
             ]
         },
@@ -116,10 +116,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -5000000,
+                -14375000,
                 0
             ]
         },
@@ -133,10 +133,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -5000000,
+                -14375000,
                 11250000
             ]
         },
@@ -150,10 +150,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -5000000,
+                -14375000,
                 -11250000
             ]
         },
@@ -167,10 +167,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "left",
             "pad_visible": true,
             "position": [
-                -5000000,
+                -14375000,
                 7500000
             ]
         },
@@ -184,10 +184,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                5000000,
+                14375000,
                 11250000
             ]
         }
@@ -204,7 +204,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -5000000,
+                    -11875000,
                     -16250000
                 ]
             },
@@ -221,7 +221,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -5000000,
+                    -11875000,
                     16250000
                 ]
             },
