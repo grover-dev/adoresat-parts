@@ -1,0 +1,688 @@
+{
+    "manufacturer": "ST",
+    "name": "Nucleo-144-CN12-Header",
+    "pins": {
+        "001e4605-66b9-4b33-9e50-1dcf84eb7b71": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_3",
+                "SPI1_SCK",
+                "PWM2/2"
+            ],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "022691a7-6a2e-4ae7-bf44-cf1201c0be31": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_2"
+            ],
+            "primary_name": "60",
+            "swap_group": 0
+        },
+        "03c3fc7e-00e4-4e27-a2d4-ba3faf081f36": {
+            "direction": "power_output",
+            "names": [
+                "PC_6",
+                "UART6_TX",
+                "PWM3/1"
+            ],
+            "primary_name": "69",
+            "swap_group": 0
+        },
+        "03f42592-33d0-497e-b0bd-3cc2800b88f3": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_8",
+                "UART3_TX"
+            ],
+            "primary_name": "66",
+            "swap_group": 0
+        },
+        "0b12e46e-bdda-46ef-a47c-c00d84d3be70": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_12",
+                "OTG?",
+                "CAN2_RD",
+                "SPI2_CS",
+                "OTG?"
+            ],
+            "primary_name": "63",
+            "swap_group": 0
+        },
+        "0ce0d040-a563-4e91-9fd9-9524f0f3f0c8": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_12"
+            ],
+            "primary_name": "30",
+            "swap_group": 0
+        },
+        "14eb967a-dd13-4fad-85c9-d58cba4d1fcb": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_14",
+                "SPI4_MOSI",
+                "PWM1/4"
+            ],
+            "primary_name": "26",
+            "swap_group": 0
+        },
+        "1fd46dd2-b38e-47d8-88f4-54098023ba63": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_10",
+                "PWM1/2N"
+            ],
+            "primary_name": "24",
+            "swap_group": 0
+        },
+        "267fde7e-5d55-40e8-9177-2c285842b4d7": {
+            "direction": "bidirectional",
+            "names": [
+                "PG_5"
+            ],
+            "primary_name": "37",
+            "swap_group": 0
+        },
+        "398970ff-a334-4c12-980c-935b64de0077": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_10",
+                "ADC3/8"
+            ],
+            "primary_name": "50",
+            "swap_group": 0
+        },
+        "3b672fa6-171c-422b-a568-31798c02b15b": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_9",
+                "OTG?",
+                "PWM1/1",
+                "I2C3_SCL"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "3b7bd3b2-e99c-4a40-94e8-096d557e60a4": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_13",
+                "SPI4_MISO",
+                "PWM1/3"
+            ],
+            "primary_name": "28",
+            "swap_group": 0
+        },
+        "40a3a992-2efa-46b4-b79d-dd360f053f3c": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_3",
+                "ADC3/9"
+            ],
+            "primary_name": "42",
+            "swap_group": 0
+        },
+        "46abb159-42c9-4926-b621-9ce3518ed36c": {
+            "direction": "bidirectional",
+            "names": [
+                "PC_9",
+                "CAN1_RD",
+                "PWM3/4",
+                "I2C3_SDA"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "4c559bb3-517c-45ae-a34c-aeb1c68f6fd6": {
+            "direction": "power_output",
+            "names": [
+                "PC_5",
+                "ADC1/15"
+            ],
+            "primary_name": "68",
+            "swap_group": 0
+        },
+        "4e9ccfb2-e0bc-4cb5-970f-5b58b3ad2b45": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "20",
+            "swap_group": 0
+        },
+        "4efc0c2a-fa17-451f-a370-d2126edc7203": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_3",
+                "OTG?",
+                "ADC1/3",
+                "PWM2/4",
+                "UART2_RX"
+            ],
+            "primary_name": "19",
+            "swap_group": 0
+        },
+        "54063cc6-5d60-402f-9a58-9837bd2457e2": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_9",
+                "OTG?",
+                "PWM1/2",
+                "UART1_TX"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "5457cf5e-853b-4db4-bb4a-745c3c2471ad": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_9",
+                "PWM1/1"
+            ],
+            "primary_name": "45",
+            "swap_group": 0
+        },
+        "54e7917d-3bf6-46b6-ad5a-4c1d2fac400e": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_15"
+            ],
+            "primary_name": "41",
+            "swap_group": 0
+        },
+        "5735a4fd-c1b6-4316-a230-49f71e198883": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_11",
+                "UART3_CTS"
+            ],
+            "primary_name": "23",
+            "swap_group": 0
+        },
+        "6344f62b-cfc1-4474-9090-bcddf20a4a41": {
+            "direction": "bidirectional",
+            "names": [
+                "PC_4",
+                "ADC1/14"
+            ],
+            "primary_name": "54",
+            "swap_group": 0
+        },
+        "634b8196-6a1e-42d6-99fb-992be84a3911": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "44",
+            "swap_group": 0
+        },
+        "67778ad8-f4c9-4c9d-9ecf-2b58c9e7d654": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_5",
+                "ADC3/15"
+            ],
+            "primary_name": "53",
+            "swap_group": 0
+        },
+        "67c02838-76e8-4040-894a-bfb85e2a39f7": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_1",
+                "ADC1/9",
+                "PWM1/3N",
+                "OTG?"
+            ],
+            "primary_name": "59",
+            "swap_group": 0
+        },
+        "690be808-5b9d-4315-bf85-d86f945058dd": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_14",
+                "PWM4/3"
+            ],
+            "primary_name": "48",
+            "swap_group": 0
+        },
+        "6dcbbce4-9ac9-4e55-94e5-80c81b996022": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_11",
+                "PWM1/2",
+                "SPI4_CS"
+            ],
+            "primary_name": "43",
+            "swap_group": 0
+        },
+        "7b5af632-a5c1-47e3-8390-00c6ae40bf08": {
+            "direction": "power_output",
+            "names": [
+                "U5V"
+            ],
+            "primary_name": "67",
+            "swap_group": 0
+        },
+        "7bec971e-1695-44d5-b7a1-7854f4aedeef": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_13"
+            ],
+            "primary_name": "29",
+            "swap_group": 0
+        },
+        "817343b7-66fe-4975-aa32-748bb8806bd4": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_4",
+                "SPI1_MISO",
+                "PWM3/1"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "8842d216-1a05-4673-a14e-af9acef7f8ec": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_14"
+            ],
+            "primary_name": "46",
+            "swap_group": 0
+        },
+        "8890e8ad-2f33-4518-9768-ffc0696b33b5": {
+            "direction": "power_output",
+            "names": [
+                "AVDD"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "8c51cb86-04fc-45fc-84b0-5a58f04bb523": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_8",
+                "UART7_TX",
+                "PWM1/1N"
+            ],
+            "primary_name": "51",
+            "swap_group": 0
+        },
+        "8e3a01e2-decd-447d-ad08-56dd48cb72da": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_11",
+                "SPI5_MOSI"
+            ],
+            "primary_name": "40",
+            "swap_group": 0
+        },
+        "8fba8366-65bc-45c2-9aa6-089e286edcd4": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_10"
+            ],
+            "primary_name": "33",
+            "swap_group": 0
+        },
+        "9b53c13d-6101-4651-9c6e-14bab8ef93c3": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_10",
+                "OTG?",
+                "PWM1/3",
+                "UART1_RX"
+            ],
+            "primary_name": "17",
+            "swap_group": 0
+        },
+        "9f74a9eb-ee9f-4f58-87c0-5baf09a93316": {
+            "direction": "passive",
+            "names": [
+                "AGND"
+            ],
+            "primary_name": "55",
+            "swap_group": 0
+        },
+        "a151a0e8-7a1b-426a-833b-0ec7f34b9562": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_6",
+                "SPI1_MISO",
+                "PWM3/1",
+                "ADC1/6"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "a658aee2-a8be-459c-8159-eb2212acb489": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_0",
+                "UART8_RX"
+            ],
+            "primary_name": "39",
+            "swap_group": 0
+        },
+        "aaddb1a6-f0c9-4eb1-b653-ec34184af448": {
+            "direction": "bidirectional",
+            "names": [
+                "PC_9",
+                "PWM3/4",
+                "I2C3_SDA"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "ab064421-2b17-48b0-93e8-7d2ab61438e8": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "32",
+            "swap_group": 0
+        },
+        "ba9a87f5-41a2-4911-bf28-55d965010cce": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_9",
+                "SPI2_CS",
+                "CAN1_TD",
+                "PWM4/4",
+                "I2C1_SDA"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "bad44f2f-2128-4fa9-b95d-b49d7bc27410": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_13",
+                "PWM4/2"
+            ],
+            "primary_name": "21",
+            "swap_group": 0
+        },
+        "be83451c-5542-4454-afb4-eb9931faa01f": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_14",
+                "OTG?",
+                "PWM1/2N",
+                "UART3_RTS",
+                "SPI2_MISO",
+                "LED3"
+            ],
+            "primary_name": "57",
+            "swap_group": 0
+        },
+        "bed04830-0240-4c86-829e-994bb7c5adac": {
+            "direction": "bidirectional",
+            "names": [
+                "PG_6"
+            ],
+            "primary_name": "36",
+            "swap_group": 0
+        },
+        "bf0cb7af-3e58-4c53-9439-09fb2b1ac52d": {
+            "direction": "bidirectional",
+            "names": [
+                "PG_7"
+            ],
+            "primary_name": "34",
+            "swap_group": 0
+        },
+        "c1fef0db-9d44-44c6-831c-54a97733b59b": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_11",
+                "UART1_CTS",
+                "PWM1/4",
+                "CAN1_RD",
+                "OTG?"
+            ],
+            "primary_name": "64",
+            "swap_group": 0
+        },
+        "c44be5de-bf93-41f9-85f3-27c5f39d713c": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_7",
+                "UART7_RX"
+            ],
+            "primary_name": "49",
+            "swap_group": 0
+        },
+        "c5db0bdf-0138-42a2-80f8-24b0368d249d": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_12",
+                "UART1_RTS",
+                "CAN1_TD",
+                "OTG?"
+            ],
+            "primary_name": "65",
+            "swap_group": 0
+        },
+        "c6791ebf-87e1-4935-8089-a4b831a330f6": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_12",
+                "PWM4/1",
+                "UART3_RTS"
+            ],
+            "primary_name": "22",
+            "swap_group": 0
+        },
+        "c7b5b11f-2ec0-41a0-9102-3d9f7941e47c": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_7",
+                "SPI1_MOSI",
+                "PWM1/1N",
+                "ADC1/7"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "c84f5c40-fe29-4173-99f4-deaf49c2e728": {
+            "direction": "power_output",
+            "names": [
+                "PC_8",
+                "PWM3/3"
+            ],
+            "primary_name": "70",
+            "swap_group": 0
+        },
+        "cba78ac4-8514-4c38-b47e-fc1851e37877": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_12",
+                "SPI4_SCK",
+                "PWM1/3N"
+            ],
+            "primary_name": "25",
+            "swap_group": 0
+        },
+        "ce4f018f-afc7-4540-b3d5-444cc53ad2f2": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "61",
+            "swap_group": 0
+        },
+        "d40257cf-21ef-4d44-8f4c-719e35908395": {
+            "direction": "bidirectional",
+            "names": [
+                "PG_4"
+            ],
+            "primary_name": "35",
+            "swap_group": 0
+        },
+        "d4af22d7-e383-4eb1-bdf0-e7c46fbb13cc": {
+            "direction": "bidirectional",
+            "names": [
+                "PD_15",
+                "PWM4/4"
+            ],
+            "primary_name": "47",
+            "swap_group": 0
+        },
+        "d676e9df-a5f8-4f98-bad7-6b8a5ce17636": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_13",
+                "OTG?",
+                "PWM1/1N",
+                "UART3_CTS",
+                "SPI2_SCK",
+                "OTG?",
+                "CAN2_TD"
+            ],
+            "primary_name": "56",
+            "swap_group": 0
+        },
+        "d844b797-4658-426e-ae28-1a60308c81b7": {
+            "direction": "bidirectional",
+            "names": [
+                "PF_4",
+                "ADC3/14"
+            ],
+            "primary_name": "52",
+            "swap_group": 0
+        },
+        "dc57a0ad-da27-49bf-8d82-25c705be1404": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_6",
+                "I2C1_SCL",
+                "CAN2_TD",
+                "PWM4/1",
+                "UART1_TX"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "df505202-7e0a-40ce-9b55-bf2b60e4977d": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "e2afce3f-52ea-4ba2-8a49-379229d24d8f": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_5",
+                "OTG?",
+                "SPI1_MOSI",
+                "CAN2_RD",
+                "PWM3/2"
+            ],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "e375ed7c-b4d7-44fc-b707-6d0c8e063f37": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_5",
+                "OTG?",
+                "SPI1_SCK",
+                "DAC1/2",
+                "PWM2/1",
+                "ADC1/5"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "e74b3260-74b2-4df6-be9b-1fef8d6ff4e8": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_10",
+                "OTG?",
+                "I2C2_SCL",
+                "SPI2_SCK",
+                "PWM2/3",
+                "UART3_TX"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "e9500754-59b2-4f8e-b96d-07ad46388f1e": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_11",
+                "UART3_RX",
+                "PWM2/4",
+                "I2C2_SDA",
+                "OTG?"
+            ],
+            "primary_name": "62",
+            "swap_group": 0
+        },
+        "e9b9964b-b5e9-443c-bb44-094a44648510": {
+            "direction": "bidirectional",
+            "names": [
+                "PA_2",
+                "ADC1/2",
+                "PWM2/3",
+                "UART2_TX"
+            ],
+            "primary_name": "18",
+            "swap_group": 0
+        },
+        "ebdceb8c-ab08-4229-96ac-7e7bcc3e5b59": {
+            "direction": "bidirectional",
+            "names": [
+                "PG_14"
+            ],
+            "primary_name": "31",
+            "swap_group": 0
+        },
+        "ec5f5336-4b0d-4781-beff-b85a1a987493": {
+            "direction": "bidirectional",
+            "names": [
+                "PC_7",
+                "PWM3/2",
+                "UART6_RX"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "f90b4a94-d39c-40ce-b293-539e62b2a0a5": {
+            "direction": "bidirectional",
+            "names": [
+                "PG_8",
+                "UART6_RTS",
+                "SPI6_CS"
+            ],
+            "primary_name": "38",
+            "swap_group": 0
+        },
+        "f989a361-5abc-4320-96de-f512c9acdb95": {
+            "direction": "bidirectional",
+            "names": [
+                "PB_15",
+                "PWM1/3M",
+                "SPI2_MOSI",
+                "OTG?"
+            ],
+            "primary_name": "58",
+            "swap_group": 0
+        },
+        "faa1c972-416d-4705-b27e-3bc32be92bd6": {
+            "direction": "bidirectional",
+            "names": [
+                "PE_15"
+            ],
+            "primary_name": "27",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d755de6d-7019-42b4-88d4-e1f3d5de432b"
+}

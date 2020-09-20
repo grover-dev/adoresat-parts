@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "3e742bfb-d34e-43bf-9b7b-38b962515de8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d755de6d-7019-42b4-88d4-e1f3d5de432b"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "Nucleo-144-CN12-Header",
+    "prefix": "C",
+    "tags": [
+        "connector",
+        "pin"
+    ],
+    "type": "entity",
+    "uuid": "94322518-d4c1-4d3b-bcde-abdd0d8d11ca"
+}
