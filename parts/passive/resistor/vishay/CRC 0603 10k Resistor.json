@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRCW06031K"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "12f0427c-1304-4f25-b5d2-ee32dafa2cdf": "CRCW060310K0FKEB"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "10000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "47200055-bc2d-4ee0-baae-58d04a1579ae",
+    "value": [
+        false,
+        "10k ohm"
+    ]
+}
