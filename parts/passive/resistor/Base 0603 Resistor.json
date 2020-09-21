@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "Base 0603 Resistor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "0c6f5ea3-c601-4b00-b985-6db23ce77246",
+    "pad_map": {
+        "5eb3d31f-6cc4-43f5-a1e0-6ff6d5834e89": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "dbd0c5ca-3d47-4dc1-9012-bed19d601c53": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "value": [
+        false,
+        ""
+    ]
+}
