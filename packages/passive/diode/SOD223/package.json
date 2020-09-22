@@ -1,0 +1,245 @@
+{
+    "arcs": {},
+    "default_model": "b70702c9-491f-4819-a808-16c416f94998",
+    "dimensions": {},
+    "junctions": {
+        "3d1faec4-d8af-4c47-a30e-ad15ce241b06": {
+            "position": [
+                0,
+                895000
+            ]
+        },
+        "69a31d35-5a1e-4382-8111-0d7bd242608d": {
+            "position": [
+                -1875000,
+                -895000
+            ]
+        },
+        "6eff7bb7-d183-4988-8874-9ee3f3b034fc": {
+            "position": [
+                0,
+                -895000
+            ]
+        },
+        "9cdc469f-a116-406d-a386-ac2b30e4d8f8": {
+            "position": [
+                -362365,
+                895000
+            ]
+        },
+        "a3cd9e51-dc2a-4ab6-ac41-10663f555b3a": {
+            "position": [
+                -1875000,
+                895000
+            ]
+        },
+        "d851371d-f844-4055-aaf8-cdb44064f732": {
+            "position": [
+                -362365,
+                -895000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "0cab96e3-6550-42f0-a21b-b392ba323881": {
+            "from": "9cdc469f-a116-406d-a386-ac2b30e4d8f8",
+            "layer": 20,
+            "to": "a3cd9e51-dc2a-4ab6-ac41-10663f555b3a",
+            "width": 150000
+        },
+        "26649263-b3fc-41cc-ade7-90ca2fd2f142": {
+            "from": "69a31d35-5a1e-4382-8111-0d7bd242608d",
+            "layer": 20,
+            "to": "d851371d-f844-4055-aaf8-cdb44064f732",
+            "width": 150000
+        },
+        "340cf272-e734-44f1-9ced-9f2ed80bdbaf": {
+            "from": "9cdc469f-a116-406d-a386-ac2b30e4d8f8",
+            "layer": 20,
+            "to": "3d1faec4-d8af-4c47-a30e-ad15ce241b06",
+            "width": 150000
+        },
+        "49a3f6b1-657f-4547-b213-48ca3e7568c0": {
+            "from": "d851371d-f844-4055-aaf8-cdb44064f732",
+            "layer": 20,
+            "to": "6eff7bb7-d183-4988-8874-9ee3f3b034fc",
+            "width": 150000
+        },
+        "e7e76f79-5323-44a8-9d03-2792373dd9ea": {
+            "from": "a3cd9e51-dc2a-4ab6-ac41-10663f555b3a",
+            "layer": 20,
+            "to": "69a31d35-5a1e-4382-8111-0d7bd242608d",
+            "width": 150000
+        }
+    },
+    "manufacturer": "Kingbright",
+    "models": {
+        "b70702c9-491f-4819-a808-16c416f94998": {
+            "filename": "3d_models/passive/diode/D_0805_LED.STEP",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 40000
+        }
+    },
+    "name": "LEDM4025X22",
+    "pads": {
+        "1459de98-daaa-4d20-8ae2-7cb20a56546c": {
+            "name": "1",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 260000,
+                "pad_height": 1340000,
+                "pad_width": 1280000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -900000,
+                    0
+                ]
+            }
+        },
+        "c3d14873-3286-48dd-8424-b1732f2d5793": {
+            "name": "2",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 260000,
+                "pad_height": 1340000,
+                "pad_width": 1280000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    900000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "8fcb139e-fe63-4bb3-85d1-b36dd612fd8b": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1570000,
+                        -640000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1570000,
+                        640000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1570000,
+                        640000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1570000,
+                        -640000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "b6445b3e-cc07-4b3a-8b96-809f1394b1cd": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1000000,
+                        -620000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1000000,
+                        -620000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1000000,
+                        620000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1000000,
+                        620000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "diode",
+        "ledm",
+        "smd"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "c32f06f3-b8bc-4db8-9d0a-bf8d497b3c41"
+}

@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "AP2012"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/216/ap2012serieskb-1173158.pdf"
+    ],
+    "description": [
+        false,
+        "Red Diffused LED"
+    ],
+    "entity": "f1d140d8-5265-4c7f-9989-f1c1b2e6f94c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Kingbright"
+    ],
+    "model": "b70702c9-491f-4819-a808-16c416f94998",
+    "orderable_MPNs": {
+        "92d56637-054b-492c-966d-845aef0f1ba1": "AP2012HD"
+    },
+    "package": "c32f06f3-b8bc-4db8-9d0a-bf8d497b3c41",
+    "pad_map": {
+        "1459de98-daaa-4d20-8ae2-7cb20a56546c": {
+            "gate": "44be7d00-923d-4d8b-abb4-f30ac18b4d8f",
+            "pin": "b4784524-943e-4aab-bbce-61ecc393947e"
+        },
+        "c3d14873-3286-48dd-8424-b1732f2d5793": {
+            "gate": "44be7d00-923d-4d8b-abb4-f30ac18b4d8f",
+            "pin": "88e7a1e4-5d0f-4dba-ba5b-5f41e39451f8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "LED",
+        "ic",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "2e2dc7aa-fcd3-414a-a00b-ad634d9f00e3",
+    "value": [
+        false,
+        "Red - 0805 - Vf 2V"
+    ]
+}

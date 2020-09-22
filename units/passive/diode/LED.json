@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "LED",
+    "pins": {
+        "88e7a1e4-5d0f-4dba-ba5b-5f41e39451f8": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "b4784524-943e-4aab-bbce-61ecc393947e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e57dc3f1-8f49-42b0-9ab7-b8253193f799"
+}
