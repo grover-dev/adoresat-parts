@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "44be7d00-923d-4d8b-abb4-f30ac18b4d8f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e57dc3f1-8f49-42b0-9ab7-b8253193f799"
+        }
+    },
+    "manufacturer": "",
+    "name": "LED",
+    "prefix": "D",
+    "tags": [
+        "LED",
+        "diode",
+        "generic",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "f1d140d8-5265-4c7f-9989-f1c1b2e6f94c"
+}
