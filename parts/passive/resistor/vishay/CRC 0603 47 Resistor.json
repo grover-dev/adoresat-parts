@@ -1,12 +1,12 @@
 {
     "MPN": [
         false,
-        "CRCW060310KR"
+        "CRCW060347R"
     ],
     "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
     "datasheet": [
         false,
-        "https://www.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
+        "https://www.mouser.com/datasheet/2/427/crcwce3-1762584.pdf"
     ],
     "description": [
         false,
@@ -20,19 +20,19 @@
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "orderable_MPNs": {
-        "12f0427c-1304-4f25-b5d2-ee32dafa2cdf": "CRCW060310K0FKEB"
+        "9b87f632-ef6b-4d1d-9244-ad9f2cde78af": "CRCW060347R0JNEAC"
     },
     "parametric": {
-        "pmax": "1",
+        "pmax": "0.1",
         "table": "resistors",
-        "tolerance": "1",
-        "value": "10000"
+        "tolerance": "5",
+        "value": "47"
     },
     "tags": [],
     "type": "part",
-    "uuid": "47200055-bc2d-4ee0-baae-58d04a1579ae",
+    "uuid": "cd5a2411-9283-48fe-b4f2-3f7f9b4eae52",
     "value": [
         false,
-        "10k ohm"
+        "47 ohm"
     ]
 }
