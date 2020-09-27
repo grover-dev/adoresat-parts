@@ -9,7 +9,7 @@
     },
     "manufacturer": "ST",
     "name": "Nucleo-144-CN12-Header",
-    "prefix": "C",
+    "prefix": "J",
     "tags": [
         "connector",
         "pin"
