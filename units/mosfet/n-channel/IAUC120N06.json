@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Infineon",
+    "name": "IAUC120N06",
+    "pins": {
+        "52b2b4f0-161b-496a-9f7f-d9cacdcafee7": {
+            "direction": "power_output",
+            "names": [
+                "Source"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "856f6297-0095-42fe-a81b-fe75a1f47b95": {
+            "direction": "input",
+            "names": [
+                "Drain"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "b99ec37c-ef73-400f-ad55-530bbb9c4c1d": {
+            "direction": "input",
+            "names": [
+                "Gate"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "35ca03d7-37f5-4f69-bbb3-abde3d8f2db9"
+}

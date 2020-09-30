@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "90edf805-9db2-4007-9ab5-4edb2dff3ebf": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "35ca03d7-37f5-4f69-bbb3-abde3d8f2db9"
+        }
+    },
+    "manufacturer": "Infineon",
+    "name": "IAUC120N06",
+    "prefix": "Q",
+    "tags": [
+        "mosfet"
+    ],
+    "type": "entity",
+    "uuid": "7256c094-66ae-464c-8238-a65a5569468a"
+}

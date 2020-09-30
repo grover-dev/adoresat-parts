@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "IAUC120N06"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/196/Infineon_IAUC120N06S5L032_DataSheet_v01_00_EN-1901231.pdf"
+    ],
+    "description": [
+        false,
+        "60V, 120A Mosfet"
+    ],
+    "entity": "7256c094-66ae-464c-8238-a65a5569468a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Infineon"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "b545ebb2-a804-4ab3-acb7-1f0dad84e91d": "IAUC120N06S5L032ATMA1"
+    },
+    "package": "a1e0e059-3521-4638-b621-7a347bd1b3ac",
+    "pad_map": {
+        "2f552596-2a62-4aa6-b601-70996a944994": {
+            "gate": "90edf805-9db2-4007-9ab5-4edb2dff3ebf",
+            "pin": "52b2b4f0-161b-496a-9f7f-d9cacdcafee7"
+        },
+        "77062efa-0a87-45d2-b8cd-9321839d7126": {
+            "gate": "90edf805-9db2-4007-9ab5-4edb2dff3ebf",
+            "pin": "b99ec37c-ef73-400f-ad55-530bbb9c4c1d"
+        },
+        "84ae3694-78e7-4c24-9dd0-26ae24e540b6": {
+            "gate": "90edf805-9db2-4007-9ab5-4edb2dff3ebf",
+            "pin": "856f6297-0095-42fe-a81b-fe75a1f47b95"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet"
+    ],
+    "type": "part",
+    "uuid": "e9d281b2-a6a1-4c43-8c72-54d6652b961f",
+    "value": [
+        false,
+        "60V, 120A"
+    ]
+}
