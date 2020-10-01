@@ -1,0 +1,392 @@
+{
+    "manufacturer": "TI",
+    "name": "DRV8323RS-RGZ",
+    "pins": {
+        "016e64bd-8fac-4c2d-b481-9b0741206912": {
+            "direction": "output",
+            "names": [
+                "SOC"
+            ],
+            "primary_name": "23",
+            "swap_group": 0
+        },
+        "04c8c97b-dcb5-4075-a770-368e4bd1828c": {
+            "direction": "output",
+            "names": [
+                "SW"
+            ],
+            "primary_name": "45",
+            "swap_group": 0
+        },
+        "0fede42a-e995-4f4f-b1b1-28f6e556b1dd": {
+            "direction": "input",
+            "names": [
+                "VDRAIN"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "13264f1f-6373-4dbf-af4d-e6bca83ada08": {
+            "direction": "passive",
+            "names": [
+                "PGND"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "141a45fa-3ddf-4e22-8b32-35faa7193520": {
+            "direction": "output",
+            "names": [
+                "GHB"
+            ],
+            "primary_name": "17",
+            "swap_group": 0
+        },
+        "18832fe7-67e7-47fd-a6d5-4ff62759669e": {
+            "direction": "input",
+            "names": [
+                "CAL"
+            ],
+            "primary_name": "34",
+            "swap_group": 0
+        },
+        "1a7d288d-fd42-47f5-bf18-1cc069d3d01e": {
+            "direction": "input",
+            "names": [
+                "SCLK"
+            ],
+            "primary_name": "31",
+            "swap_group": 0
+        },
+        "262c21cd-d041-4493-86f2-def2a8dba776": {
+            "direction": "input",
+            "names": [
+                "SPB"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "2c8ad43f-ad87-486b-a64b-edc1e70c7bbd": {
+            "direction": "input",
+            "names": [
+                "SNB"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "2d3b545c-506d-42ae-98d8-37925964621a": {
+            "direction": "input",
+            "names": [
+                "SNC"
+            ],
+            "primary_name": "22",
+            "swap_group": 0
+        },
+        "31e68971-10b9-4069-bacc-4b24660b4c44": {
+            "direction": "output",
+            "names": [
+                "SOA"
+            ],
+            "primary_name": "25",
+            "swap_group": 0
+        },
+        "349a6c6c-83fd-4480-8e28-a591df573af4": {
+            "direction": "output",
+            "names": [
+                "nFAULT"
+            ],
+            "primary_name": "28",
+            "swap_group": 0
+        },
+        "364df65c-e73b-44f5-bd02-fb91290055d6": {
+            "direction": "output",
+            "names": [
+                "GHA"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "3954ce79-317b-4f42-8188-465beea43eea": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "46",
+            "swap_group": 0
+        },
+        "404dd423-bab2-4850-b63f-b07993e1cb47": {
+            "direction": "passive",
+            "names": [
+                "CPH"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "4501fa3d-35ec-4f3e-b859-8d9848c7ddbc": {
+            "direction": "output",
+            "names": [
+                "GHC"
+            ],
+            "primary_name": "18",
+            "swap_group": 0
+        },
+        "6ba8d3b9-35b8-4e34-8a07-3d9fa3722f0b": {
+            "direction": "input",
+            "names": [
+                "FB"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "76528cef-58de-44bd-8318-0276c66dcb21": {
+            "direction": "input",
+            "names": [
+                "SDI"
+            ],
+            "primary_name": "30",
+            "swap_group": 0
+        },
+        "8314b08e-db83-4116-90c1-7f663484ac44": {
+            "direction": "input",
+            "names": [
+                "INLA"
+            ],
+            "primary_name": "38",
+            "swap_group": 0
+        },
+        "85283b9a-1bf2-446e-8249-e0e6f9190ecc": {
+            "direction": "input",
+            "names": [
+                "SHB"
+            ],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "864a4d63-dfa6-4a1d-9e0a-dea136387d08": {
+            "direction": "input",
+            "names": [
+                "SPA"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "86fc886f-7c5b-486a-b7cf-1b5371dca809": {
+            "direction": "input",
+            "names": [
+                "SNA"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "92986f1d-80ea-41d4-8c39-129a3e2d21a6": {
+            "direction": "power_output",
+            "names": [
+                "VCP"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "93f7900d-28bb-452e-9043-2da5548701fa": {
+            "direction": "input",
+            "names": [
+                "INHB"
+            ],
+            "primary_name": "39",
+            "swap_group": 0
+        },
+        "970e8781-988a-4506-bf13-22cc790a26b1": {
+            "direction": "passive",
+            "names": [
+                "BGND"
+            ],
+            "primary_name": "43",
+            "swap_group": 0
+        },
+        "9b482209-a2c8-49a5-9799-3e71930047b3": {
+            "direction": "output",
+            "names": [
+                "GLA"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "9cd86f6b-0332-449e-86b2-0a576c3b817d": {
+            "direction": "input",
+            "names": [
+                "INLB"
+            ],
+            "primary_name": "40",
+            "swap_group": 0
+        },
+        "a4c7ee72-1fbd-4b7d-ad5b-7ebb69112795": {
+            "direction": "passive",
+            "names": [
+                "AGND"
+            ],
+            "primary_name": "35",
+            "swap_group": 0
+        },
+        "a7b9bb5e-ff63-4a60-841b-0d96ab849b2e": {
+            "direction": "output",
+            "names": [
+                "SDO"
+            ],
+            "primary_name": "29",
+            "swap_group": 0
+        },
+        "b4021482-8c74-45b2-bb5c-15a8a4e3a389": {
+            "direction": "output",
+            "names": [
+                "GLB"
+            ],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "c01862ec-c836-41e6-b6f2-d16e979b89e1": {
+            "direction": "power_input",
+            "names": [
+                "VIN"
+            ],
+            "primary_name": "47",
+            "swap_group": 0
+        },
+        "c0cda87f-9b88-4c2d-ab3f-487ec7a1700c": {
+            "direction": "input",
+            "names": [
+                "SPC"
+            ],
+            "primary_name": "21",
+            "swap_group": 0
+        },
+        "c7b915cd-d075-40cd-8978-2d7348f94176": {
+            "direction": "input",
+            "names": [
+                "nSCS"
+            ],
+            "primary_name": "32",
+            "swap_group": 0
+        },
+        "d0a531f1-1908-4ec0-9046-bb3e942b7bb9": {
+            "direction": "passive",
+            "names": [
+                "CPL"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "d4fca0bc-4b57-45ca-bb38-05ad8c048e0b": {
+            "direction": "input",
+            "names": [
+                "SHC"
+            ],
+            "primary_name": "19",
+            "swap_group": 0
+        },
+        "d5b2b126-3761-4441-9cd3-e4a15c274122": {
+            "direction": "power_input",
+            "names": [
+                "VM"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "d7de4ace-f4bd-4e9b-a277-32eac4d696c3": {
+            "direction": "input",
+            "names": [
+                "ENABLE"
+            ],
+            "primary_name": "33",
+            "swap_group": 0
+        },
+        "d97bb69f-8030-4bf8-b92b-0aa9dfd02a17": {
+            "direction": "output",
+            "names": [
+                "GLC"
+            ],
+            "primary_name": "20",
+            "swap_group": 0
+        },
+        "da946a37-abbc-493a-8932-985f550c02e7": {
+            "direction": "input",
+            "names": [
+                "CB"
+            ],
+            "primary_name": "44",
+            "swap_group": 0
+        },
+        "e3933c01-5722-47d3-8896-32f7c411c733": {
+            "direction": "power_input",
+            "names": [
+                "nSHDN"
+            ],
+            "primary_name": "48",
+            "swap_group": 0
+        },
+        "e3dc4aab-4237-4721-a99e-4ba6f3361f96": {
+            "direction": "passive",
+            "names": [
+                "DGND"
+            ],
+            "primary_name": "27",
+            "swap_group": 0
+        },
+        "e76e50d6-5b6e-41f8-8f88-76e6fa75d30a": {
+            "direction": "power_input",
+            "names": [
+                "DVDD"
+            ],
+            "primary_name": "36",
+            "swap_group": 0
+        },
+        "eb9c8222-6d76-482b-9901-f60230f1489d": {
+            "direction": "input",
+            "names": [
+                "INHA"
+            ],
+            "primary_name": "37",
+            "swap_group": 0
+        },
+        "ecb5e31a-b7e0-45c2-8918-a6146704fc03": {
+            "direction": "output",
+            "names": [
+                "SOB"
+            ],
+            "primary_name": "24",
+            "swap_group": 0
+        },
+        "ef9cffb0-916b-4350-8bfe-d0fa51a0bbc5": {
+            "direction": "input",
+            "names": [
+                "INHC"
+            ],
+            "primary_name": "41",
+            "swap_group": 0
+        },
+        "f08e006d-ed42-4811-bffa-caf2d811db51": {
+            "direction": "input",
+            "names": [
+                "SHA"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "f3df73d3-3326-413b-bd33-4a1f25ceb1bf": {
+            "direction": "input",
+            "names": [
+                "INLC"
+            ],
+            "primary_name": "42",
+            "swap_group": 0
+        },
+        "f59af6b1-010a-4251-9261-3e70f1f2c2b4": {
+            "direction": "input",
+            "names": [
+                "VREF"
+            ],
+            "primary_name": "26",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "548e113f-300a-464b-afcb-3043cfbb32b3"
+}
