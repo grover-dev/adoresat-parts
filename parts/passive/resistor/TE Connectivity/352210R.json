@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "352210RJT"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/418/5/NG_DS_9_1773463_7_B-1113509.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "00334cc0-d4a7-46b8-9e8a-943960a5917e": "352210RJT"
+    },
+    "parametric": {
+        "pmax": "3",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "10"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "613382a2-8cfe-4207-b650-e38597a4be7c",
+    "value": [
+        false,
+        "10R"
+    ]
+}

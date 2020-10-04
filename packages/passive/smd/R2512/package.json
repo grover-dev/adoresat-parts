@@ -1,0 +1,214 @@
+{
+    "arcs": {},
+    "default_model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "dimensions": {},
+    "junctions": {
+        "13357d6a-a52b-48be-abc1-c188c02af6f9": {
+            "position": [
+                1184694,
+                1875000
+            ]
+        },
+        "35fb413d-752b-4b60-bcf2-3b5e7cf93065": {
+            "position": [
+                -1184694,
+                1875000
+            ]
+        },
+        "5b2c7ef5-8b72-4479-bb5f-2195bcd9ec77": {
+            "position": [
+                1184694,
+                -1875000
+            ]
+        },
+        "75ead978-16c8-41dd-b494-d4bb90d336a2": {
+            "position": [
+                -1184694,
+                -1875000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "4a3bd26a-4107-4a51-8c36-34a09b3c6b99": {
+            "from": "13357d6a-a52b-48be-abc1-c188c02af6f9",
+            "layer": 20,
+            "to": "35fb413d-752b-4b60-bcf2-3b5e7cf93065",
+            "width": 150000
+        },
+        "b81779de-fad2-4a65-8f2b-99de21182d66": {
+            "from": "75ead978-16c8-41dd-b494-d4bb90d336a2",
+            "layer": 20,
+            "to": "5b2c7ef5-8b72-4479-bb5f-2195bcd9ec77",
+            "width": 150000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "e5f9f686-392d-45db-8a15-2c626423d476": {
+            "filename": "3d_models/passive/resistor/R_2512_6432Metric.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "R2512",
+    "pads": {
+        "da40ac79-cf84-4ef6-8cbf-60bf79957a03": {
+            "name": "1",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 250000,
+                "pad_height": 2380000,
+                "pad_width": 3380000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -2410000,
+                    0
+                ]
+            }
+        },
+        "face92fa-83bb-4807-a3ab-d4c8b1a01cbe": {
+            "name": "2",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
+            "parameter_set": {
+                "corner_radius": 250000,
+                "pad_height": 2380000,
+                "pad_width": 3380000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    2410000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "86e804c4-1907-4b81-8569-6267d9968d39": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3180000,
+                        -1600000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3180000,
+                        -1600000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3180000,
+                        1600000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3180000,
+                        1600000
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "a9c933ad-4ce7-4837-9e60-8b5e0808284f": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3600000,
+                        -1690000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -3600000,
+                        1690000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3600000,
+                        1690000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3600000,
+                        -1690000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "tags": [
+        "generic",
+        "smd"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "1a92a779-3e70-4488-aa10-9b90d3550fa3"
+}
