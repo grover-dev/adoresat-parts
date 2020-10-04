@@ -769,6 +769,23 @@
                 -35000000
             ]
         },
+        "e78a0e63-4203-4430-aed2-a63c62f50567": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -75000000
+            ]
+        },
         "eb9c8222-6d76-482b-9901-f60230f1489d": {
             "decoration": {
                 "clock": false,

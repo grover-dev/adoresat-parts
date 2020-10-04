@@ -338,6 +338,14 @@
             "primary_name": "36",
             "swap_group": 0
         },
+        "e78a0e63-4203-4430-aed2-a63c62f50567": {
+            "direction": "passive",
+            "names": [
+                "Pad"
+            ],
+            "primary_name": "49",
+            "swap_group": 0
+        },
         "eb9c8222-6d76-482b-9901-f60230f1489d": {
             "direction": "input",
             "names": [
