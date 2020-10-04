@@ -181,7 +181,7 @@
             "width": 150000
         }
     },
-    "manufacturer": "",
+    "manufacturer": "TI",
     "models": {
         "4d1857b8-9125-45dc-883a-f11937411bad": {
             "filename": "3d_models/TI/DRV8323RHRGZR.STEP",
@@ -515,6 +515,22 @@
                 "shift": [
                     -250000,
                     3430000
+                ]
+            }
+        },
+        "671aaafa-d2d5-470d-be92-16a0552c34ba": {
+            "name": "49",
+            "padstack": "549ce255-6721-44db-9d47-ec07764772ca",
+            "parameter_set": {
+                "pad_height": 5150000,
+                "pad_width": 5150000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
                 ]
             }
         },

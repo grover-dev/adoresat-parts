@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "Base 2512 Resistor"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "package": "1a92a779-3e70-4488-aa10-9b90d3550fa3",
+    "pad_map": {
+        "da40ac79-cf84-4ef6-8cbf-60bf79957a03": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "face92fa-83bb-4807-a3ab-d4c8b1a01cbe": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "pmax": "0",
+        "table": "resistors",
+        "tolerance": "0",
+        "value": "0"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "value": [
+        false,
+        ""
+    ]
+}
