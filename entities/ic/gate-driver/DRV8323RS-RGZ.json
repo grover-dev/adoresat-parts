@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "41779670-8310-45fe-8598-21774ea6066c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "548e113f-300a-464b-afcb-3043cfbb32b3"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "DRV8323RS-RGZ",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mosfet driver"
+    ],
+    "type": "entity",
+    "uuid": "08412da1-24cd-4669-b319-7eb2a7fe5bd7"
+}
