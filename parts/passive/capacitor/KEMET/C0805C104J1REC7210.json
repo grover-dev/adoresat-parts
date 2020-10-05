@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "C0805C473KMREC7210"
+        "C0805C104J1REC7210"
     ],
     "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
     "datasheet": [
@@ -13,27 +13,27 @@
         "Multilayer Ceramic Capacitor"
     ],
     "inherit_model": true,
-    "inherit_tags": false,
+    "inherit_tags": true,
     "manufacturer": [
         false,
         "KEMET"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "orderable_MPNs": {
-        "4bcbcbc5-6962-4a38-8ee5-c566fbbd3574": "C0805C473KMREC7210"
+        "e11c822d-e887-46bc-bf62-7f96470600c4": "C0805C104J1REC7210"
     },
     "parametric": {
         "table": "capacitors",
-        "tolerance": "10",
+        "tolerance": "5",
         "type": "X7R",
-        "value": "4.7e-08",
-        "wvdc": "63"
+        "value": "1e-07",
+        "wvdc": "100"
     },
     "tags": [],
     "type": "part",
-    "uuid": "d3a64174-fb6d-4b39-822e-8bb32b566625",
+    "uuid": "376c02a6-a312-4e3a-9434-24c2e4a78d25",
     "value": [
         false,
-        "63 V - 47 nF - 10%"
+        "100 V - 0.1 uF - 5%"
     ]
 }
