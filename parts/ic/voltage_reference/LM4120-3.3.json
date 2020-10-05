@@ -54,6 +54,7 @@
     "uuid": "e8392bf8-7bd3-4c96-a907-721d98dc7146",
     "value": [
         false,
-        "3.3V Out - 14V Max In"
+        "LM4120-3.3VRef"
+
     ]
 }
