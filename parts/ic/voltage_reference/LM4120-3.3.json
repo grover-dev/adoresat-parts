@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "LM4120-3.3"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/lm4120.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1601869012172&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "3.3v Voltage Reference"
+    ],
+    "entity": "2bb6926a-c234-4849-9789-b287c2d56762",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
+    "orderable_MPNs": {
+        "ef660486-2311-4c34-b496-858b0d859066": "LM4120AIM5-3.3"
+    },
+    "package": "ab6e7991-6c9a-4f14-bc66-417c204102fb",
+    "pad_map": {
+        "179a087b-d304-4651-bd68-1f15c3ebe954": {
+            "gate": "7b136ad5-6559-4fa9-b819-a510c590058b",
+            "pin": "1c7c7508-338b-4397-a56f-74dc00f3ca25"
+        },
+        "87131a04-8d87-4cfe-9178-f63fb5899e0b": {
+            "gate": "7b136ad5-6559-4fa9-b819-a510c590058b",
+            "pin": "53796a9c-0dc9-4d64-a590-b8387549b2ac"
+        },
+        "b082c171-3282-4658-8898-f044e6b9ec35": {
+            "gate": "7b136ad5-6559-4fa9-b819-a510c590058b",
+            "pin": "f53fe69c-436d-4fbf-b9d3-4fb0a26b0bae"
+        },
+        "c032eef1-5692-4058-844a-cccf16c4a445": {
+            "gate": "7b136ad5-6559-4fa9-b819-a510c590058b",
+            "pin": "21a9c365-45f4-4bf1-a461-e5728f2ff523"
+        },
+        "cc906a02-fc3b-4758-bca6-306a7e1d336e": {
+            "gate": "7b136ad5-6559-4fa9-b819-a510c590058b",
+            "pin": "23d7e033-211f-4185-86d2-ced235ec4f23"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage reference"
+    ],
+    "type": "part",
+    "uuid": "e8392bf8-7bd3-4c96-a907-721d98dc7146",
+    "value": [
+        false,
+        "LM4120-3.3VRef"
+    ]
+}
