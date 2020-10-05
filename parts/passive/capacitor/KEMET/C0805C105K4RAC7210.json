@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C0805C105K4RAC7210"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "15dfc496-447f-4195-9a47-bcb903308334": "C0805C105K4RAC7210"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-06",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "3d50a7c9-b6b7-48ae-bd04-7d8027c6f1c7",
+    "value": [
+        false,
+        "16 V - 1 uF - 10%"
+    ]
+}
