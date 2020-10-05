@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "08051C105K4Z2A"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/40/AutoMLCC-777028.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "AVX"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "632fff2e-3086-49ba-a76e-327915d9550a": "08051C105K4Z2A"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-06",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "84b60df8-d141-413e-bce3-a6c6268dc87f",
+    "value": [
+        false,
+        "100 V - 1uF - 10%"
+    ]
+}
