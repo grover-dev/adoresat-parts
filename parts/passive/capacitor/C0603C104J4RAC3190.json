@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C0603C104J4RAC3190"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Cermaaic Capacitors"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "afeafcaf-3da4-41c7-9411-13488e7050dd": "C0603C104J4RAC3190"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "871e0537-4093-451d-a4b4-dc18185d91ff",
+    "value": [
+        false,
+        "16V - 0.1 uF - 5%"
+    ]
+}
