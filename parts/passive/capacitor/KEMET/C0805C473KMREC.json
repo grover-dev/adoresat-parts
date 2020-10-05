@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C0805C473KMREC"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/212/1/KEM_C1090_X7R_ESD-1103328.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "4bcbcbc5-6962-4a38-8ee5-c566fbbd3574": "C0805C473KMREC7210"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "4.7e-08",
+        "wvdc": "63"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d3a64174-fb6d-4b39-822e-8bb32b566625",
+    "value": [
+        false,
+        "63 V - 47 nF - 10%"
+    ]
+}
