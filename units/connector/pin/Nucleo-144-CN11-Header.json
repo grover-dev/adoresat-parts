@@ -268,7 +268,7 @@
         "5d2fbd8b-60ad-41aa-874b-d0c4ad68afea": {
             "direction": "bidirectional",
             "names": [
-                "PD_3",
+                "PC_11",
                 "UART3_RX",
                 "SPI3_MISO"
             ],
