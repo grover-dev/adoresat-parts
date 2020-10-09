@@ -128,10 +128,10 @@
         "46abb159-42c9-4926-b621-9ce3518ed36c": {
             "direction": "bidirectional",
             "names": [
-                "PC_9",
+                "PB_8",
                 "CAN1_RD",
-                "PWM3/4",
-                "I2C3_SDA"
+                "PWM4/3",
+                "I2C1_SCL"
             ],
             "primary_name": "2",
             "swap_group": 0
