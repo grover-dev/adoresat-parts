@@ -1,0 +1,232 @@
+{
+    "arcs": {
+        "282a4032-362b-42fc-b40e-a6902eb4430e": {
+            "center": "7be080b6-7fca-44cb-91ef-f13507d9db34",
+            "from": "99ef38ac-8e89-40ce-bdea-598c3b689f3f",
+            "layer": 20,
+            "to": "d8e2c804-c66f-4524-b9e6-e131ea5c285b",
+            "width": 150000
+        },
+        "58f5b0b7-5720-460a-afa7-88d6746f861f": {
+            "center": "7be080b6-7fca-44cb-91ef-f13507d9db34",
+            "from": "99ef38ac-8e89-40ce-bdea-598c3b689f3f",
+            "layer": 60,
+            "to": "d8e2c804-c66f-4524-b9e6-e131ea5c285b",
+            "width": 150000
+        },
+        "a31401d8-fb71-4718-8877-98790463d071": {
+            "center": "7be080b6-7fca-44cb-91ef-f13507d9db34",
+            "from": "6f01f576-6d70-407a-8fd4-4d5e8f74eeb6",
+            "layer": 60,
+            "to": "a4c6b7bc-6a6e-40ee-87a0-da1b0c33c3d1",
+            "width": 150000
+        },
+        "daf63e71-fb86-4ed1-b794-b50ead20022b": {
+            "center": "7be080b6-7fca-44cb-91ef-f13507d9db34",
+            "from": "a4c6b7bc-6a6e-40ee-87a0-da1b0c33c3d1",
+            "layer": 60,
+            "to": "6f01f576-6d70-407a-8fd4-4d5e8f74eeb6",
+            "width": 150000
+        }
+    },
+    "default_model": "f706ed94-adc8-40cb-be82-f3a35f614ad2",
+    "dimensions": {},
+    "junctions": {
+        "6f01f576-6d70-407a-8fd4-4d5e8f74eeb6": {
+            "position": [
+                -5500000,
+                0
+            ]
+        },
+        "7be080b6-7fca-44cb-91ef-f13507d9db34": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "99ef38ac-8e89-40ce-bdea-598c3b689f3f": {
+            "position": [
+                0,
+                5500000
+            ]
+        },
+        "a4c6b7bc-6a6e-40ee-87a0-da1b0c33c3d1": {
+            "position": [
+                5500000,
+                0
+            ]
+        },
+        "d8e2c804-c66f-4524-b9e6-e131ea5c285b": {
+            "position": [
+                0,
+                -5500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {
+        "f706ed94-adc8-40cb-be82-f3a35f614ad2": {
+            "filename": "3d_models/passive/capacitor/Al-Radial-Can-D10H15P5mm.stp",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "Al-Radial-Can-D10H15P5",
+    "pads": {
+        "efdd2179-760e-4946-a916-360aa4381ba5": {
+            "name": "K",
+            "padstack": "982142aa-2883-4fd0-9b0b-37eb5a37dd35",
+            "parameter_set": {
+                "hole_diameter": 800000,
+                "pad_height": 1140000,
+                "pad_width": 1140000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    0
+                ]
+            }
+        },
+        "f1114d18-68fa-4e4e-aee6-23ded88fe340": {
+            "name": "A",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 800000,
+                "pad_diameter": 1140000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "5aff68bf-e3a6-4676-aa82-0441f10b62ff": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "f879d6de-2849-4a87-a5f0-4eb3d2d2083d": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "4b6074a5-a881-4c18-b955-017b223c324c"
+}
