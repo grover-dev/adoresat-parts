@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SRN5040-220M"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/bourns_SRN5040-1159409.pdf"
+    ],
+    "description": [
+        false,
+        "Fixed Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "24d8062c-143d-4986-bb86-9dfd0aa0c8b6",
+    "orderable_MPNs": {
+        "2f12457b-eb54-415c-81d7-ac4301463974": "SRN5040-220M"
+    },
+    "package": "19e8e5b6-6f2a-40e2-84f6-35a7da3af44a",
+    "pad_map": {
+        "56d68301-22f4-4e21-81b9-0e9dbcca0d0d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "b82fbaa2-69bb-4c16-9d93-e546daec1526": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.152",
+        "idc": "1.6",
+        "table": "inductors",
+        "value": "2.2e-05"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "41c696ad-4fcc-460e-a265-5ece6abbb213",
+    "value": [
+        false,
+        "22uH - 20% - 5040"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "JMK316AB7226KL"
+    ],
+    "base": "6f7f5dca-cda3-4015-a77b-85cd2e08ef2d",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "065193ab-b380-4d52-b072-a1617cf056fc": "JMK316AB7226KL-TR"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9d1b6020-fa6c-4fbb-8cb1-d36183839ee9",
+    "value": [
+        false,
+        "Base 1206 Capactior"
+    ]
+}
