@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "LM2576HVT-12"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2576hv"
+    ],
+    "description": [
+        false,
+        "Step Down Voltage Regulator"
+    ],
+    "entity": "a9bb450a-d510-4299-8f59-e5c10280ee10",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "d1ec22e3-1e2d-4e2d-a8a9-f707d99fac5a",
+    "orderable_MPNs": {
+        "d910604e-73a5-4f26-a7e2-951a4e28e67c": "LM2576HVT-12"
+    },
+    "package": "1a0731da-b282-45d7-8a94-bc99ba8b4867",
+    "pad_map": {
+        "2ff12ca3-174d-4520-bd74-5d829e6275d7": {
+            "gate": "bd46efed-dbf7-4246-bee3-b6973bb86ef5",
+            "pin": "f82503dc-a9ef-4c41-beb4-c930f80fb3d2"
+        },
+        "48b6f486-60d7-46f0-943f-f9fae4a787ed": {
+            "gate": "bd46efed-dbf7-4246-bee3-b6973bb86ef5",
+            "pin": "aacf73e3-e2ef-483a-9c05-a2c1cc089aab"
+        },
+        "5f5923d3-8efc-42ce-943e-943c4b09da31": {
+            "gate": "bd46efed-dbf7-4246-bee3-b6973bb86ef5",
+            "pin": "e9a762a2-e414-47f9-8bce-139350b5a503"
+        },
+        "9ab5becc-c1a1-43ea-a0c4-fd81cf6a8187": {
+            "gate": "bd46efed-dbf7-4246-bee3-b6973bb86ef5",
+            "pin": "a4ad8e1a-8031-44f0-b89f-91303ae5ce14"
+        },
+        "c4cd56a0-3daa-4ad2-a5c6-982632ef0467": {
+            "gate": "bd46efed-dbf7-4246-bee3-b6973bb86ef5",
+            "pin": "8986437a-dbdb-4db0-85a4-71d4d5884827"
+        },
+        "dc4b2e17-b4e7-41a2-88a9-ee4edfedcea0": {
+            "gate": "bd46efed-dbf7-4246-bee3-b6973bb86ef5",
+            "pin": "0d7a5d41-cda7-4ceb-bbfd-b85c04fc7f9d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "part",
+    "uuid": "1a2f6cb0-6482-4c0b-8e3a-ffd1196104ad",
+    "value": [
+        false,
+        "3A - 12V"
+    ]
+}

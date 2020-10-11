@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "RB061US-30TR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/348/rb061us-30tr-e-1869704.pdf"
+    ],
+    "description": [
+        false,
+        "Schottky Diode"
+    ],
+    "entity": "f8679578-fc16-46d5-9a28-14e8c96df3b2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ROHM"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "05ae7b0b-2e04-4d17-b126-f36f09d20ec8": "RB061US"
+    },
+    "package": "cd0872fc-3270-4c02-826c-f5e499ce94f7",
+    "pad_map": {
+        "234f3917-cad4-45f2-be5e-03e1b1bf2438": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "6cf9eb19-a143-4747-b5a1-b0a9cf7be778"
+        },
+        "2988c0b7-c332-4fdd-a045-be6b7f13f5bd": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "a3501f12-029c-4224-b1d3-bedd6819ca69"
+        },
+        "3bc367c8-ff08-411e-b743-6cb562ec002b": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "2761aec9-41c0-411e-8822-057b7901cf44"
+        },
+        "57a175b5-9057-44d7-b1df-01af5a5146dd": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "0cae47c3-64e2-4f26-984b-4085f1b085cb"
+        },
+        "58ada6b4-ca29-45d0-a224-31b469edf6ec": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "936efeb8-2df4-4c78-b749-5046075fa87a"
+        },
+        "60ec8a2b-dc9f-4b61-9dab-e34b6f7971d7": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "439cde2c-27cf-4fb3-8ecd-a7984b276b08"
+        },
+        "72010f0a-a68e-419c-a170-fee8a7c9fa31": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "186d2f07-fef8-4fe9-9de1-c0ce3d8c84c8"
+        },
+        "be8d7d99-65c6-45a5-9e08-d90c92bed391": {
+            "gate": "0a19d587-1220-4528-9f26-55e620adf37b",
+            "pin": "dc963320-64f0-4b95-8c6e-f087174195fd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "schottky"
+    ],
+    "type": "part",
+    "uuid": "4114cb8e-70a0-4ed0-b02a-724f7cd63515",
+    "value": [
+        false,
+        "30 V - 2 A"
+    ]
+}
