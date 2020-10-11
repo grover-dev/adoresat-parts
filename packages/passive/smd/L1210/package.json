@@ -1,74 +1,6 @@
 {
-    "_imp": {
-        "grid_spacing": 1250000,
-        "layer_display": {
-            "layer_opacity": 50.0,
-            "layers": {
-                "-1": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-100": {
-                    "display_mode": "fill_only",
-                    "visible": true
-                },
-                "-110": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-120": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "-130": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-140": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-150": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "-160": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "0": {
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "10": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "20": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "30": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "40": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "50": {
-                    "display_mode": "outline",
-                    "visible": true
-                },
-                "60": {
-                    "display_mode": "outline",
-                    "visible": true
-                }
-            }
-        }
-    },
     "arcs": {},
-    "default_model": "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f",
+    "default_model": "082373bc-8c37-4412-af8c-73fffd8e24b1",
     "dimensions": {},
     "junctions": {
         "197eaf05-3e4a-4b96-ba05-147ae4cfb3cc": {
@@ -113,6 +45,15 @@
     },
     "manufacturer": "",
     "models": {
+        "082373bc-8c37-4412-af8c-73fffd8e24b1": {
+            "filename": "3d_models/passive/inductor/Murata/LQH32DN221K23L.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        },
         "43bad17b-ab78-4d5a-8cc8-f5c0fcafe87f": {
             "filename": "3d_models/passive/inductor/L_1210_3225Metric.step",
             "pitch": 0,
