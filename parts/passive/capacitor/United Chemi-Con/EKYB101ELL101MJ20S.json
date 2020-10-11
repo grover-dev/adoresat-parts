@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "EKYB101ELL101MJ20S"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/420/al-kyb-e-2019-1799676.pdf"
+    ],
+    "description": [
+        false,
+        "Aluminum Electrolytic Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "United Chemi-Con"
+    ],
+    "model": "f706ed94-adc8-40cb-be82-f3a35f614ad2",
+    "orderable_MPNs": {
+        "707cfcc7-d73e-4b06-b98b-8812eda147f9": "EKYB101ELL101MJ20S"
+    },
+    "package": "4b6074a5-a881-4c18-b955-017b223c324c",
+    "pad_map": {
+        "efdd2179-760e-4946-a916-360aa4381ba5": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "f1114d18-68fa-4e4e-aee6-23ded88fe340": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.0001",
+        "wvdc": "100"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "b834a977-8614-4178-91c6-b9aa0c5568ac",
+    "value": [
+        false,
+        "100 uF - 100V - 20%"
+    ]
+}
