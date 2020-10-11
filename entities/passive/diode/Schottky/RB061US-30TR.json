@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "0a19d587-1220-4528-9f26-55e620adf37b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e839ea82-8bd3-41d7-95f8-809b17747b1c"
+        }
+    },
+    "manufacturer": "ROHM",
+    "name": "RB061US-30TR",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "f8679578-fc16-46d5-9a28-14e8c96df3b2"
+}
