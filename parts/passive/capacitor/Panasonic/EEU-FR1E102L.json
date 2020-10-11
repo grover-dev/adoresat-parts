@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "EEU-FR1E102L"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/ABA0000C1022-1144690.pdf"
+    ],
+    "description": [
+        false,
+        "Aluminum ELectrolytic Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "f706ed94-adc8-40cb-be82-f3a35f614ad2",
+    "orderable_MPNs": {
+        "9b38101f-623b-4f70-aa90-6a748dcdd766": "EEU-FR1E102L"
+    },
+    "package": "4b6074a5-a881-4c18-b955-017b223c324c",
+    "pad_map": {
+        "efdd2179-760e-4946-a916-360aa4381ba5": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "f1114d18-68fa-4e4e-aee6-23ded88fe340": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.001",
+        "wvdc": "25"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "c772c858-3e80-4245-9332-ed118b8f6724",
+    "value": [
+        false,
+        "25 V - 1000 uF - 20%"
+    ]
+}
