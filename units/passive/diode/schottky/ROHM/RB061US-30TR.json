@@ -1,0 +1,68 @@
+{
+    "manufacturer": "ROHM",
+    "name": "RB061US-30TR",
+    "pins": {
+        "0cae47c3-64e2-4f26-984b-4085f1b085cb": {
+            "direction": "output",
+            "names": [
+                "Cathode"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "186d2f07-fef8-4fe9-9de1-c0ce3d8c84c8": {
+            "direction": "output",
+            "names": [
+                "Cathode"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "2761aec9-41c0-411e-8822-057b7901cf44": {
+            "direction": "input",
+            "names": [
+                "Anode"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "439cde2c-27cf-4fb3-8ecd-a7984b276b08": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "6cf9eb19-a143-4747-b5a1-b0a9cf7be778": {
+            "direction": "input",
+            "names": [
+                "Anode"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "936efeb8-2df4-4c78-b749-5046075fa87a": {
+            "direction": "output",
+            "names": [
+                "Cathode"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "a3501f12-029c-4224-b1d3-bedd6819ca69": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "dc963320-64f0-4b95-8c6e-f087174195fd": {
+            "direction": "output",
+            "names": [
+                "Cathode"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e839ea82-8bd3-41d7-95f8-809b17747b1c"
+}
