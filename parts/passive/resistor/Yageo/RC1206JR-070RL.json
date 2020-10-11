@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "RC1206JR-070RL"
+    ],
+    "base": "daef1a95-dcdd-470f-b133-cc707370330b",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/ProductDetail/Yageo/RC1206JR-070RL?qs=stZGH%252BcYwe4ZstaKNiOb8Q%3D%3D"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor Jumper"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "d6eca9b9-9a6a-4a86-9c30-44fbe83723e6": "RC1206JR-070RL"
+    },
+    "parametric": {
+        "pmax": "0.25",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "0"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "4dcff2e2-cf39-4f3e-95fc-2b2080e7355f",
+    "value": [
+        false,
+        "0 Ohm - 0.25 W - 5%"
+    ]
+}
