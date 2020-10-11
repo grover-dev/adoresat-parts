@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "1422455C"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/kmp_1400-38440.pdf"
+    ],
+    "description": [
+        false,
+        "Fixed Inductor - Large Package"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "cf217827-799b-4b4d-8d95-ea9e1e485ef4",
+    "orderable_MPNs": {
+        "837423ad-dce0-46a3-85c1-54086dd0491d": "1422455C"
+    },
+    "package": "139f7676-077a-4e41-b536-e240386d5b02",
+    "pad_map": {
+        "90071411-9357-42c5-b1bd-adb1e04c5c4f": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "973112c1-d6fb-4829-9242-449c7c77a71d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.062",
+        "idc": "5.5",
+        "table": "inductors",
+        "value": "0.00022"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "733336d8-069d-4dbc-aa41-e7d005931d03",
+    "value": [
+        false,
+        "220 uH - 10% -5.5 A"
+    ]
+}
