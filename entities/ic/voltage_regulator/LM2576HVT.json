@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "bd46efed-dbf7-4246-bee3-b6973bb86ef5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "421f2180-c881-4165-8ca3-436f5c6d9813"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "LM2576HVT",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "entity",
+    "uuid": "a9bb450a-d510-4299-8f59-e5c10280ee10"
+}
