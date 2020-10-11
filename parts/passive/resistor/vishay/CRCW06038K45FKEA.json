@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRCW06038K45FKEA"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf"
+    ],
+    "description": [
+        false,
+        "Thick FIlm Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "37e254d4-14e9-4e8f-bea7-f4b4ced83d29": "CRCW06038K45FKEA"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "8450"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ec58c203-5103-430d-ab8b-ec917e751f80",
+    "value": [
+        false,
+        "8.45K Ohms - 0.1 W - 1%"
+    ]
+}
