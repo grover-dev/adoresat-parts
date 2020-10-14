@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "0069231a-4a54-4647-8bd4-40e0a50ecb09",
     "dimensions": {},
     "junctions": {
         "1d654cce-93bb-448b-9140-93c30b0257f5": {
@@ -49,9 +49,19 @@
             "width": 150000
         }
     },
-    "manufacturer": "",
-    "models": {},
-    "name": "TDSON8",
+    "manufacturer": "Infineon",
+    "models": {
+        "0069231a-4a54-4647-8bd4-40e0a50ecb09": {
+            "filename": "3d_models/Maxim/PG-TDSON-8-1.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 100000,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "PG-TDSON-8-34",
     "pads": {
         "2f552596-2a62-4aa6-b601-70996a944994": {
             "name": "1",
