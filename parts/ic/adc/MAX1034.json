@@ -122,7 +122,10 @@
         }
     },
     "parametric": {},
-    "tags": [],
+    "tags": [
+        "adc",
+        "ic"
+    ],
     "type": "part",
     "uuid": "183d502b-de0b-4999-b198-ccdcecaf111f",
     "value": [
