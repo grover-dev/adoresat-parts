@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Maxim",
+    "name": "MAX6043",
+    "pins": {
+        "061d9151-5d51-4c0b-af6d-94d3a01bc5e7": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "0c68224a-9c2e-4056-8216-3ec3a513b0b6": {
+            "direction": "output",
+            "names": [
+                "OUTF"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "5ddee28b-f343-4b64-9ab0-899b5b2ee2f1": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "8772a92c-b8c2-411d-97fe-2c586dadba0c": {
+            "direction": "input",
+            "names": [
+                "IN"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "a1959522-d6bc-4a68-ae9a-05493b16bb12": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "dadd7f9e-82db-4356-bfd2-26cf797d0665": {
+            "direction": "output",
+            "names": [
+                "OUTS"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "6bf40c62-b208-4ae8-876d-e7f66ff6c660"
+}
