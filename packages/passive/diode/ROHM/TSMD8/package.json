@@ -2,9 +2,71 @@
     "arcs": {},
     "default_model": "00000000-0000-0000-0000-000000000000",
     "dimensions": {},
-    "junctions": {},
+    "junctions": {
+        "2d0a3c88-416e-4b73-88bc-3d9134ac2cef": {
+            "position": [
+                -2000000,
+                1200000
+            ]
+        },
+        "5db5878f-51da-4575-bc1a-1eb4947890df": {
+            "position": [
+                -1700000,
+                1200000
+            ]
+        },
+        "8d8b37ce-02f7-4e52-be1f-b581eb685af9": {
+            "position": [
+                -1700000,
+                1400000
+            ]
+        },
+        "bcebd9ec-24c6-4893-afa2-be1229678995": {
+            "position": [
+                -1700000,
+                -1400000
+            ]
+        },
+        "d644a18e-d05f-4aae-b219-0b5bea1698d7": {
+            "position": [
+                1700000,
+                -1400000
+            ]
+        },
+        "e75a8373-15c5-4665-af43-745a8c69a860": {
+            "position": [
+                1700000,
+                1400000
+            ]
+        }
+    },
     "keepouts": {},
-    "lines": {},
+    "lines": {
+        "a6c60dff-067f-4705-b6fd-bac42c28ac22": {
+            "from": "5db5878f-51da-4575-bc1a-1eb4947890df",
+            "layer": 20,
+            "to": "2d0a3c88-416e-4b73-88bc-3d9134ac2cef",
+            "width": 100000
+        },
+        "b91ee4be-c1af-4145-ae1c-c4fd7fc116e9": {
+            "from": "8d8b37ce-02f7-4e52-be1f-b581eb685af9",
+            "layer": 20,
+            "to": "e75a8373-15c5-4665-af43-745a8c69a860",
+            "width": 100000
+        },
+        "d5139fca-9d74-4fa3-99db-429dd8b8dc0b": {
+            "from": "8d8b37ce-02f7-4e52-be1f-b581eb685af9",
+            "layer": 20,
+            "to": "5db5878f-51da-4575-bc1a-1eb4947890df",
+            "width": 100000
+        },
+        "d97db4a4-ac54-40e6-84d1-2d00c33847e5": {
+            "from": "bcebd9ec-24c6-4893-afa2-be1229678995",
+            "layer": 20,
+            "to": "d644a18e-d05f-4aae-b219-0b5bea1698d7",
+            "width": 100000
+        }
+    },
     "manufacturer": "ROHM",
     "models": {},
     "name": "TSMD8",
@@ -259,7 +321,42 @@
         }
     },
     "tags": [],
-    "texts": {},
+    "texts": {
+        "1123fa46-a91e-4d4b-91b6-d02c6778ca2b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 16384,
+                "mirror": true,
+                "shift": [
+                    0,
+                    -200000
+                ]
+            },
+            "size": 200000,
+            "text": "$RD",
+            "width": 0
+        },
+        "628f4ff6-0bda-435f-8116-b67bb241510c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2190000,
+                    1800000
+                ]
+            },
+            "size": 500000,
+            "text": "$RD",
+            "width": 50000
+        }
+    },
     "type": "package",
     "uuid": "cd0872fc-3270-4c02-826c-f5e499ce94f7"
 }
