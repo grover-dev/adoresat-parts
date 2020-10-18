@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9152d7af-8660-4b97-93c3-9a3190f24762": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6bf40c62-b208-4ae8-876d-e7f66ff6c660"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX6043",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage reference"
+    ],
+    "type": "entity",
+    "uuid": "364ccde7-89b6-4f6c-8b17-8088859bf401"
+}

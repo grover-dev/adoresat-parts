@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "MAX6043CAUT33+T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/256/MAX6043-1389124.pdf"
+    ],
+    "description": [
+        false,
+        "MAX6043-3.3VRef"
+    ],
+    "entity": "364ccde7-89b6-4f6c-8b17-8088859bf401",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "6ad50f54-6f43-4665-ae19-580e45b7ddd4",
+    "orderable_MPNs": {
+        "7f35e864-37f4-4967-b5ec-94aecb542884": "MAX6043CAUT33+T"
+    },
+    "package": "1f55e78a-3f81-4491-ae91-0eadf32b12cc",
+    "pad_map": {
+        "027e6a27-2efb-41bd-86e9-45fb334f4c7f": {
+            "gate": "9152d7af-8660-4b97-93c3-9a3190f24762",
+            "pin": "dadd7f9e-82db-4356-bfd2-26cf797d0665"
+        },
+        "08b28e23-b784-4acc-be59-727a21e90dbd": {
+            "gate": "9152d7af-8660-4b97-93c3-9a3190f24762",
+            "pin": "5ddee28b-f343-4b64-9ab0-899b5b2ee2f1"
+        },
+        "12a38202-a697-4c31-9ad5-7a7faa6eefb3": {
+            "gate": "9152d7af-8660-4b97-93c3-9a3190f24762",
+            "pin": "0c68224a-9c2e-4056-8216-3ec3a513b0b6"
+        },
+        "8454885a-6fed-4a08-9d60-83fa10f940af": {
+            "gate": "9152d7af-8660-4b97-93c3-9a3190f24762",
+            "pin": "8772a92c-b8c2-411d-97fe-2c586dadba0c"
+        },
+        "d2681f70-d05a-477f-859e-000c28dc798e": {
+            "gate": "9152d7af-8660-4b97-93c3-9a3190f24762",
+            "pin": "061d9151-5d51-4c0b-af6d-94d3a01bc5e7"
+        },
+        "fa0fd076-9bb7-415a-b878-89dee025570c": {
+            "gate": "9152d7af-8660-4b97-93c3-9a3190f24762",
+            "pin": "a1959522-d6bc-4a68-ae9a-05493b16bb12"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage reference"
+    ],
+    "type": "part",
+    "uuid": "feae3a04-2e9f-4601-8a9e-3215740338bc",
+    "value": [
+        false,
+        "3.3v Voltage Reference - 40 V in"
+    ]
+}
