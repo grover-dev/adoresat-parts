@@ -208,7 +208,42 @@
         "generic",
         "smd"
     ],
-    "texts": {},
+    "texts": {
+        "39027bae-ac4d-412b-b578-1c445ef69503": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1250000,
+                    3750000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "64122d48-8289-4fa5-ae37-eb3b278d9cdc": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -420000,
+                    0
+                ]
+            },
+            "size": 300000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
     "type": "package",
     "uuid": "19e8e5b6-6f2a-40e2-84f6-35a7da3af44a"
 }
