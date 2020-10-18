@@ -239,7 +239,42 @@
         "ledm",
         "smd"
     ],
-    "texts": {},
+    "texts": {
+        "411515f9-a8dd-4573-ab9c-37e5b579e391": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1875000,
+                    1875000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "de0c7abd-6a80-4127-bd8f-647b61ab384e": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -375000,
+                    -875000
+                ]
+            },
+            "size": 300000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
     "type": "package",
     "uuid": "c32f06f3-b8bc-4db8-9d0a-bf8d497b3c41"
 }
