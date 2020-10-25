@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "CubeCoil"
+    ],
+    "base": "e5752f0a-ef56-425d-ab2b-416cd5fb4169",
+    "datasheet": [
+        true,
+        "https://www.cubesatshop.com/product/cubetorquer-and-cubecoil/"
+    ],
+    "description": [
+        true,
+        "Magnetorquer Actuator"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "CubeSatShop"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e31ed5f1-e51f-42ad-a0d4-29cfea6b74a9",
+    "value": [
+        false,
+        "83 Ohm - 60 mH"
+    ]
+}
