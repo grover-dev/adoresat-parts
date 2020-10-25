@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "16b9d880-0799-4cf7-ae16-9f1710b82d8c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "af5f4a75-fa88-4ca2-94db-478c1e869bca"
+        }
+    },
+    "manufacturer": "",
+    "name": "Two-terminal magnetorquer",
+    "prefix": "L",
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "3ea4faed-d6d3-4b65-8a0a-218c845e4fb4"
+}
