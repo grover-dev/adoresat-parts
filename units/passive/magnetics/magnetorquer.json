@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Two-terminal magnetorquer",
+    "pins": {
+        "231cd821-39b9-45ed-91c4-84711937224d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "ba80ca86-d85c-423b-9832-de6153238a7d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "af5f4a75-fa88-4ca2-94db-478c1e869bca"
+}

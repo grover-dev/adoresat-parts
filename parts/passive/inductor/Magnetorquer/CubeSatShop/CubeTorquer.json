@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "CubeTorquer"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cubesatshop.com/product/cubetorquer-and-cubecoil/"
+    ],
+    "description": [
+        false,
+        "Magnetorquer Actuator"
+    ],
+    "entity": "3ea4faed-d6d3-4b65-8a0a-218c845e4fb4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CubeSatShop"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c15f3352-5ffa-486a-84ec-d476f816f8bf",
+    "pad_map": {
+        "aa0ecf18-9128-4362-b17a-e79579e7ef8c": {
+            "gate": "16b9d880-0799-4cf7-ae16-9f1710b82d8c",
+            "pin": "231cd821-39b9-45ed-91c4-84711937224d"
+        },
+        "f29d863a-60c3-4a07-b32e-eff69fb5aacd": {
+            "gate": "16b9d880-0799-4cf7-ae16-9f1710b82d8c",
+            "pin": "ba80ca86-d85c-423b-9832-de6153238a7d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "actuator",
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "e5752f0a-ef56-425d-ab2b-416cd5fb4169",
+    "value": [
+        false,
+        "30 Ohm - 150 mH"
+    ]
+}
