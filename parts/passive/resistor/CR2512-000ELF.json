@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CR2512-000ELF"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "a2e8de48-76b8-48eb-aece-4de00b531ce4": "CR2512-J/-000ELF"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "411d58f7-f5ed-43b6-80fe-d24dcff17646",
+    "value": [
+        false,
+        "0 Ohm - 1 W - 5%"
+    ]
+}
