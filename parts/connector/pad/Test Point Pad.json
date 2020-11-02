@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "Test Point Pad"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "c4df9597-3f7e-4865-bb32-da681da2d84c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "1ba099de-e974-44e9-9f90-3183c56c4182",
+    "pad_map": {
+        "a6abf47c-1b4f-4004-a5dd-7839dedb3b84": {
+            "gate": "6c833929-9da1-48a1-9054-37132b1c41df",
+            "pin": "e9b7d346-06cf-4a41-bef7-1d204b1444be"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pad"
+    ],
+    "type": "part",
+    "uuid": "c4dc880f-fa70-40fb-a80a-4853e7e2f489",
+    "value": [
+        false,
+        ""
+    ]
+}

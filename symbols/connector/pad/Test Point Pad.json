@@ -1,0 +1,101 @@
+{
+    "arcs": {
+        "e3f8a41a-068c-482c-9a72-9f8d371d7a95": {
+            "center": "a4cb2526-8e32-4ec7-a053-2bbcdf7a075b",
+            "from": "d8d12416-b41e-4cfd-90db-ba45fd7b1f14",
+            "layer": 0,
+            "to": "634edbd5-1e09-4968-91ea-6b233489b34f",
+            "width": 0
+        },
+        "ec3a1210-6fe3-4294-a249-36e0709d42f2": {
+            "center": "a4cb2526-8e32-4ec7-a053-2bbcdf7a075b",
+            "from": "634edbd5-1e09-4968-91ea-6b233489b34f",
+            "layer": 0,
+            "to": "d8d12416-b41e-4cfd-90db-ba45fd7b1f14",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "634edbd5-1e09-4968-91ea-6b233489b34f": {
+            "position": [
+                -1250000,
+                0
+            ]
+        },
+        "a4cb2526-8e32-4ec7-a053-2bbcdf7a075b": {
+            "position": [
+                0,
+                1250000
+            ]
+        },
+        "d8d12416-b41e-4cfd-90db-ba45fd7b1f14": {
+            "position": [
+                1250000,
+                0
+            ]
+        }
+    },
+    "lines": {},
+    "name": "Test Point Pad",
+    "pins": {
+        "e9b7d346-06cf-4a41-bef7-1d204b1444be": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "down",
+            "pad_visible": false,
+            "position": [
+                0,
+                -3000000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "63f5509e-4108-4872-bb4a-c13b4e198d49": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    0
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "e812eaf8-b835-44d4-851f-f4d821f278b8": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "2c1d506e-7ada-4313-a3dd-8a4794c3baa4",
+    "uuid": "c419331b-e3d7-4129-98a2-4742f5b1221f"
+}
