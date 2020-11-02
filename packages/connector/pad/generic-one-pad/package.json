@@ -234,7 +234,42 @@
     "tags": [
         "connector"
     ],
-    "texts": {},
+    "texts": {
+        "128612f8-7e2f-4d55-ab8d-951c44a9a455": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7330000,
+                    70000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 200000
+        },
+        "187eba99-19d7-4271-ab6e-3a89b29dc704": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2830000,
+                    3170000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
     "type": "package",
     "uuid": "1ba099de-e974-44e9-9f90-3183c56c4182"
 }
