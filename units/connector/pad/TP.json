@@ -1,0 +1,16 @@
+{
+    "manufacturer": "",
+    "name": "Test Point Pad",
+    "pins": {
+        "e9b7d346-06cf-4a41-bef7-1d204b1444be": {
+            "direction": "passive",
+            "names": [
+                "A"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2c1d506e-7ada-4313-a3dd-8a4794c3baa4"
+}

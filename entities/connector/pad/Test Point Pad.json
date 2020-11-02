@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "6c833929-9da1-48a1-9054-37132b1c41df": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2c1d506e-7ada-4313-a3dd-8a4794c3baa4"
+        }
+    },
+    "manufacturer": "",
+    "name": "Test Point Pad",
+    "prefix": "TP",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "c4df9597-3f7e-4865-bb32-da681da2d84c"
+}
