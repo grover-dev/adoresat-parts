@@ -19,15 +19,15 @@
         ""
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
-    "package": "0c6f5ea3-c601-4b00-b985-6db23ce77246",
+    "package": "fe22ac1d-25b9-4a47-8414-51c990d7f94b",
     "pad_map": {
-        "5eb3d31f-6cc4-43f5-a1e0-6ff6d5834e89": {
-            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
-            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
-        },
-        "dbd0c5ca-3d47-4dc1-9012-bed19d601c53": {
+        "63256dd2-2eab-46fe-9201-b2e553476e98": {
             "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
             "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "6dd73a26-6e83-43b6-8317-09836acef67d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
         }
     },
     "parametric": {
