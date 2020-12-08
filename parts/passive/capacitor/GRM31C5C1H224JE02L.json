@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM31C5C1H224JE02L"
+    ],
+    "base": "6f7f5dca-cda3-4015-a77b-85cd2e08ef2d",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "601e5a5f-32dd-4baa-a61c-4f53c28bd7ad": "GRM31C5C1H224JE02L"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "5",
+        "type": "C0G/NP0",
+        "value": "2.2e-07",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "78a16d07-96c5-4b80-beb0-24051487490c",
+    "value": [
+        false,
+        "50 V - 0.22 uF - 5%"
+    ]
+}

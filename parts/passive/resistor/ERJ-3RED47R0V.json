@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "ERJ-3RED47R0V"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "5d6a8eee-1f5f-45e9-818a-fd5c731aabe2": "ERJ-3RED47R0V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "47"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "71d4fd6b-753b-4598-a2b4-8b1b51f7aa1e",
+    "value": [
+        false,
+        "47 Ohm - 0.1 W - 0.5%"
+    ]
+}
