@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4a675f84-bc02-4fbb-9f7d-3bfdb30bef27"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "INA821",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "ca98faa5-0b95-47f6-aad9-ad8118aadffa"
+}

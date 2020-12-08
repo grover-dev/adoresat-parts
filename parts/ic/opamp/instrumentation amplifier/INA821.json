@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "INA821"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina821.pdf?ts=1607232768575&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA821"
+    ],
+    "description": [
+        false,
+        "Precision Instrumentation Amplififer"
+    ],
+    "entity": "ca98faa5-0b95-47f6-aad9-ad8118aadffa",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "9f4f7189-672d-44a5-8192-6baee6a7f39e",
+    "orderable_MPNs": {
+        "01a9c78e-f463-4c84-ae28-3d8500b031c0": "INA821IDGKT"
+    },
+    "package": "199498cd-bb7f-4bdf-b2f4-7638e2c963de",
+    "pad_map": {
+        "061ae1be-bdc0-45ef-a088-4574d48180b9": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "5897bfb3-6cf2-4997-9b84-9a41af93c202"
+        },
+        "1bacd3c5-00f9-4416-a671-84d126140151": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "116b4700-0b16-441f-b166-c42815b4dbef"
+        },
+        "24d0d1f3-42aa-45d1-8bdc-cc938658bb28": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "949bec55-add4-429f-ac42-6828c53def31"
+        },
+        "322dfd7e-8537-421f-86a7-19c089ca9973": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "ddf7852c-8bce-4c6a-abd7-556fe8f203bf"
+        },
+        "33ff277f-0c47-450f-8280-6276a9157eea": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "b2a4bebb-504c-4de3-b915-f02283768b73"
+        },
+        "5c36f68e-c625-4099-84ca-6807f6f83e68": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "9a4b4ea9-e36c-4c22-a13f-9dae476d7db2"
+        },
+        "ddfc903c-579a-487b-b7ee-e8e019da04ba": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "4dbd3f8d-9a33-4348-9f3e-9c7375f1bea8"
+        },
+        "f6002d43-bf10-42ba-9791-f276f1ab7976": {
+            "gate": "ac0276da-7a04-4b49-b5bf-5fe07c5c4ff7",
+            "pin": "aed0247b-0c32-4a1b-80a5-a46d1f5dfd90"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "48fc0d04-da29-4607-8d81-98cbfdc59bb5",
+    "value": [
+        false,
+        ""
+    ]
+}
