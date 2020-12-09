@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "LM4120-5.0"
+    ],
+    "base": "e8392bf8-7bd3-4c96-a907-721d98dc7146",
+    "datasheet": [
+        true,
+        "https://www.ti.com/lit/ds/symlink/lm4120.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1601869012172&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "5v Voltage Reference"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "TI"
+    ],
+    "model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
+    "orderable_MPNs": {
+        "ad8ee2e6-86df-47da-ac45-1ececbf81cde": "LM4120IM5X-5.0/NOPB"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "529ac340-67d7-4c19-b8cb-6a2b942673e8",
+    "value": [
+        false,
+        "LM4120-5.0VRef"
+    ]
+}
