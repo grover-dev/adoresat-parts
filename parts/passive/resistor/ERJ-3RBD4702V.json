@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-3RBD4702V"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "9dfaf9ef-8b17-4a6f-bc6d-27564b83c390": "ERJ-3RBD4702V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "0.5",
+        "value": "47000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "268247d7-91a2-4fd4-b737-7dcb20535e79",
+    "value": [
+        false,
+        "47K Ohm - 0.5% - 0.1 W"
+    ]
+}
