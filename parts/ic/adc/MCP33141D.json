@@ -74,6 +74,7 @@
     "uuid": "154357df-2f46-437b-bd87-e3eb0effa908",
     "value": [
         false,
-        "12 Bit - 500 ksps - Diff SAR"
+        "MCP33141D"
+
     ]
 }
