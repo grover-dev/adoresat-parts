@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8d52a6e1-3f11-4929-8b10-47264b1f24be"
+        }
+    },
+    "manufacturer": "MCP",
+    "name": "MCP331x1",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "14c38505-e66c-4d9e-a9c0-d6d6f0c7f6c9"
+}

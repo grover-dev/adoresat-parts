@@ -1,0 +1,79 @@
+{
+    "MPN": [
+        false,
+        "MCP33141D"
+    ],
+    "datasheet": [
+        false,
+        "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP33151-XX-Family-Data-Sheet-DS20006220A.pdf"
+    ],
+    "description": [
+        false,
+        "Analog to Digital Converter"
+    ],
+    "entity": "14c38505-e66c-4d9e-a9c0-d6d6f0c7f6c9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "MCP"
+    ],
+    "model": "d5a4cd95-dd7e-406d-a9d8-2a6760fb9946",
+    "orderable_MPNs": {
+        "6a840475-e955-4d40-9672-9aa7159972ce": "MCP33141D-05T-E/MS"
+    },
+    "package": "ded672b2-363d-4902-86d2-6dbf22664364",
+    "pad_map": {
+        "00a18ab3-b38d-4aa2-91bb-080102279930": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "dbf982ea-eb47-49a1-ad46-704ceb95aab8"
+        },
+        "0cb0cbe0-655f-4790-b226-97b1a42bc8fb": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "639ee705-28a1-40c3-9850-9920671bfc02"
+        },
+        "3a9287f3-14bb-4f38-bef8-a4d2e6dae1b9": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "2e72e85e-1216-4fa6-9c86-02292e3a4608"
+        },
+        "51697c7c-d0db-4db9-be53-086dcc8bf5f3": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "e673fcf8-49cc-4fd7-a73e-0c6f8f8f7773"
+        },
+        "64caab6d-034b-4f04-9e59-3198c6eade5d": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "1186b688-efd6-4be9-af64-435575de441b"
+        },
+        "79ff24b9-9102-4f98-a0e8-a5181c3f5cc8": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "e6263c4a-750a-4573-9b08-6b53d95b6afb"
+        },
+        "a1922491-6446-4bab-b23b-1cbb45add558": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "603fe21a-b471-497e-b9e6-dfa14cb65967"
+        },
+        "c8171db1-ed33-447a-acdd-de6ef5c786da": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "209ae7ef-c86a-4112-8c30-458a1da8df3d"
+        },
+        "cf7002a6-684e-4242-bf62-441beb560b59": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "4f87f513-4f2f-4384-a51e-ce12ee04af94"
+        },
+        "e8dbaf8a-e7de-4d8b-ae13-698b8bd19567": {
+            "gate": "773053ef-ddd7-4e9d-bbcf-bcf8a89d2ff0",
+            "pin": "9d70cb11-1b44-4fe4-acd7-75297b7a79ef"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "154357df-2f46-437b-bd87-e3eb0effa908",
+    "value": [
+        false,
+        "MCP33141D"
+    ]
+}
