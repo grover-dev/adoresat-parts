@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRE2512-FZ-R001E-2"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/cre-1862108.pdf"
+    ],
+    "description": [
+        false,
+        "Current Sense Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "e2429c11-cfe3-4e72-90ed-3faeca124c72": "CRE2512-FZ-R001E-2"
+    },
+    "parametric": {
+        "pmax": "2",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.001"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "b1abab37-0dc8-40ee-a2e3-4cbb4cdc897d",
+    "value": [
+        false,
+        "1 mOhm - 1% - 2 W "
+    ]
+}
