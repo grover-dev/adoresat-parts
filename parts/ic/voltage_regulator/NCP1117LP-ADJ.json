@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "NCP1117LP-ADJ"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/308/NCP1117LP_D-1812283.pdf"
+    ],
+    "description": [
+        false,
+        "LDO Voltage Regulator"
+    ],
+    "entity": "c754b3da-0d1f-4b17-b900-77dc45154397",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "On Semiconductor"
+    ],
+    "model": "7ddeacd8-cbf5-4fab-849b-3def2b9ac606",
+    "orderable_MPNs": {
+        "d41a1bad-6d44-4d1a-ab18-355c3e7418f0": "NCP1117LPSTADT3G"
+    },
+    "package": "66a2482c-64bb-4e00-9605-8dcd31cd01e1",
+    "pad_map": {
+        "71aa86cb-91b4-47a7-b33e-abffe74d65bb": {
+            "gate": "34938532-f6d9-4902-9157-d62d16226920",
+            "pin": "9683d594-f6bf-468e-8303-28e01f4d2478"
+        },
+        "724840b3-bfc9-4661-b4e7-63fdc225df24": {
+            "gate": "34938532-f6d9-4902-9157-d62d16226920",
+            "pin": "322dff74-6d15-49f4-9044-5fe3da5bd939"
+        },
+        "db56276b-a71d-4d30-bce9-5ca3f9c67c51": {
+            "gate": "34938532-f6d9-4902-9157-d62d16226920",
+            "pin": "cad4792e-2285-4ba3-88ac-733321fc232f"
+        },
+        "ed7ce2e8-7d15-44c4-b2f6-2465c551c61b": {
+            "gate": "34938532-f6d9-4902-9157-d62d16226920",
+            "pin": "64b878d1-71b1-4dbb-9fb3-d776d5ac24a2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "part",
+    "uuid": "b219b216-e3ef-4920-9210-1c4b1534cbb7",
+    "value": [
+        false,
+        ""
+    ]
+}
