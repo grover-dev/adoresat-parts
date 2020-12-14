@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "CL10X106MO8NRNC"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "37a03683-4041-4be3-9550-6bf3e7e1ec7d": "CL10X106MO8NRNC"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X6S",
+        "value": "1e-05",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ccdd5fe5-307a-48c2-9433-441c66d98002",
+    "value": [
+        false,
+        "10uF - 16 V - 20%"
+    ]
+}
