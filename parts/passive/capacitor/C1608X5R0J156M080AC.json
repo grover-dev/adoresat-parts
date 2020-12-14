@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "C1608X5R0J156M080AC"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=mouser"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TDK"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "d2bab7d6-28e4-435b-a614-15a3e3819899": "C1608X5R0J156M080AC"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "1.5e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "91366181-19a0-447c-a782-fd1c6da9d818",
+    "value": [
+        false,
+        "15 uF - 6.3 V - 20%"
+    ]
+}
