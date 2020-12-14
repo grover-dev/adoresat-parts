@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-3GEYJ201V"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C301-1488782.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "65c42c96-3e8f-4805-b9e7-de23b8634fdd": "ERJ-3GEYJ201V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "200"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "584edce2-4fcb-4c5f-810a-092c3e1fc110",
+    "value": [
+        false,
+        "200 Ohm - 5% - 0.1 W"
+    ]
+}
