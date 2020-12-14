@@ -26,7 +26,8 @@
         "pmax": "0.1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "10000"
+        "value": "1000"
+
     },
     "tags": [],
     "type": "part",
