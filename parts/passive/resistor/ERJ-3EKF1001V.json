@@ -27,6 +27,7 @@
         "table": "resistors",
         "tolerance": "1",
         "value": "1000"
+
     },
     "tags": [],
     "type": "part",

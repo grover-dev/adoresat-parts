@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "L4T12FR010FER"
+    ],
+    "base": "daef1a95-dcdd-470f-b133-cc707370330b",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/303/ohmite_07222019_L4t_-1623139.pdf"
+    ],
+    "description": [
+        false,
+        "Current Sense Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ARCOL / Ohmite"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "5f68a277-51de-4510-84af-667e54310b35": "L4T12FR010FER"
+    },
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.01"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "6b3b0cb0-2ebf-4330-adb4-06cd1ecf55db",
+    "value": [
+        false,
+        "10 mOhm - 1% - 0.5W"
+    ]
+}
