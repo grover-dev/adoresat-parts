@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "34938532-f6d9-4902-9157-d62d16226920": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6a1ca83a-03bc-4cb6-91e2-2239fd744e2c"
+        }
+    },
+    "manufacturer": "On Semiconductor",
+    "name": "NCP1117LP-ADJ",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "entity",
+    "uuid": "c754b3da-0d1f-4b17-b900-77dc45154397"
+}
