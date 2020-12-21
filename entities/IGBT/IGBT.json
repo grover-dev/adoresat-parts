@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3ac2d010-6edd-46b7-969f-2ee3cd1996c9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "580c719b-628a-4197-ad13-8638ad5d3c4a"
+        }
+    },
+    "manufacturer": "",
+    "name": "IGBT",
+    "prefix": "Q?",
+    "tags": [
+        "IGBT"
+    ],
+    "type": "entity",
+    "uuid": "3e08bc82-d9de-48c1-b7ff-0894921a5be4"
+}
