@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "Test Point Hole 2.7x3"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Test Point Hole"
+    ],
+    "entity": "d21bea12-fded-4f76-a246-7615f9fc6af8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bc11f27d-ba5f-4a74-8f23-3a5c1757887a",
+    "pad_map": {
+        "74cb0c2f-3344-41f6-b5e7-a26cbe603366": {
+            "gate": "3e0a49aa-bd35-46cd-9015-b3e735e33250",
+            "pin": "fdc7533c-a199-47cb-a1f9-94d716a5332d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "9adc5ab4-6313-4165-a035-245098e0bbb6",
+    "value": [
+        false,
+        "2.7 x 3 mm"
+    ]
+}
