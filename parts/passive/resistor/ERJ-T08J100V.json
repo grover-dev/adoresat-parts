@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "ERJ-T08J100V"
+    ],
+    "base": "daef1a95-dcdd-470f-b133-cc707370330b",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/powerR_erjt_e-1077525.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Pulse Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "0c7eec33-ac0b-4e3f-8fe5-0fa0f852c97f": "ERJ-T08J100V"
+    },
+    "parametric": {
+        "pmax": "0.33",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "10"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "465569f1-4308-4ddf-8422-a6dc0eb79a2e",
+    "value": [
+        false,
+        "10 Ohm - 5% - 0.33 W"
+    ]
+}
