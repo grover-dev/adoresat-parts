@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ULRB12512R002FLFSLT"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/414/ULR-1528281.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "IRC/TT Electronics"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "ecafdd6c-8a81-4afa-af73-c3bbc4070ce8": "ULRB12512R002FLFSLT"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.002"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "bf6bb8ed-39a1-4020-8fe3-aa677f0ff8fc",
+    "value": [
+        false,
+        "2 mOhm - 1% - 1 W"
+    ]
+}
