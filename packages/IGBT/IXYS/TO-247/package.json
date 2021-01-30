@@ -34,7 +34,22 @@
             ]
         }
     },
-    "keepouts": {},
+    "keepouts": {
+        "2c03f05d-c90e-4c42-8ada-8bbb3359654f": {
+            "all_cu_layers": true,
+            "exposed_cu_only": false,
+            "keepout_class": "",
+            "patch_types_cu": [
+                "track",
+                "pad",
+                "pad_th",
+                "via",
+                "plane",
+                "hole_pth"
+            ],
+            "polygon": "66120f78-fc9a-48a0-8243-2b16311c4a9e"
+        }
+    },
     "lines": {
         "1ca9d8cd-8aa1-4ba8-ba6e-1dd791b8ff2f": {
             "from": "3aeb6b80-f2b3-479f-b0db-e5d331f992f1",
@@ -149,7 +164,6 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 11235000,
-
                 "pad_width": 14350000
             },
             "placement": {
@@ -175,7 +189,6 @@
                 "shift": [
                     5425000,
                     19010000
-
                 ]
             }
         },
@@ -216,7 +229,36 @@
         "courtyard_expansion": 500000
     },
     "polygons": {
-
+        "66120f78-fc9a-48a0-8243-2b16311c4a9e": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -10000,
+                        14690000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        18400000
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        -10000,
+                        14690000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        },
         "7f5d76b8-8779-496e-81cb-a23f53da18a7": {
             "layer": 10,
             "parameter_class": "",
@@ -300,7 +342,6 @@
                     "type": "line"
                 }
             ]
-
         }
     },
     "rules": {
