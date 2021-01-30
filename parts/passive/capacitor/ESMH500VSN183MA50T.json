@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "ESMH500VSN183MA50T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/420/48990562506224c250b19-606065.pdf"
+    ],
+    "description": [
+        false,
+        "Aluminum Electrolytic Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "United Chemi-Con"
+    ],
+    "model": "f706ed94-adc8-40cb-be82-f3a35f614ad2",
+    "orderable_MPNs": {
+        "46c6630d-f486-4755-af3a-cf88f96eab61": "ESMH500VSN183MA50T"
+    },
+    "package": "91991995-161f-4e52-86dd-19bc42388862",
+    "pad_map": {
+        "efdd2179-760e-4946-a916-360aa4381ba5": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "f1114d18-68fa-4e4e-aee6-23ded88fe340": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.018",
+        "wvdc": "50"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "137a23e1-a454-4d2e-80df-2afb17a4474a",
+    "value": [
+        false,
+        "18 mF - 50 V - 20%"
+    ]
+}

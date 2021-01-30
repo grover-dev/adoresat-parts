@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "R71QR34704010K"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/212/1/KEM_F3030_R71-1104176.pdf"
+    ],
+    "description": [
+        false,
+        "Film Capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "aea68ac1-f028-4eb2-9e5f-c37e612fb84f",
+    "orderable_MPNs": {
+        "7dc5e0d7-3ae9-4682-af7c-628e4be520b5": "R71QR34704010K"
+    },
+    "package": "32f1abde-8c7a-4a35-bce7-1f4790bc2050",
+    "pad_map": {
+        "a84604f9-09b8-4ed7-9a20-d1a802db9c5a": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "bd86cbda-e18c-4df5-a22d-864a069137a2": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "Electrolytic",
+        "value": "4.7e-07",
+        "wvdc": "1000"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "c872803b-3461-4c76-99aa-536344d08f95",
+    "value": [
+        false,
+        "470 nF - 1 kV - Film - 10%"
+    ]
+}

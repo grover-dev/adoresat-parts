@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "CDSOT23-SM712"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/CDSOT23-SM712-1635169.pdf"
+    ],
+    "description": [
+        false,
+        "ESD Suppressor, TVS Diode"
+    ],
+    "entity": "e361374c-4611-4b96-8da4-5497d34e16d6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "9144e9ae-ac16-4c34-b7e7-73167929d459",
+    "orderable_MPNs": {
+        "7d88823e-3f70-4d9c-96dd-41206d289387": "CDSOT23-SM712"
+    },
+    "package": "f4dedc07-b011-410b-9aad-2ad3e8b2a1d6",
+    "pad_map": {
+        "1ede8975-c5df-4869-8af9-bea3c5983883": {
+            "gate": "7f61ced0-949b-4980-8efa-d8e4b9e1fac4",
+            "pin": "a57926a1-1d1e-422f-8416-c547bc8592bd"
+        },
+        "de39cb02-b4de-411c-b17a-c10e326af200": {
+            "gate": "7f61ced0-949b-4980-8efa-d8e4b9e1fac4",
+            "pin": "5b277d11-cccc-4d5d-9318-5ea6401f259e"
+        },
+        "f5967815-6339-464f-9ef6-2a4f80de6b11": {
+            "gate": "7f61ced0-949b-4980-8efa-d8e4b9e1fac4",
+            "pin": "366342d3-34c0-4265-84c5-28a64d48178d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "4d1c573d-1faa-4085-8428-ac36d970a2a8",
+    "value": [
+        false,
+        "7V - 400W - TVS"
+    ]
+}

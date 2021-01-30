@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "THVD1428DR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/thvd1428.pdf?&ts=1590074542108"
+    ],
+    "description": [
+        false,
+        "RS-485 Transceiver"
+    ],
+    "entity": "b84e385f-38c1-4762-916e-60068117cd04",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "5344bb4e-f190-4f5b-b387-3ec716177b89",
+    "orderable_MPNs": {
+        "b1a69017-6bd8-4ea2-bdad-adef07c9236a": "THVD1428DR"
+    },
+    "package": "64036c70-3761-4380-9ec4-80941bf5af70",
+    "pad_map": {
+        "1da0b45e-493e-45b1-a44a-d5e9def9b237": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "8a7c8974-6ca2-4ee5-9fe4-75ade75304c5"
+        },
+        "3c9b44d7-7488-4b62-876e-7c970ec2d3de": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "b3f4f11f-897b-4809-a696-0d6bb078e3b7"
+        },
+        "84bbd9fe-4946-4a02-a1e7-39214e239f70": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "f03f4b8d-6324-43c1-baf2-d4d530a8fb5f"
+        },
+        "a7ac47a4-397f-4cd4-a215-4ddeb39fe91a": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "c59af236-9ab3-47a1-a17d-2be66f00208f"
+        },
+        "cb2a8528-f045-41d2-80ce-d5e4dd687868": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "09f914a6-7911-4f1d-b1d1-f1df8ce4b910"
+        },
+        "deee2750-345a-4ccb-9f40-385992991d7e": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "97e2c4dc-7a6d-41d8-9feb-3ddfd70009c0"
+        },
+        "ed422e0e-e203-430c-81bf-d5a46879778e": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "9509082d-1a2d-4dc1-a363-027f38174a1e"
+        },
+        "f3eef9fd-67e0-45ca-a5e4-f564c3e035dd": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "c810a6c5-959e-40d1-be8b-0e1ff60831dd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "0ad90b5c-eac1-4257-a4a1-92368966af06",
+    "value": [
+        false,
+        "RS-485 Transceiver"
+    ]
+}
