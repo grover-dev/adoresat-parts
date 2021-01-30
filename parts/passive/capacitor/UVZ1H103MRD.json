@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "UVZ1H103MRD"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/293/e_uvz-1219460.pdf"
+    ],
+    "description": [
+        false,
+        "Aluminum Electrolytic Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nichicon"
+    ],
+    "model": "78cee8b3-4684-420e-abc6-55d0a2301ab2",
+    "orderable_MPNs": {
+        "5ac3f171-8d5c-4c04-a410-ffb9c20261e4": "UVZ1H103MRD"
+    },
+    "package": "c664a0f0-bc3e-444e-9df8-e840b663a919",
+    "pad_map": {
+        "5b500bc0-968d-4099-ae49-81969dc0d7a8": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "86da8ee8-0536-4611-89e4-aff64db32be0": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.01",
+        "wvdc": "50"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "27a394e5-03ec-49a6-a33f-5142171f965a",
+    "value": [
+        false,
+        "10 mF - 50 V - Al Elec - 20%"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3e0a49aa-bd35-46cd-9015-b3e735e33250": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3da70c5e-6651-4096-8a46-dfefc8f1219e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Test Point Hole",
+    "prefix": "TP",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "d21bea12-fded-4f76-a246-7615f9fc6af8"
+}

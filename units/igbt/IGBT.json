@@ -1,0 +1,40 @@
+{
+    "manufacturer": "",
+    "name": "IGBT",
+    "pins": {
+        "053b0211-ad04-49ae-94a2-49fe1eda69e8": {
+            "direction": "input",
+            "names": [
+                "Tab"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "80b0a197-1ef6-461c-bdce-d635165638de": {
+            "direction": "input",
+            "names": [
+                "Emitter"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "891a443a-cf2b-4579-9159-5b8670152462": {
+            "direction": "input",
+            "names": [
+                "Collector"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "9169dfe8-ca15-42a3-9c87-ea821c204d4b": {
+            "direction": "input",
+            "names": [
+                "Gate"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "580c719b-628a-4197-ad13-8638ad5d3c4a"
+}
