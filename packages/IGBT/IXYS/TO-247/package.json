@@ -86,7 +86,6 @@
             "y": 18300000,
             "yaw": 32768,
             "z": 21000000
-
         }
     },
     "name": "TO-247",
@@ -141,7 +140,6 @@
                 ]
             }
         },
-
         "88f9de88-2f57-4992-abec-f17d50988e66": {
             "name": "2",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
@@ -230,7 +228,7 @@
     },
     "polygons": {
         "66120f78-fc9a-48a0-8243-2b16311c4a9e": {
-            "layer": 0,
+            "layer": 100,
             "parameter_class": "",
             "vertices": [
                 {
