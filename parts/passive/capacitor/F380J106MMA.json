@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "F380J106MMA"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/40/f38-775706.pdf"
+    ],
+    "description": [
+        false,
+        "Tantalum Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "AVX"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "b654f74f-1283-40f6-8f6a-83db63794adf": "F380J106MMA"
+    },
+    "package": "2fcdaabb-6926-4ee1-b3bd-d6384dbd5b8b",
+    "pad_map": {
+        "4a5f8718-79f1-4339-ad13-b203744ab658": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "8adbf284-666c-47ca-9028-de73077a0749": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "1e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "5e1506b3-30a0-4259-b96e-a49571c2e9ce",
+    "value": [
+        false,
+        "10 uF - 6.3 V - Tant - 20%"
+    ]
+}

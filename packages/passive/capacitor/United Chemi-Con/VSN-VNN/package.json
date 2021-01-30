@@ -1,0 +1,280 @@
+{
+    "arcs": {
+        "00e8f81b-7254-43f7-bf4a-ba2faf872281": {
+            "center": "c874400c-8fe2-49b4-a3b2-0a9e4823f498",
+            "from": "37d86644-b1e0-4367-a3ab-6c9f2af878fb",
+            "layer": 20,
+            "to": "5d18d0a4-fc0e-4385-9023-65a8ffd2954e",
+            "width": 150000
+        },
+        "5ab91081-80a7-4347-acfe-80fde41d70dc": {
+            "center": "f263a3c5-9da8-4967-be43-42302eeb44ba",
+            "from": "90389263-997c-4ecc-a6c1-211c0d0c42d0",
+            "layer": 60,
+            "to": "f2114f80-a593-4979-8138-2b467db96260",
+            "width": 150000
+        },
+        "bdb2e022-915d-40ca-bac8-16e28f98dfc2": {
+            "center": "f263a3c5-9da8-4967-be43-42302eeb44ba",
+            "from": "f2114f80-a593-4979-8138-2b467db96260",
+            "layer": 60,
+            "to": "90389263-997c-4ecc-a6c1-211c0d0c42d0",
+            "width": 150000
+        }
+    },
+    "default_model": "f706ed94-adc8-40cb-be82-f3a35f614ad2",
+    "dimensions": {},
+    "junctions": {
+        "37d86644-b1e0-4367-a3ab-6c9f2af878fb": {
+            "position": [
+                0,
+                17500000
+            ]
+        },
+        "5d18d0a4-fc0e-4385-9023-65a8ffd2954e": {
+            "position": [
+                0,
+                -17500000
+            ]
+        },
+        "90389263-997c-4ecc-a6c1-211c0d0c42d0": {
+            "position": [
+                17500000,
+                0
+            ]
+        },
+        "c874400c-8fe2-49b4-a3b2-0a9e4823f498": {
+            "position": [
+                0,
+                -16250000
+            ]
+        },
+        "f2114f80-a593-4979-8138-2b467db96260": {
+            "position": [
+                -17500000,
+                0
+            ]
+        },
+        "f263a3c5-9da8-4967-be43-42302eeb44ba": {
+            "position": [
+                0,
+                0
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "United Chemi-Con",
+    "models": {
+        "f706ed94-adc8-40cb-be82-f3a35f614ad2": {
+            "filename": "3d_models/passive/capacitor/Al-Radial-Can-D35H50P10.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 2600000
+        }
+    },
+    "name": "Al-Radial-Can-D35H50P10",
+    "pads": {
+        "efdd2179-760e-4946-a916-360aa4381ba5": {
+            "name": "K",
+            "padstack": "982142aa-2883-4fd0-9b0b-37eb5a37dd35",
+            "parameter_set": {
+                "hole_diameter": 1700000,
+                "pad_height": 2040000,
+                "pad_width": 2040000
+            },
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    0
+                ]
+            }
+        },
+        "f1114d18-68fa-4e4e-aee6-23ded88fe340": {
+            "name": "A",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1700000,
+                "pad_diameter": 2040000
+            },
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    5000000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {
+        "courtyard_expansion": 500000
+    },
+    "polygons": {
+        "5aff68bf-e3a6-4676-aa82-0441f10b62ff": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                }
+            ]
+        },
+        "f879d6de-2849-4a87-a5f0-4eb3d2d2083d": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        0
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {
+        "a4e8afe0-1aba-459e-aa5e-ffd6252f6104": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -1500000,
+                    18375000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "bbce15aa-da6c-4fb4-af41-5566db6e2389": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2000000,
+                    -2000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
+    "type": "package",
+    "uuid": "91991995-161f-4e52-86dd-19bc42388862"
+}
