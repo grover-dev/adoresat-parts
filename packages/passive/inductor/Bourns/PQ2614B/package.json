@@ -79,7 +79,7 @@
             "width": 150000
         }
     },
-    "manufacturer": "",
+    "manufacturer": "Bourns",
     "models": {
         "b6be421c-73c0-403f-b75f-c8239ffed626": {
             "filename": "3d_models/Bourns/PQ2614.stp",

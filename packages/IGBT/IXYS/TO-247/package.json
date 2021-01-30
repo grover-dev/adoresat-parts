@@ -2,9 +2,65 @@
     "arcs": {},
     "default_model": "0cf8a0f8-3051-440c-a25b-ad7c66964919",
     "dimensions": {},
-    "junctions": {},
+    "junctions": {
+        "3aeb6b80-f2b3-479f-b0db-e5d331f992f1": {
+            "position": [
+                7360000,
+                23680000
+            ]
+        },
+        "51728741-21a1-4033-b08f-f6f54d5f9d28": {
+            "position": [
+                7360000,
+                3390000
+            ]
+        },
+        "5b398933-cd36-464b-9179-03aa345232da": {
+            "position": [
+                7360000,
+                23390000
+            ]
+        },
+        "9de604fa-4cef-4552-9a18-960a2ff9f8d5": {
+            "position": [
+                -7360000,
+                23680000
+            ]
+        },
+        "e86ccae0-d926-4d97-9327-d7bb33e2f055": {
+            "position": [
+                -7360000,
+                -800000
+            ]
+        }
+    },
     "keepouts": {},
-    "lines": {},
+    "lines": {
+        "1ca9d8cd-8aa1-4ba8-ba6e-1dd791b8ff2f": {
+            "from": "3aeb6b80-f2b3-479f-b0db-e5d331f992f1",
+            "layer": 20,
+            "to": "5b398933-cd36-464b-9179-03aa345232da",
+            "width": 150000
+        },
+        "32a1b888-d11e-4415-bea5-ce7b0b06c103": {
+            "from": "9de604fa-4cef-4552-9a18-960a2ff9f8d5",
+            "layer": 20,
+            "to": "3aeb6b80-f2b3-479f-b0db-e5d331f992f1",
+            "width": 150000
+        },
+        "33a0c13b-9cf6-4fc7-962b-81eb286b7caf": {
+            "from": "5b398933-cd36-464b-9179-03aa345232da",
+            "layer": 20,
+            "to": "51728741-21a1-4033-b08f-f6f54d5f9d28",
+            "width": 150000
+        },
+        "b43523ce-ee8f-4d85-9926-d57ab899ac9e": {
+            "from": "e86ccae0-d926-4d97-9327-d7bb33e2f055",
+            "layer": 20,
+            "to": "9de604fa-4cef-4552-9a18-960a2ff9f8d5",
+            "width": 150000
+        }
+    },
     "manufacturer": "IXYS",
     "models": {
         "0cf8a0f8-3051-440c-a25b-ad7c66964919": {
