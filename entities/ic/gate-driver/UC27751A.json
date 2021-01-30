@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "27411ce9-f5e6-4cb6-89be-b9306831494f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "53b6bc58-5809-4dbf-9b2d-6de4669cbc96"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "UCC27751A",
+    "prefix": "U",
+    "tags": [
+        "gate driver",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "099a4bbe-4a94-4193-80f4-3c5dc2fa38b8"
+}
