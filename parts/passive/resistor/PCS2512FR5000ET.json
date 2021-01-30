@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "PCS2512FR5000ET"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/303/res_pcs-1665423.pdf"
+    ],
+    "description": [
+        false,
+        "Current Sense Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Ohmite"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "338e50dd-d347-4ee6-b92f-761463ddbc63": "PCS2512FR5000ET"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.5"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "fd30e4a2-4fed-491d-922d-ebee52c77f8f",
+    "value": [
+        false,
+        "0.5 Ohm - 1% - 1 W"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "UCC27751A"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fds%2Fsymlink%2Fucc27511a.pdf"
+    ],
+    "description": [
+        false,
+        "Gate Driver"
+    ],
+    "entity": "099a4bbe-4a94-4193-80f4-3c5dc2fa38b8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
+    "orderable_MPNs": {
+        "1815f986-6171-4b55-9476-de6186307ae9": "UCC27511ADBVR"
+    },
+    "package": "42c49e00-1c9f-4f5f-8ec0-702040b3ac7a",
+    "pad_map": {
+        "179a087b-d304-4651-bd68-1f15c3ebe954": {
+            "gate": "27411ce9-f5e6-4cb6-89be-b9306831494f",
+            "pin": "20ab5572-cb14-438b-9d3a-1e79f7fdbfaa"
+        },
+        "341287a6-3a5c-490c-8db8-8965fd27e3e8": {
+            "gate": "27411ce9-f5e6-4cb6-89be-b9306831494f",
+            "pin": "cf83d4ef-c6d5-4d58-8075-00a6362fda49"
+        },
+        "87131a04-8d87-4cfe-9178-f63fb5899e0b": {
+            "gate": "27411ce9-f5e6-4cb6-89be-b9306831494f",
+            "pin": "10cd7910-207b-4f23-b10d-6f76d880cdf8"
+        },
+        "b082c171-3282-4658-8898-f044e6b9ec35": {
+            "gate": "27411ce9-f5e6-4cb6-89be-b9306831494f",
+            "pin": "0c6ad842-cc79-43de-9eb3-b51a97da15bb"
+        },
+        "c032eef1-5692-4058-844a-cccf16c4a445": {
+            "gate": "27411ce9-f5e6-4cb6-89be-b9306831494f",
+            "pin": "b8c802c6-4482-4c49-9f8e-7c935fb51f4e"
+        },
+        "cc906a02-fc3b-4758-bca6-306a7e1d336e": {
+            "gate": "27411ce9-f5e6-4cb6-89be-b9306831494f",
+            "pin": "fadb1f96-d39a-489b-9121-7b8805a16680"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gate driver",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "108c4cf0-4283-4dc3-b683-72f0a325e1ae",
+    "value": [
+        false,
+        "Gate Driver"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "S8MC-13"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/115/ds31117-63855.pdf"
+    ],
+    "description": [
+        false,
+        "Power Diode"
+    ],
+    "entity": "c44a773c-cdf5-4193-b5be-ab54952f3f28",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "354375f7-f397-4353-94ae-99d92f07e70d",
+    "orderable_MPNs": {
+        "25d11f64-a169-4947-923c-912d9292d716": "S8MC-13"
+    },
+    "package": "3bb8eb16-0f4e-42ea-86fc-ccf187d37d52",
+    "pad_map": {
+        "7868a6e8-ae37-4511-ac42-ff6f2109b8d9": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "c77d6287-783e-4a1e-b66b-321b35b4ced7": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "dc273f21-6700-4d73-a7e4-e7705d4e966e",
+    "value": [
+        false,
+        "1 kV - 8 A"
+    ]
+}

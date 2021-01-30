@@ -23,7 +23,16 @@
         "60e0ed9e-9514-416a-bc09-d246ef458020": "MBE04140D1004DC100"
     },
     "package": "b4f697be-cc6c-4c48-a1ab-bc64de766cde",
-    "pad_map": {},
+    "pad_map": {
+        "7bc8b04b-1b09-4f72-bce4-c2eefd3db1e1": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "d9ba56f5-66b1-4b6c-bcdb-6d9a6683a1d7": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
     "parametric": {
         "pmax": "1",
         "table": "resistors",
