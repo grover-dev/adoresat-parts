@@ -1,42 +1,58 @@
 {
-    "arcs": {
-        "e3f8a41a-068c-482c-9a72-9f8d371d7a95": {
-            "center": "a4cb2526-8e32-4ec7-a053-2bbcdf7a075b",
-            "from": "d8d12416-b41e-4cfd-90db-ba45fd7b1f14",
-            "layer": 0,
-            "to": "634edbd5-1e09-4968-91ea-6b233489b34f",
-            "width": 0
-        },
-        "ec3a1210-6fe3-4294-a249-36e0709d42f2": {
-            "center": "a4cb2526-8e32-4ec7-a053-2bbcdf7a075b",
-            "from": "634edbd5-1e09-4968-91ea-6b233489b34f",
-            "layer": 0,
-            "to": "d8d12416-b41e-4cfd-90db-ba45fd7b1f14",
-            "width": 0
-        }
-    },
+    "arcs": {},
     "can_expand": false,
     "junctions": {
-        "634edbd5-1e09-4968-91ea-6b233489b34f": {
+        "3f5163f8-63a1-4a7d-8bb7-2f1748270a27": {
             "position": [
-                -1250000,
-                0
+                2500000,
+                -500000
             ]
         },
-        "a4cb2526-8e32-4ec7-a053-2bbcdf7a075b": {
+        "5c96beed-6833-45d0-b958-f39a9ba63a8e": {
             "position": [
-                0,
-                1250000
+                -2500000,
+                3000000
             ]
         },
-        "d8d12416-b41e-4cfd-90db-ba45fd7b1f14": {
+        "b675bc71-2789-4602-b1d1-89a8e579c42e": {
             "position": [
-                1250000,
-                0
+                -2500000,
+                -500000
+            ]
+        },
+        "f0fc1cd1-887d-4461-b5e6-960d642e5564": {
+            "position": [
+                2500000,
+                3000000
             ]
         }
     },
-    "lines": {},
+    "lines": {
+        "76690a23-65c1-4015-b71a-187196a58b5b": {
+            "from": "f0fc1cd1-887d-4461-b5e6-960d642e5564",
+            "layer": 0,
+            "to": "3f5163f8-63a1-4a7d-8bb7-2f1748270a27",
+            "width": 0
+        },
+        "917b4ac7-99b0-44d2-a7ea-8af3789e2e0f": {
+            "from": "b675bc71-2789-4602-b1d1-89a8e579c42e",
+            "layer": 0,
+            "to": "5c96beed-6833-45d0-b958-f39a9ba63a8e",
+            "width": 0
+        },
+        "92da5be4-f051-41df-aa21-5847605d24fa": {
+            "from": "5c96beed-6833-45d0-b958-f39a9ba63a8e",
+            "layer": 0,
+            "to": "f0fc1cd1-887d-4461-b5e6-960d642e5564",
+            "width": 0
+        },
+        "9b3e6435-6bdd-4a04-a542-50b054095005": {
+            "from": "3f5163f8-63a1-4a7d-8bb7-2f1748270a27",
+            "layer": 0,
+            "to": "b675bc71-2789-4602-b1d1-89a8e579c42e",
+            "width": 0
+        }
+    },
     "name": "Test Point Pad",
     "pins": {
         "e9b7d346-06cf-4a41-bef7-1d204b1444be": {
