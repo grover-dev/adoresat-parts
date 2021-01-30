@@ -7,14 +7,14 @@
     "lines": {},
     "manufacturer": "",
     "models": {},
-    "name": "generic-single-hole-2.7x3",
+    "name": "generic-single-hole-2.7x3.5",
     "pads": {
         "74cb0c2f-3344-41f6-b5e7-a26cbe603366": {
             "name": "1",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
                 "hole_diameter": 2700000,
-                "pad_diameter": 3000000
+                "pad_diameter": 3500000
             },
             "placement": {
                 "angle": 0,
