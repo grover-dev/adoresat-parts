@@ -111,7 +111,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -128,7 +128,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -145,7 +145,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -162,7 +162,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -179,7 +179,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -196,7 +196,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -213,7 +213,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -230,7 +230,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
