@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "Test Point Hole 0.7x1"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Test Point Hole"
+    ],
+    "entity": "d21bea12-fded-4f76-a246-7615f9fc6af8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "fd07fca8-fe96-4c37-a436-6a297bbab90d",
+    "pad_map": {
+        "74cb0c2f-3344-41f6-b5e7-a26cbe603366": {
+            "gate": "3e0a49aa-bd35-46cd-9015-b3e735e33250",
+            "pin": "fdc7533c-a199-47cb-a1f9-94d716a5332d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "a0ede379-55c3-4682-9e51-1268175afdfa",
+    "value": [
+        false,
+        "0.7 mm x 1 mm"
+    ]
+}

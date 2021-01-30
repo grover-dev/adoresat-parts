@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Test Point Hole",
+    "pins": {
+        "fdc7533c-a199-47cb-a1f9-94d716a5332d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3da70c5e-6651-4096-8a46-dfefc8f1219e"
+}

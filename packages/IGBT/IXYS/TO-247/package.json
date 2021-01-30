@@ -71,6 +71,7 @@
             "y": 18300000,
             "yaw": 32768,
             "z": 21000000
+
         }
     },
     "name": "TO-247",
@@ -125,6 +126,7 @@
                 ]
             }
         },
+
         "88f9de88-2f57-4992-abec-f17d50988e66": {
             "name": "2",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
@@ -147,6 +149,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 11235000,
+
                 "pad_width": 14350000
             },
             "placement": {
@@ -172,6 +175,7 @@
                 "shift": [
                     5425000,
                     19010000
+
                 ]
             }
         },
@@ -212,6 +216,7 @@
         "courtyard_expansion": 500000
     },
     "polygons": {
+
         "7f5d76b8-8779-496e-81cb-a23f53da18a7": {
             "layer": 10,
             "parameter_class": "",
@@ -295,6 +300,7 @@
                     "type": "line"
                 }
             ]
+
         }
     },
     "rules": {
