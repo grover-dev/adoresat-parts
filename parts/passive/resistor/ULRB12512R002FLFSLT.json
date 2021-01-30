@@ -1,38 +1,38 @@
 {
     "MPN": [
         false,
-        "PCS2512FR0005ET"
+        "ULRB12512R002FLFSLT"
     ],
     "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
     "datasheet": [
         false,
-        "https://www.mouser.com/datasheet/2/303/res_pcs-1665423.pdf"
+        "https://www.mouser.com/datasheet/2/414/ULR-1528281.pdf"
     ],
     "description": [
         false,
-        "Current Sense Resistor"
+        "Thick Film Resistor"
     ],
     "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
         false,
-        "Ohmite"
+        "IRC/TT Electronics"
     ],
     "model": "e5f9f686-392d-45db-8a15-2c626423d476",
     "orderable_MPNs": {
-        "7006fd26-d482-46d7-b1d9-dc4c37f05904": "PCS2512FR0005ET"
+        "ecafdd6c-8a81-4afa-af73-c3bbc4070ce8": "ULRB12512R002FLFSLT"
     },
     "parametric": {
-        "pmax": "2",
+        "pmax": "1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "0.0005"
+        "value": "0.002"
     },
     "tags": [],
     "type": "part",
-    "uuid": "94435bc9-54ed-42c7-a183-d7044cdc3e7f",
+    "uuid": "bf6bb8ed-39a1-4020-8fe3-aa677f0ff8fc",
     "value": [
         false,
-        "0.0005 Ohm - 1% - 2 W"
+        "2 mOhm - 1% - 1 W"
     ]
 }

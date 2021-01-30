@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "PCS2512FR0005ET"
+        "PCS2512FR5000ET"
     ],
     "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
     "datasheet": [
@@ -20,19 +20,19 @@
     ],
     "model": "e5f9f686-392d-45db-8a15-2c626423d476",
     "orderable_MPNs": {
-        "7006fd26-d482-46d7-b1d9-dc4c37f05904": "PCS2512FR0005ET"
+        "338e50dd-d347-4ee6-b92f-761463ddbc63": "PCS2512FR5000ET"
     },
     "parametric": {
-        "pmax": "2",
+        "pmax": "1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "0.0005"
+        "value": "0.5"
     },
     "tags": [],
     "type": "part",
-    "uuid": "94435bc9-54ed-42c7-a183-d7044cdc3e7f",
+    "uuid": "fd30e4a2-4fed-491d-922d-ebee52c77f8f",
     "value": [
         false,
-        "0.0005 Ohm - 1% - 2 W"
+        "0.5 Ohm - 1% - 1 W"
     ]
 }

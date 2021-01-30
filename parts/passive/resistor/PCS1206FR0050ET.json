@@ -1,9 +1,9 @@
 {
     "MPN": [
         false,
-        "PCS2512FR0005ET"
+        "PCS1206FR0050ET"
     ],
-    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "base": "daef1a95-dcdd-470f-b133-cc707370330b",
     "datasheet": [
         false,
         "https://www.mouser.com/datasheet/2/303/res_pcs-1665423.pdf"
@@ -13,26 +13,29 @@
         "Current Sense Resistor"
     ],
     "inherit_model": true,
-    "inherit_tags": true,
+    "inherit_tags": false,
     "manufacturer": [
         false,
         "Ohmite"
     ],
-    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "orderable_MPNs": {
-        "7006fd26-d482-46d7-b1d9-dc4c37f05904": "PCS2512FR0005ET"
+        "43fd59f4-6e76-41df-8914-37365533b3a7": "PCS1206FR0050ET"
     },
     "parametric": {
-        "pmax": "2",
+        "pmax": "1",
         "table": "resistors",
         "tolerance": "1",
-        "value": "0.0005"
+        "value": "0.005"
     },
-    "tags": [],
+    "tags": [
+        "passive",
+        "resistor"
+    ],
     "type": "part",
-    "uuid": "94435bc9-54ed-42c7-a183-d7044cdc3e7f",
+    "uuid": "fec31b34-4f03-4e8c-bf41-7d20b5e5837d",
     "value": [
         false,
-        "0.0005 Ohm - 1% - 2 W"
+        "5 mOhm - 1% - 1 W"
     ]
 }
