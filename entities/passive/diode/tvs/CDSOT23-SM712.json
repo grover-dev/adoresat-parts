@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7f61ced0-949b-4980-8efa-d8e4b9e1fac4": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c0f807c3-21ea-40c5-b97f-4e3f93c75f0b"
+        }
+    },
+    "manufacturer": "Bourns",
+    "name": "CDSOT23-SM712",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "e361374c-4611-4b96-8da4-5497d34e16d6"
+}

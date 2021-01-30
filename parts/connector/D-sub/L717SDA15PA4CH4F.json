@@ -1,0 +1,107 @@
+{
+    "MPN": [
+        false,
+        "L717SDA15PA4CH4F"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/18/amphenol_amphs05495-1-1733290.pdf"
+    ],
+    "description": [
+        false,
+        "D-Sub 15P A4 - Male - Right Angle"
+    ],
+    "entity": "936ff372-bfe2-4da3-873c-799168597aae",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol ICC"
+    ],
+    "model": "fb0dac3a-1788-4959-b3b1-f6309f313f83",
+    "orderable_MPNs": {
+        "4695c80d-4e35-4c3f-a9e8-e94ae89e4726": "L717SDA15PA4CH4F"
+    },
+    "package": "535d85ff-0ef2-4684-8079-00c1ff2f3b7d",
+    "pad_map": {
+        "24023ca5-cf78-402a-a4e9-97f4b6312b86": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "48dfc32e-d099-427c-8052-fceecb7e3857"
+        },
+        "3cbb812c-85db-478d-ae0f-b047418a13b0": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "a1dadacb-6dd2-429e-bb42-84a673ee03e8"
+        },
+        "433eec6a-6f3e-4310-87f0-cf9d9322b68e": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "80417dd0-fb57-4bb8-adfd-9528d969f8e0"
+        },
+        "45837e33-4dcd-4ba9-aafc-5e83e22859be": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "3dd2b798-fa5b-441c-8861-465932b14597"
+        },
+        "547b4f8e-7e35-4597-9423-e27f05b480d3": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "28c24959-9093-4183-8a5b-b222f1685e5b"
+        },
+        "5929e691-8174-4e80-8a34-10b2870de3de": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "90a1c7b2-d3ba-470f-8e4f-b4a636f52b6d"
+        },
+        "627a8f6a-38dc-4083-a459-336106caed13": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "8d787d90-f250-46c9-b320-eac7b5389b3d"
+        },
+        "69b2db10-b7a4-4357-9686-d6b154e2834a": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "e9a50a25-63a7-443d-ab2d-b33d11dafef2"
+        },
+        "7183d977-5b24-4997-9f6e-85b67637fb7b": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "281a6940-a5a6-49f8-9952-7f083ca97b38"
+        },
+        "7a0ce217-f266-48cb-af18-97a48b1c80eb": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "667a4c5c-6f31-4db1-b53f-9f58e29cc4b7"
+        },
+        "7e4eae31-9207-445e-93c1-0a5511888337": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "370b97de-3247-42ae-b92f-78137f7caa71"
+        },
+        "b549d2f6-7b81-461d-a43d-af5aeeac187f": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "cd6bb21c-7bcb-4301-b6b8-e1b703203db4"
+        },
+        "c094c3dd-8367-41a1-9da4-5fa1200c2309": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "1b92384c-dc82-4284-b33d-fe69379e1ae5"
+        },
+        "c1f14a67-7039-46fd-a5ee-466960365abc": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "4adeebd0-a90d-4fea-a16f-5fad589e000d"
+        },
+        "c921ccd5-9d9f-4d23-ad83-5d0b0faeaabb": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "c0252c14-8a10-4954-973e-8a7bc514fcd6"
+        },
+        "d40f6555-feae-41db-a626-054906313aa6": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "4b2e34e0-d6fc-45fa-bd16-f4b4ad718303"
+        },
+        "ecfbe032-8aee-43e3-93c2-992f30bc29a6": {
+            "gate": "869d7679-923d-4936-8219-e6249bbcf7b1",
+            "pin": "d6c4ef02-9690-4dc6-b35b-538024c60232"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "D-Sub",
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "7150aab4-d076-4109-9cb9-4cb64ed527bd",
+    "value": [
+        false,
+        "D-Sub 15P A4 - Male - Right Angle"
+    ]
+}

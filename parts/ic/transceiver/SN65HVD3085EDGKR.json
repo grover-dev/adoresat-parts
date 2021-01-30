@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "SN65HVD3085EDGKR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn65hvd3085e.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1608698518421&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "RS-485 Half-Duplex Transceiver"
+    ],
+    "entity": "b84e385f-38c1-4762-916e-60068117cd04",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "9f4f7189-672d-44a5-8192-6baee6a7f39e",
+    "orderable_MPNs": {
+        "ba904ff4-0a94-4ecb-8173-519a292a16c5": "SN65HVD3085EDGKR"
+    },
+    "package": "199498cd-bb7f-4bdf-b2f4-7638e2c963de",
+    "pad_map": {
+        "061ae1be-bdc0-45ef-a088-4574d48180b9": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "97e2c4dc-7a6d-41d8-9feb-3ddfd70009c0"
+        },
+        "1bacd3c5-00f9-4416-a671-84d126140151": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "9509082d-1a2d-4dc1-a363-027f38174a1e"
+        },
+        "24d0d1f3-42aa-45d1-8bdc-cc938658bb28": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "c810a6c5-959e-40d1-be8b-0e1ff60831dd"
+        },
+        "322dfd7e-8537-421f-86a7-19c089ca9973": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "b3f4f11f-897b-4809-a696-0d6bb078e3b7"
+        },
+        "33ff277f-0c47-450f-8280-6276a9157eea": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "f03f4b8d-6324-43c1-baf2-d4d530a8fb5f"
+        },
+        "5c36f68e-c625-4099-84ca-6807f6f83e68": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "c59af236-9ab3-47a1-a17d-2be66f00208f"
+        },
+        "ddfc903c-579a-487b-b7ee-e8e019da04ba": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "09f914a6-7911-4f1d-b1d1-f1df8ce4b910"
+        },
+        "f6002d43-bf10-42ba-9791-f276f1ab7976": {
+            "gate": "2c20c4a1-cde5-46de-9478-396024cec51d",
+            "pin": "8a7c8974-6ca2-4ee5-9fe4-75ade75304c5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "c579139f-893c-4582-8cca-e02126750561",
+    "value": [
+        false,
+        "RS-485 Half-Duplex"
+    ]
+}

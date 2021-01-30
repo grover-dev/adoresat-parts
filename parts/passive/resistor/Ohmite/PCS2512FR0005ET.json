@@ -13,7 +13,7 @@
         "Current Sense Resistor"
     ],
     "inherit_model": true,
-    "inherit_tags": false,
+    "inherit_tags": true,
     "manufacturer": [
         false,
         "Ohmite"
