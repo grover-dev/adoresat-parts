@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "MCP33151D-05"
+    ],
+    "base": "154357df-2f46-437b-bd87-e3eb0effa908",
+    "datasheet": [
+        true,
+        "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP33151-XX-Family-Data-Sheet-DS20006220A.pdf"
+    ],
+    "description": [
+        true,
+        "Analog to Digital Converter"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "MCP"
+    ],
+    "model": "d5a4cd95-dd7e-406d-a9d8-2a6760fb9946",
+    "orderable_MPNs": {
+        "14d5331e-c51f-4ff9-9b4b-b35934a9b60c": "MCP33151D-05-E/MS"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7935d08f-23f8-45eb-9610-2a679c41f0a4",
+    "value": [
+        false,
+        "500 Ksps - 14 Bit"
+    ]
+}
