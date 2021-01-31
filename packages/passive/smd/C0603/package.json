@@ -2,9 +2,47 @@
     "arcs": {},
     "default_model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "dimensions": {},
-    "junctions": {},
+    "junctions": {
+        "458ec142-b6fa-4bf1-96a5-4cac0d22bd2d": {
+            "position": [
+                -400000,
+                600000
+            ]
+        },
+        "a409ac6c-9087-4af4-a59f-483b41d79c5c": {
+            "position": [
+                400000,
+                -600000
+            ]
+        },
+        "db5b10f3-c54f-481e-88a6-9cc7d189a263": {
+            "position": [
+                -400000,
+                -600000
+            ]
+        },
+        "f52f6b77-bb9c-44d5-a9c1-1c3a8b0f3ba9": {
+            "position": [
+                400000,
+                600000
+            ]
+        }
+    },
     "keepouts": {},
-    "lines": {},
+    "lines": {
+        "3b52a4b0-4cc5-4f00-8790-ad3a8b665735": {
+            "from": "db5b10f3-c54f-481e-88a6-9cc7d189a263",
+            "layer": 20,
+            "to": "a409ac6c-9087-4af4-a59f-483b41d79c5c",
+            "width": 150000
+        },
+        "fe13ad5f-5e08-4ace-ab19-fd7f7db14c20": {
+            "from": "458ec142-b6fa-4bf1-96a5-4cac0d22bd2d",
+            "layer": 20,
+            "to": "f52f6b77-bb9c-44d5-a9c1-1c3a8b0f3ba9",
+            "width": 150000
+        }
+    },
     "manufacturer": "",
     "models": {
         "96c366ee-a963-41a0-9cc8-54c646979695": {
@@ -266,7 +304,7 @@
                 "mirror": false,
                 "shift": [
                     -1400000,
-                    1400000
+                    1500000
                 ]
             },
             "size": 1000000,
