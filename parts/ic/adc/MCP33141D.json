@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "MCP33141D"
+        "MCP33141D-05"
     ],
     "datasheet": [
         false,
@@ -20,7 +20,7 @@
     ],
     "model": "d5a4cd95-dd7e-406d-a9d8-2a6760fb9946",
     "orderable_MPNs": {
-        "6a840475-e955-4d40-9672-9aa7159972ce": "MCP33141D-05T-E/MS"
+        "6a840475-e955-4d40-9672-9aa7159972ce": "MCP33141D-05-E/MS"
     },
     "package": "ded672b2-363d-4902-86d2-6dbf22664364",
     "pad_map": {
