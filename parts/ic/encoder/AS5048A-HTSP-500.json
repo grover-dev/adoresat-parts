@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "AS5048A-HTSP-500"
+    ],
+    "base": "2ffab51e-810d-4dae-bcfb-54f665c6b547",
+    "datasheet": [
+        true,
+        "https://ams.com/documents/20143/36005/AS5048_DS000298_4-00.pdf/910aef1f-6cd3-cbda-9d09-41f152104832"
+    ],
+    "description": [
+        true,
+        "Board Mount Hall Effect / Magnetic Sensors 14-Bit Rotary Pos Sensor I2C"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "AMS"
+    ],
+    "model": "2a99aa4d-569e-4a72-af9f-b01e650621ae",
+    "orderable_MPNs": {
+        "d504d851-b9b5-463c-baf3-acdd52266c90": "AS5048A-HTSP-500"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a6b97077-481e-486d-9bb4-dfd420714640",
+    "value": [
+        false,
+        "14 Bit Mag Encoder - SPI"
+    ]
+}
