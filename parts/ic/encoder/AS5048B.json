@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "AS5048B"
+        "AS5048B-HTSP"
     ],
     "datasheet": [
         false,
@@ -91,6 +91,6 @@
     "uuid": "2ffab51e-810d-4dae-bcfb-54f665c6b547",
     "value": [
         false,
-        ""
+        "14 Bit Mag Encoder - I2C"
     ]
 }
