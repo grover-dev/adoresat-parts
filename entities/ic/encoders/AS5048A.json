@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "06fdff10-f82c-4c1b-8d1d-60ec3ceede2f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "88b4db2b-b51e-4ed2-9738-582283a610b7"
+        }
+    },
+    "manufacturer": "AMS",
+    "name": "AS5048A",
+    "prefix": "U",
+    "tags": [
+        "encoder",
+        "ic",
+        "magetics"
+    ],
+    "type": "entity",
+    "uuid": "7b3f74d3-dea0-4f51-8b96-92ec61522812"
+}
