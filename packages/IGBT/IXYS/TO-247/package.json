@@ -34,22 +34,7 @@
             ]
         }
     },
-    "keepouts": {
-        "2c03f05d-c90e-4c42-8ada-8bbb3359654f": {
-            "all_cu_layers": true,
-            "exposed_cu_only": false,
-            "keepout_class": "",
-            "patch_types_cu": [
-                "track",
-                "pad",
-                "pad_th",
-                "via",
-                "plane",
-                "hole_pth"
-            ],
-            "polygon": "66120f78-fc9a-48a0-8243-2b16311c4a9e"
-        }
-    },
+    "keepouts": {},
     "lines": {
         "1ca9d8cd-8aa1-4ba8-ba6e-1dd791b8ff2f": {
             "from": "3aeb6b80-f2b3-479f-b0db-e5d331f992f1",
@@ -85,7 +70,7 @@
             "x": 0,
             "y": 18300000,
             "yaw": 32768,
-            "z": 2100000
+            "z": 21000000
         }
     },
     "name": "TO-247",
@@ -227,66 +212,6 @@
         "courtyard_expansion": 500000
     },
     "polygons": {
-        "66120f78-fc9a-48a0-8243-2b16311c4a9e": {
-            "layer": 100,
-            "parameter_class": "",
-            "vertices": [
-                {
-                    "arc_center": [
-                        0,
-                        0
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        -10000,
-                        14690000
-                    ],
-                    "type": "line"
-                },
-                {
-                    "arc_center": [
-                        0,
-                        18400000
-                    ],
-                    "arc_reverse": true,
-                    "position": [
-                        -10000,
-                        14690000
-                    ],
-                    "type": "arc"
-                }
-            ]
-        },
-        "7f5d76b8-8779-496e-81cb-a23f53da18a7": {
-            "layer": 10,
-            "parameter_class": "",
-            "vertices": [
-                {
-                    "arc_center": [
-                        0,
-                        0
-                    ],
-                    "arc_reverse": false,
-                    "position": [
-                        3700000,
-                        18400000
-                    ],
-                    "type": "line"
-                },
-                {
-                    "arc_center": [
-                        0,
-                        18400000
-                    ],
-                    "arc_reverse": true,
-                    "position": [
-                        3700000,
-                        18400000
-                    ],
-                    "type": "arc"
-                }
-            ]
-        },
         "8fa48026-6bdb-4b02-8548-128ab7463d58": {
             "layer": 60,
             "parameter_class": "courtyard",
