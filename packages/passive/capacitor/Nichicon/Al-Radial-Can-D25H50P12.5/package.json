@@ -1,0 +1,168 @@
+{
+    "arcs": {
+        "9dd4b67c-eee5-4a76-8d7e-b7bf3261b524": {
+            "center": "baf98cdd-839b-44d5-a5fe-3b023150140c",
+            "from": "e9b41e4e-4b5d-4730-b699-a0ab9411b55f",
+            "layer": 20,
+            "to": "4a719307-9b5d-448f-9b7d-0f1414087388",
+            "width": 150000
+        }
+    },
+    "default_model": "78cee8b3-4684-420e-abc6-55d0a2301ab2",
+    "dimensions": {},
+    "junctions": {
+        "4a719307-9b5d-448f-9b7d-0f1414087388": {
+            "position": [
+                0,
+                -13000000
+            ]
+        },
+        "baf98cdd-839b-44d5-a5fe-3b023150140c": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "e9b41e4e-4b5d-4730-b699-a0ab9411b55f": {
+            "position": [
+                0,
+                13000000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {
+        "78cee8b3-4684-420e-abc6-55d0a2301ab2": {
+            "filename": "3d_models/passive/capacitor/Al-Radial-Can-D25-H50-P12.5.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 6250000,
+            "y": 0,
+            "yaw": 32768,
+            "z": 100000
+        }
+    },
+    "name": "Al-Radial-Can-D25H50P12.5",
+    "pads": {
+        "5b500bc0-968d-4099-ae49-81969dc0d7a8": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1100000,
+                "pad_diameter": 1300000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    6250000,
+                    0
+                ]
+            }
+        },
+        "86da8ee8-0536-4611-89e4-aff64db32be0": {
+            "name": "1",
+            "padstack": "982142aa-2883-4fd0-9b0b-37eb5a37dd35",
+            "parameter_set": {
+                "hole_diameter": 1100000,
+                "pad_height": 1300000,
+                "pad_width": 1300000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -6250000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "f7e83899-122d-4d84-aaac-32ad8ae6629a": {
+            "layer": 60,
+            "parameter_class": "courtyard",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        -12500000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        0,
+                        -12500000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [],
+    "texts": {
+        "3f5b43f9-554b-42b4-b60e-c5c5e5f6c975": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -16250000,
+                    1250000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "c8d0bee2-6985-4c06-9921-c5b66ab47087": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -17500000,
+                    0
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
+    "type": "package",
+    "uuid": "c664a0f0-bc3e-444e-9df8-e840b663a919"
+}

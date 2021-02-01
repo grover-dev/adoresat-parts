@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "MBE04140C1003FC100"
+    ],
+    "base": "53646aad-9e9e-4832-a228-e7e78636fa35",
+    "datasheet": [
+        true,
+        "https://www.mouser.com/datasheet/2/427/mbxsma-1286643.pdf"
+    ],
+    "description": [
+        true,
+        "Metal Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Vishay"
+    ],
+    "model": "7b9e6295-bbdc-4e80-8e1f-98ba5d86c391",
+    "orderable_MPNs": {
+        "6dc84910-8fc5-429a-95f4-65baea69ac0b": "MBE04140C1003FC100"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "100000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "2ac8d5f8-ef25-4d73-9764-7ff21ed47fdd",
+    "value": [
+        false,
+        "100 kOhm - 1% - 1 W"
+    ]
+}

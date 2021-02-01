@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "d3fa2e15-64f8-446b-96e5-a3dd685f0377": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9aa9ec96-6fdd-41e3-9220-ab326e58ae81"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "DRV8303",
+    "prefix": "U",
+    "tags": [
+        "gate driver",
+        "ic",
+        "mosfet driver"
+    ],
+    "type": "entity",
+    "uuid": "3528452b-1837-46fa-85f1-2c36084aa2da"
+}

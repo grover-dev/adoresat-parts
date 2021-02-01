@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Mounting Hole",
+    "pins": {
+        "14824539-ba48-47a0-aba6-4a80d6939391": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9f26b92f-e0e2-49b0-8664-e31586f8bed9"
+}

@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "PQ2614BHA-150K"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/bourns_PQ2614BLA_BHA_datasheet-1159238.pdf"
+    ],
+    "description": [
+        false,
+        "Fixed, Shielded Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "b6be421c-73c0-403f-b75f-c8239ffed626",
+    "orderable_MPNs": {
+        "eee61e28-1d89-4d7a-a2d7-b6e3c3e87b69": "PQ2614BHA-150K"
+    },
+    "package": "323d9e10-8cfd-4045-a834-da3962a97f50",
+    "pad_map": {
+        "01c7865d-9fc7-4b7a-a23c-131f62e9ce9d": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "d52cf9b5-9929-416c-8ce5-a2554e4e2fa9": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0.0019",
+        "idc": "30",
+        "table": "inductors",
+        "value": "1.5e-05"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "64ad573b-9dd6-49d8-8802-24b34f7487a5",
+    "value": [
+        false,
+        "15 uH - 30 A - 1.9 mOhm"
+    ]
+}
