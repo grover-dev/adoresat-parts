@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2c20c4a1-cde5-46de-9478-396024cec51d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f52f7b37-6bd5-4b5b-a46b-904aea160ab0"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "SNx5HVD308xE",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "b84e385f-38c1-4762-916e-60068117cd04"
+}

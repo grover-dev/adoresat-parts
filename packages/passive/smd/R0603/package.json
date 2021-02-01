@@ -2,9 +2,47 @@
     "arcs": {},
     "default_model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "dimensions": {},
-    "junctions": {},
+    "junctions": {
+        "17079b5d-57fe-4bd6-b89e-ce04493b4c6b": {
+            "position": [
+                300000,
+                600000
+            ]
+        },
+        "18cea436-f40b-45c0-9ff9-280995233b17": {
+            "position": [
+                -300000,
+                600000
+            ]
+        },
+        "d2eeb53f-5a63-484b-be9e-06c3e0e0c202": {
+            "position": [
+                -300000,
+                -600000
+            ]
+        },
+        "d3f68ea7-1f45-4a79-9f35-ed440d4d05f4": {
+            "position": [
+                300000,
+                -600000
+            ]
+        }
+    },
     "keepouts": {},
-    "lines": {},
+    "lines": {
+        "97d21cd8-8cb4-49e9-8beb-bfbf6d05d5bc": {
+            "from": "17079b5d-57fe-4bd6-b89e-ce04493b4c6b",
+            "layer": 20,
+            "to": "18cea436-f40b-45c0-9ff9-280995233b17",
+            "width": 150000
+        },
+        "e99d0f26-3c9a-4a2c-98c0-a5ac08e08ece": {
+            "from": "d2eeb53f-5a63-484b-be9e-06c3e0e0c202",
+            "layer": 20,
+            "to": "d3f68ea7-1f45-4a79-9f35-ed440d4d05f4",
+            "width": 150000
+        }
+    },
     "manufacturer": "",
     "models": {
         "96c366ee-a963-41a0-9cc8-54c646979695": {

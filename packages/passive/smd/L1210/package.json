@@ -68,8 +68,9 @@
     "pads": {
         "af633f04-39de-4605-b33a-2010e8795070": {
             "name": "1",
-            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
+                "corner_radius": 100000,
                 "pad_height": 2500000,
                 "pad_width": 900000
             },
@@ -84,8 +85,9 @@
         },
         "dea5a138-9f86-4a13-a99d-2c1253f285f2": {
             "name": "2",
-            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
+                "corner_radius": 100000,
                 "pad_height": 2500000,
                 "pad_width": 900000
             },
@@ -265,6 +267,18 @@
                     "type": "line"
                 }
             ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
         }
     },
     "tags": [

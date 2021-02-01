@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "57d08c8c-4cf3-4e76-b103-629f699b596d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9f26b92f-e0e2-49b0-8664-e31586f8bed9"
+        }
+    },
+    "manufacturer": "",
+    "name": "Mounting Hole",
+    "prefix": "MH",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "bfbcf4c1-1065-4f57-9de9-10d5bfc4c2b2"
+}

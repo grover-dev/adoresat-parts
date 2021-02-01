@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM31CC72A475ME11L"
+    ],
+    "base": "6f7f5dca-cda3-4015-a77b-85cd2e08ef2d",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/1/GRM31CC72A475ME11_01A-1987838.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "e12c3607-0292-4502-b4a6-fe204043552b": "GRM31CC72A475ME11L"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X7S",
+        "value": "4.7e-06",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "bef12c84-876b-4272-bf22-fe2551ce018d",
+    "value": [
+        false,
+        "4.7 uF - 100V - X7S - 20%"
+    ]
+}
