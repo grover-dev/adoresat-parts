@@ -112,13 +112,13 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 9200000,
-                "pad_width": 3500000
+                "pad_width": 3350000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -5425000,
+                    -5475000,
                     19018000
                 ]
             }
@@ -128,15 +128,15 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 100000,
-                "pad_height": 7560000,
-                "pad_width": 1505000
+                "pad_height": 7860000,
+                "pad_width": 1405000
             },
             "placement": {
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
                     0,
-                    22860000
+                    22910000
                 ]
             }
         },
@@ -179,13 +179,13 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 9200000,
-                "pad_width": 3500000
+                "pad_width": 3350000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    5425000,
+                    5475000,
                     19018000
                 ]
             }
