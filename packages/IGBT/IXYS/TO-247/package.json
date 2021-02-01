@@ -34,7 +34,22 @@
             ]
         }
     },
-    "keepouts": {},
+    "keepouts": {
+        "463bb9be-c0ff-428f-9d3c-96adfd6edf4d": {
+            "all_cu_layers": true,
+            "exposed_cu_only": false,
+            "keepout_class": "Top Copper",
+            "patch_types_cu": [
+                "track",
+                "pad",
+                "pad_th",
+                "via",
+                "plane",
+                "hole_pth"
+            ],
+            "polygon": "915faeb7-38ab-4b85-948d-7adbb0623d52"
+        }
+    },
     "lines": {
         "1ca9d8cd-8aa1-4ba8-ba6e-1dd791b8ff2f": {
             "from": "3aeb6b80-f2b3-479f-b0db-e5d331f992f1",
@@ -70,7 +85,7 @@
             "x": 0,
             "y": 18300000,
             "yaw": 32768,
-            "z": 21000000
+            "z": 2100000
         }
     },
     "name": "TO-247",
@@ -263,6 +278,36 @@
                         -800000
                     ],
                     "type": "line"
+                }
+            ]
+        },
+        "915faeb7-38ab-4b85-948d-7adbb0623d52": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        3680000,
+                        18390000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        18400000
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        3680000,
+                        18390000
+                    ],
+                    "type": "arc"
                 }
             ]
         }
