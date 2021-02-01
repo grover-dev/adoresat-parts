@@ -111,7 +111,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -128,7 +128,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -145,7 +145,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -162,7 +162,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -179,7 +179,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -196,7 +196,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -213,7 +213,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 49152,
@@ -230,7 +230,7 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 2040000,
-                "pad_width": 500000
+                "pad_width": 450000
             },
             "placement": {
                 "angle": 16384,
@@ -423,7 +423,42 @@
         }
     },
     "tags": [],
-    "texts": {},
+    "texts": {
+        "8bec8d50-7bb3-48f9-8be8-23476a880860": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2760000,
+                    -2690000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        },
+        "b7df9520-1407-4840-afc7-520d64c0a8b7": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2660000,
+                    2430000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
     "type": "package",
     "uuid": "199498cd-bb7f-4bdf-b2f4-7638e2c963de"
 }

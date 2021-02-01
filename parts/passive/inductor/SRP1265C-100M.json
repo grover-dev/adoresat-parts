@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SRP1265C-100M"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/Bourns_SRP1265C_datasheet-1775834.pdf"
+    ],
+    "description": [
+        false,
+        "Shielded Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "6c758425-66a0-4cb4-bfc2-3f4ac821ba99",
+    "orderable_MPNs": {
+        "b5ba697b-b7b5-4b8d-8f56-72f35da2faa1": "SRP1265C-100M"
+    },
+    "package": "b0b7d7dd-6e0e-463d-b4fd-dc6ccc4acf85",
+    "pad_map": {
+        "999bc849-bdf0-45e5-ab22-0034cd7f0958": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "d382ff6c-a619-4a9e-802f-a6177cf3a549": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.018",
+        "idc": "12",
+        "table": "inductors",
+        "value": "1e-05"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "20c1224d-77bc-483e-a88a-4c4451dd0e4e",
+    "value": [
+        false,
+        "10 uH - 12 A - 18 mOhm"
+    ]
+}

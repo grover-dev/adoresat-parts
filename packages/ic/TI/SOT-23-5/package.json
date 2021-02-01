@@ -6,36 +6,38 @@
         "150a98f3-0de1-4d26-8987-68f265733cbc": {
             "position": [
                 -1500000,
-                1500000
+                1550000
             ]
         },
         "295c38fd-e575-48bf-bb39-5d958bb53a3a": {
             "position": [
                 1500000,
-                1500000
+                1550000
             ]
         },
         "2c422d6f-49ff-4469-9fbd-aacd5668d49b": {
             "position": [
                 1500000,
-                -1500000
+                -1550000
             ]
         },
         "5bf195dc-502d-4de9-a999-52d1275bc0ed": {
             "position": [
                 -2000000,
-                -1500000
+                -1550000
             ]
         },
         "8935e621-b5d4-401f-bd13-9b450c198063": {
             "position": [
-                -2000000,
-                1500000
+                -2300000,
+                1550000
+
             ]
         },
         "c3b7e10b-4ad2-4f1e-a91b-3f58586a64fd": {
             "position": [
-                -2000000,
+                -2300000,
+
                 1000000
             ]
         }
@@ -67,7 +69,7 @@
             "width": 150000
         }
     },
-    "manufacturer": "Maxim",
+    "manufacturer": "TI",
     "models": {
         "32cb6dfb-367c-488f-a022-80eb6c8bbf76": {
             "filename": "3d_models/Maxim/SOT23-5.step",
@@ -93,7 +95,7 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    -1070000,
+                    -1300000,
                     0
                 ]
             }
@@ -110,7 +112,7 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    1070000,
+                    1300000,
                     950000
                 ]
             }
@@ -127,7 +129,7 @@
                 "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    1070000,
+                    1300000,
                     -950000
                 ]
             }
@@ -144,7 +146,7 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    -1070000,
+                    -1300000,
                     950000
                 ]
             }
@@ -161,14 +163,16 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    -1070000,
+                    -1300000,
                     -950000
                 ]
             }
         }
     },
     "parameter_program": "",
-    "parameter_set": {},
+    "parameter_set": {
+        "courtyard_expansion": 500000
+    },
     "polygons": {
         "3554657f-9c9a-453e-95e6-d0fc15cdf212": {
             "layer": 60,
@@ -181,8 +185,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1975000,
-                        -1700000
+                        -1955000,
+                        -1450000
                     ],
                     "type": "line"
                 },
@@ -193,8 +197,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1975000,
-                        -1700000
+                        -1955000,
+                        1450000
                     ],
                     "type": "line"
                 },
@@ -205,8 +209,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1975000,
-                        1700000
+                        1955000,
+                        1450000
                     ],
                     "type": "line"
                 },
@@ -217,8 +221,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1975000,
-                        1700000
+                        1955000,
+                        -1450000
                     ],
                     "type": "line"
                 }
@@ -279,6 +283,18 @@
             ]
         }
     },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
     "tags": [],
     "texts": {
         "1baa2ecf-a3b8-4ce7-b3c7-83a12a64591c": {
@@ -290,13 +306,13 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -2000000,
-                    2250000
+                    -2400000,
+                    2550000
                 ]
             },
-            "size": 600000,
+            "size": 1000000,
             "text": "$RD",
-            "width": 50000
+            "width": 150000
         },
         "ff9aca8b-2f98-4ae1-94f0-78c28dea7893": {
             "font": "simplex",

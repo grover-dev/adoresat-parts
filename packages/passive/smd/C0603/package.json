@@ -1,158 +1,67 @@
 {
-    "_imp": {
-        "grid_spacing": 100000,
-        "layer_display": {
-            "layer_opacity": 30.0,
-            "layers": {
-                "-1": {
-                    "color": {
-                        "b": 0.0,
-                        "g": 1.0,
-                        "r": 1.0
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-100": {
-                    "color": {
-                        "b": 0.0,
-                        "g": 0.5,
-                        "r": 0.0
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-110": {
-                    "color": {
-                        "b": 0.25,
-                        "g": 0.5,
-                        "r": 0.25
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-120": {
-                    "color": {
-                        "b": 0.899999976158142,
-                        "g": 0.899999976158142,
-                        "r": 0.899999976158142
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-130": {
-                    "color": {
-                        "b": 0.800000011920929,
-                        "g": 0.800000011920929,
-                        "r": 0.800000011920929
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-140": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 0.5
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-150": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 0.5
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "-160": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 0.5
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "0": {
-                    "color": {
-                        "b": 0.0,
-                        "g": 0.0,
-                        "r": 1.0
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "10": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 1.0
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "20": {
-                    "color": {
-                        "b": 0.899999976158142,
-                        "g": 0.899999976158142,
-                        "r": 0.899999976158142
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "30": {
-                    "color": {
-                        "b": 0.800000011920929,
-                        "g": 0.800000011920929,
-                        "r": 0.800000011920929
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "40": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 0.5
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "50": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 0.5
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "60": {
-                    "color": {
-                        "b": 0.5,
-                        "g": 0.5,
-                        "r": 0.5
-                    },
-                    "display_mode": "fill",
-                    "visible": true
-                }
-            }
+    "arcs": {},
+    "default_model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "dimensions": {},
+    "junctions": {
+        "458ec142-b6fa-4bf1-96a5-4cac0d22bd2d": {
+            "position": [
+                -400000,
+                600000
+            ]
+        },
+        "a409ac6c-9087-4af4-a59f-483b41d79c5c": {
+            "position": [
+                400000,
+                -600000
+            ]
+        },
+        "db5b10f3-c54f-481e-88a6-9cc7d189a263": {
+            "position": [
+                -400000,
+                -600000
+            ]
+        },
+        "f52f6b77-bb9c-44d5-a9c1-1c3a8b0f3ba9": {
+            "position": [
+                400000,
+                600000
+            ]
         }
     },
-    "arcs": {},
-    "junctions": {},
-    "lines": {},
+    "keepouts": {},
+    "lines": {
+        "3b52a4b0-4cc5-4f00-8790-ad3a8b665735": {
+            "from": "db5b10f3-c54f-481e-88a6-9cc7d189a263",
+            "layer": 20,
+            "to": "a409ac6c-9087-4af4-a59f-483b41d79c5c",
+            "width": 150000
+        },
+        "fe13ad5f-5e08-4ace-ab19-fd7f7db14c20": {
+            "from": "458ec142-b6fa-4bf1-96a5-4cac0d22bd2d",
+            "layer": 20,
+            "to": "f52f6b77-bb9c-44d5-a9c1-1c3a8b0f3ba9",
+            "width": 150000
+        }
+    },
     "manufacturer": "",
-    "model_filename": "3d_models/passive/capacitor/C_0603_1608Metric.step",
+    "models": {
+        "96c366ee-a963-41a0-9cc8-54c646979695": {
+            "filename": "3d_models/passive/capacitor/C_0603_1608Metric.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "C0603",
     "pads": {
         "5eb3d31f-6cc4-43f5-a1e0-6ff6d5834e89": {
             "name": "2",
-            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
+                "corner_radius": 100000,
                 "pad_height": 750000,
                 "pad_width": 800000
             },
@@ -167,8 +76,9 @@
         },
         "dbd0c5ca-3d47-4dc1-9012-bed19d601c53": {
             "name": "1",
-            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
+                "corner_radius": 100000,
                 "pad_height": 750000,
                 "pad_width": 800000
             },
@@ -350,12 +260,25 @@
             ]
         }
     },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
     "tags": [
         "generic",
         "smd"
     ],
     "texts": {
         "6fa03168-c6b6-449c-889e-3e9cd53e60d4": {
+            "font": "simplex",
             "from_smash": false,
             "layer": 50,
             "origin": "center",
@@ -372,6 +295,7 @@
             "width": 0
         },
         "95ead6b1-821a-4c98-88ce-e502e4be13e7": {
+            "font": "simplex",
             "from_smash": false,
             "layer": 20,
             "origin": "center",
@@ -380,7 +304,7 @@
                 "mirror": false,
                 "shift": [
                     -1400000,
-                    1400000
+                    1500000
                 ]
             },
             "size": 1000000,
