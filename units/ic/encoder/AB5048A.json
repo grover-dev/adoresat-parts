@@ -1,0 +1,120 @@
+{
+    "manufacturer": "AMS",
+    "name": "AB5048A",
+    "pins": {
+        "16645aeb-d26e-4294-b3a9-9939714672a8": {
+            "direction": "not_connected",
+            "names": [
+                "TEST"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "20a4a245-9f83-42ca-b7f6-6d104c997791": {
+            "direction": "input",
+            "names": [
+                "MISO"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "22f042b2-1daf-4774-ab02-3e4706d7b26c": {
+            "direction": "output",
+            "names": [
+                "PWM"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "3e3cb9e1-5de4-44cd-a5f9-e1c71c7dd56c": {
+            "direction": "not_connected",
+            "names": [
+                "TEST"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "3e554bad-1acb-4558-a001-b27e5cd7e58f": {
+            "direction": "not_connected",
+            "names": [
+                "TEST"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "50802313-69bc-4461-89c1-fd9ffc619ac8": {
+            "direction": "power_input",
+            "names": [
+                "VDD5V"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "5cf88d19-eae7-4ceb-b78a-b8acee9eb027": {
+            "direction": "power_input",
+            "names": [
+                "VDD3V"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "5ef399d2-afa8-4205-8387-4f349d0aaca7": {
+            "direction": "input",
+            "names": [
+                "MOSI"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "6370f053-42e4-43c6-a88b-94b22eeee6ca": {
+            "direction": "input",
+            "names": [
+                "CLK"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "7ec2ef68-2178-40e4-ba50-26766165d733": {
+            "direction": "bidirectional",
+            "names": [
+                "CSn"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "9203cbd7-773f-4203-9827-d029e197ae60": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "bbc7c7df-841c-462b-90f3-37a3baf861ef": {
+            "direction": "not_connected",
+            "names": [
+                "TEST"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "cf45ddcf-de1f-4023-963d-19a775089616": {
+            "direction": "not_connected",
+            "names": [
+                "TEST"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "ee1eb211-1a72-4425-a316-1b16911439fe": {
+            "direction": "passive",
+            "names": [
+                "TEST"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "88b4db2b-b51e-4ed2-9738-582283a610b7"
+}

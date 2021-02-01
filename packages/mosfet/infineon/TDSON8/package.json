@@ -15,6 +15,12 @@
                 4075000
             ]
         },
+        "74387b23-123d-4306-b864-970536492a0d": {
+            "position": [
+                -2575000,
+                -3800000
+            ]
+        },
         "918ec62a-2ec9-414d-8444-a6b15976b3e9": {
             "position": [
                 -2575000,
@@ -34,6 +40,12 @@
             "from": "61730b0c-fc1e-4614-94c9-9df6ccb52833",
             "layer": 20,
             "to": "1d654cce-93bb-448b-9140-93c30b0257f5",
+            "width": 150000
+        },
+        "11f0b5b8-55e4-4093-b704-444666cab550": {
+            "from": "918ec62a-2ec9-414d-8444-a6b15976b3e9",
+            "layer": 20,
+            "to": "74387b23-123d-4306-b864-970536492a0d",
             "width": 150000
         },
         "9912942b-89df-404c-be16-2247076ceb84": {
@@ -64,7 +76,7 @@
     "name": "PG-TDSON-8-34",
     "pads": {
         "2f552596-2a62-4aa6-b601-70996a944994": {
-            "name": "1",
+            "name": "8",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 4410000,
@@ -80,7 +92,7 @@
             }
         },
         "77062efa-0a87-45d2-b8cd-9321839d7126": {
-            "name": "2",
+            "name": "1",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 1500000,
@@ -96,7 +108,7 @@
             }
         },
         "84ae3694-78e7-4c24-9dd0-26ae24e540b6": {
-            "name": "3",
+            "name": "4",
             "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
             "parameter_set": {
                 "pad_height": 600000,
@@ -276,6 +288,18 @@
                     "type": "line"
                 }
             ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
         }
     },
     "tags": [],

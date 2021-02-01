@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "869d7679-923d-4936-8219-e6249bbcf7b1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1db83477-5af7-49bf-8ff9-cfb35fb4822c"
+        }
+    },
+    "manufacturer": "",
+    "name": "D-Sub 15",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "936ff372-bfe2-4da3-873c-799168597aae"
+}

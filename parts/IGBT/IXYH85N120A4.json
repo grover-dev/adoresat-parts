@@ -1,0 +1,66 @@
+{
+    "MPN": [
+        false,
+        "IXYH85N120A4"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/240/littelfuse_5_5_2020_discrete_igbts_xpt_ixyh85n120a-1843179.pdf"
+    ],
+    "description": [
+        false,
+        "IGBT"
+    ],
+    "entity": "3e08bc82-d9de-48c1-b7ff-0894921a5be4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "IXYS"
+    ],
+    "model": "0cf8a0f8-3051-440c-a25b-ad7c66964919",
+    "orderable_MPNs": {
+        "15b8bd9d-4cda-40dc-a11a-3498b82fb263": "IXYH85N120A4"
+    },
+    "package": "921c6447-1f50-4cec-a527-9e95dabe2de9",
+    "pad_map": {
+        "0395a760-311c-4d1b-ae7f-f8ff8f8fbc59": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "80b0a197-1ef6-461c-bdce-d635165638de"
+        },
+        "38cbc505-343a-48bd-8698-226aa0beed49": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "891a443a-cf2b-4579-9159-5b8670152462"
+        },
+        "529c3496-072c-4b7f-acf8-dd0cf9876fa3": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "891a443a-cf2b-4579-9159-5b8670152462"
+        },
+        "88f9de88-2f57-4992-abec-f17d50988e66": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "891a443a-cf2b-4579-9159-5b8670152462"
+        },
+        "a08c8532-0860-4e1d-af57-7754106f7ebd": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "891a443a-cf2b-4579-9159-5b8670152462"
+        },
+        "bef92c0e-0343-421e-98df-11affc103346": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "891a443a-cf2b-4579-9159-5b8670152462"
+        },
+        "d46b371c-b627-494f-95bb-098e24ae65f6": {
+            "gate": "3ac2d010-6edd-46b7-969f-2ee3cd1996c9",
+            "pin": "9169dfe8-ca15-42a3-9c87-ea821c204d4b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "IGBT"
+    ],
+    "type": "part",
+    "uuid": "f8d81427-2c72-427f-8b31-c8aa1cacc84e",
+    "value": [
+        false,
+        "1200 V - 300 A IGBT"
+    ]
+}

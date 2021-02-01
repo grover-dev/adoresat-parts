@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM188Z71C225ME43J"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/1/GRM188Z71C225ME43_01A-1986058.pdf"
+    ],
+    "description": [
+        false,
+        "Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "b44fe1c2-037c-4c41-9e39-aac798f13291": "GRM188Z71C225ME43J"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X7R",
+        "value": "2.2e-06",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "1486ad26-9f90-46c2-baee-3170577e8361",
+    "value": [
+        false,
+        "2.2 uF - 16 V - X7R - 20%"
+    ]
+}
