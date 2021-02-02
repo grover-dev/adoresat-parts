@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "f7598d11-4eb2-4165-aea8-963adf3e6956": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c40c79d3-e487-4d67-9ab8-58011a55a5d4"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX17502 - TDFN",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "entity",
+    "uuid": "5ed957e2-003c-42f1-8ef7-c1a42f130f82"
+}
