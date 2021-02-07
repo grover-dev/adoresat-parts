@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "cde31f06-3357-413f-8ba6-e1775ecd7141": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8616ce0a-8039-4b52-a36a-ff67019aed24"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "LM5164",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "entity",
+    "uuid": "efc71c57-fc4e-4a6f-aabe-ac6f33dfd894"
+}

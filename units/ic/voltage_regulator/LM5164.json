@@ -1,0 +1,80 @@
+{
+    "manufacturer": "TI",
+    "name": "LM5164",
+    "pins": {
+        "13ff1ef4-3367-4dd4-a0ae-3a519b17877d": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "2b8dc997-bf50-43d9-a65f-f71a466a7c76": {
+            "direction": "power_output",
+            "names": [
+                "SW"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745": {
+            "direction": "passive",
+            "names": [
+                "PAD"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "92509e82-63bb-4646-a950-2ff1a399e191": {
+            "direction": "input",
+            "names": [
+                "RON"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "9474aa72-fab6-4348-82d7-2960a09efdd5": {
+            "direction": "output",
+            "names": [
+                "PGOOD"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "9fc98da6-abae-4478-91eb-11d2985106f5": {
+            "direction": "input",
+            "names": [
+                "EN/UVLO"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "a90f152d-5759-4daa-89d5-93678e910d16": {
+            "direction": "input",
+            "names": [
+                "FB"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "ab8ce6ea-36dd-4a9b-9e03-23078563cad4": {
+            "direction": "input",
+            "names": [
+                "BST"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "e80b2f56-ffa3-4dc0-ad89-815497be654d": {
+            "direction": "power_input",
+            "names": [
+                "VIN"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8616ce0a-8039-4b52-a36a-ff67019aed24"
+}

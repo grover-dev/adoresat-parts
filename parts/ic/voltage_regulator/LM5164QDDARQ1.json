@@ -1,0 +1,98 @@
+{
+    "MPN": [
+        false,
+        "LM5164QDDARQ1"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http://www.ti.com/lit/ds/symlink/lm5164-q1.pdf"
+    ],
+    "description": [
+        false,
+        "Switching Voltage Regulator"
+    ],
+    "entity": "efc71c57-fc4e-4a6f-aabe-ac6f33dfd894",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "f9c7c038-3101-4e16-814c-117a17ba9697",
+    "orderable_MPNs": {
+        "d4ef1cd1-d4f4-4c69-8930-625acf7e8506": "LM5164QDDARQ1"
+    },
+    "package": "d3927b14-eb40-468f-aed4-98685bdd6aca",
+    "pad_map": {
+        "09a48f01-5c28-4bfd-8719-24cfe04286d4": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "2b8dc997-bf50-43d9-a65f-f71a466a7c76"
+        },
+        "335a6562-86c9-4f9d-ac1a-e1fb68dafda7": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "a90f152d-5759-4daa-89d5-93678e910d16"
+        },
+        "33b778fd-fe0d-4505-900a-a6da19926573": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "13ff1ef4-3367-4dd4-a0ae-3a519b17877d"
+        },
+        "55509b4a-db57-4b22-abfc-407040308dd4": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        },
+        "639bedbe-c513-4c09-acf9-0ceca02dd751": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        },
+        "8d470cb8-0125-41e9-b634-5dbe372fcb6e": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        },
+        "8f3ca8db-cdff-47c5-93a2-57927ef6000d": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "9474aa72-fab6-4348-82d7-2960a09efdd5"
+        },
+        "908ca677-94e1-4555-865f-26c663680e11": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        },
+        "943cb065-d812-4c5a-9181-823874d4c036": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "ab8ce6ea-36dd-4a9b-9e03-23078563cad4"
+        },
+        "9639f64d-7c24-4425-8d10-1d978e1406a4": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        },
+        "9a2e7aa8-3e26-4325-80b4-50b8d20817ae": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "9fc98da6-abae-4478-91eb-11d2985106f5"
+        },
+        "a6c88407-e837-4e9a-b369-148e5873d2db": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "92509e82-63bb-4646-a950-2ff1a399e191"
+        },
+        "c90be9eb-aa96-4f95-9a4c-1e1821ef1cd4": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        },
+        "d865f94a-c12b-43d4-9857-0d7181b2ab75": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "e80b2f56-ffa3-4dc0-ad89-815497be654d"
+        },
+        "fa590ef5-b6bc-4f02-a71a-0487329709e1": {
+            "gate": "cde31f06-3357-413f-8ba6-e1775ecd7141",
+            "pin": "6ffbfb82-d4f5-49ea-aca1-1c5654ab1745"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "voltage regulator"
+    ],
+    "type": "part",
+    "uuid": "88718b26-d563-44dd-9ba3-196430f76114",
+    "value": [
+        false,
+        "LM5164Q1"
+    ]
+}
