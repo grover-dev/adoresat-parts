@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CR0603-FX-4873ELF"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "3b534068-7f6f-4898-9218-92ed27b1eef3": "CR0603-FX-4873ELF"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "487000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "385ab6c9-2024-45f7-9855-aaaa8b894d88",
+    "value": [
+        false,
+        "487 kOhm - 1% - 0.1 W"
+    ]
+}

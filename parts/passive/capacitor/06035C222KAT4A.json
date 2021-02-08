@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "06035C222KAT4A"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/40/X7RDielectric-777024.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "AVX"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "006f601c-e39f-4e38-8bfe-c57a335a5430": "06035C222KAT4A"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2e-09",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "32473a7b-f1a3-45d9-97e2-201ba2a563a1",
+    "value": [
+        false,
+        "2.2 nF - 50 V - X7R - 10%"
+    ]
+}
