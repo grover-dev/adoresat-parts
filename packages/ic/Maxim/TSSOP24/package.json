@@ -18,13 +18,13 @@
         "3c87d411-efe2-48f5-a2cd-a1481367598a": {
             "position": [
                 -3446000,
-                4065000
+                4274999
             ]
         },
         "5ed23ee7-ad3d-41bf-9223-191b644cc9b6": {
             "position": [
                 -2475000,
-                4065001
+                4275000
             ]
         },
         "d8fa2cbe-2037-4bb5-9129-743ded68702d": {
@@ -606,6 +606,18 @@
                     "type": "line"
                 }
             ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
         }
     },
     "tags": [
