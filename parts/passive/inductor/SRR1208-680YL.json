@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "SRR1208-680YL"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/srr1208-1391332.pdf"
+    ],
+    "description": [
+        false,
+        "Fixed Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "937912e6-deaf-4309-9697-f7b7788c6c9a",
+    "orderable_MPNs": {
+        "19fa112b-e1e2-44ae-94d8-a273552afccb": "SRR1208-680YL"
+    },
+    "package": "5eddbf6c-cba1-4014-8547-716f0b8bd456",
+    "pad_map": {
+        "aa159347-5e6e-4e58-92ac-291442b8e909": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "eb686af8-c521-429c-9a0a-8bec692b0fc5": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {
+        "dcr": "0.135",
+        "idc": "1.8",
+        "table": "inductors",
+        "value": "6.8e-05"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "ab6c79d4-702c-455f-a7f3-d032673aba71",
+    "value": [
+        false,
+        "68 uH - 1.8 A Imax - 135 mOhm"
+    ]
+}

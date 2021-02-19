@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RN73H1JTTD4483F100"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/219/RN73H-1843478.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KOA Speer"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "77b789ab-f5b5-4684-badc-142c93abb22f": "RN73H1JTTD4483F100"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "448000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "4b72918e-af4d-4c87-b371-141bbcac75af",
+    "value": [
+        false,
+        "448 kOhm - 1% - 0.1 W"
+    ]
+}

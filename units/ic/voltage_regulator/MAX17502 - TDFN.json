@@ -1,0 +1,96 @@
+{
+    "manufacturer": "Maxim",
+    "name": "MAX17502 - TDFN",
+    "pins": {
+        "0ad4809e-e269-4bdf-bcf3-88db2663c7a4": {
+            "direction": "input",
+            "names": [
+                "VCC"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "182c49c9-2e46-45f5-b171-977d3d091785": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "279a1b46-08e6-4904-9872-1fbaebb3560c": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "2f93e17d-1f60-4e1d-a927-b86329153062": {
+            "direction": "passive",
+            "names": [
+                "NC/COMP"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "35ba1e74-cc0b-4c2c-9439-b0d728dea0cd": {
+            "direction": "passive",
+            "names": [
+                "PGND"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "3bffae62-4a92-44c5-b483-00695d350744": {
+            "direction": "input",
+            "names": [
+                "SS"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "4fbd9395-1c97-4d23-a658-4e78baa1ca08": {
+            "direction": "power_output",
+            "names": [
+                "nRESET"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "b64379c0-2359-4169-b17b-665131a9fd60": {
+            "direction": "power_output",
+            "names": [
+                "EN/UVLO"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "e4e5f62f-9be1-42f3-b3bb-241f73ae49da": {
+            "direction": "output",
+            "names": [
+                "LX"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "e54d2325-ffd8-48b4-b282-0eac01a61413": {
+            "direction": "input",
+            "names": [
+                "FB/VO"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "e9844d3a-7fe8-41c5-9144-9cb6d2e8614c": {
+            "direction": "power_input",
+            "names": [
+                "Vin"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c40c79d3-e487-4d67-9ab8-58011a55a5d4"
+}

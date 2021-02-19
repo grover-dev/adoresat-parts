@@ -1,0 +1,83 @@
+{
+    "MPN": [
+        false,
+        "MAX17502GATB+T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/256/MAX17502-220009.pdf"
+    ],
+    "description": [
+        false,
+        "Buck Converter"
+    ],
+    "entity": "5ed957e2-003c-42f1-8ef7-c1a42f130f82",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "d3000005-4a48-497e-afb7-50b671f72fac",
+    "orderable_MPNs": {
+        "3b49216f-785e-429f-a076-798f024e109f": "MAX17502GATB+T"
+    },
+    "package": "3a0cc3a0-d277-495f-9417-d77331993772",
+    "pad_map": {
+        "2ca7f0c3-cf4b-4d3e-be50-b2bafaa3ee59": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "e9844d3a-7fe8-41c5-9144-9cb6d2e8614c"
+        },
+        "310cec29-fba3-472d-804c-f80eb12f2bd0": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "4fbd9395-1c97-4d23-a658-4e78baa1ca08"
+        },
+        "5a50ebde-6ca5-48c1-8cb5-010956d1868a": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "3bffae62-4a92-44c5-b483-00695d350744"
+        },
+        "5cdb85ea-5b5a-4ccf-a6f8-c89b1ee1771d": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "2f93e17d-1f60-4e1d-a927-b86329153062"
+        },
+        "616949cb-4e58-4b1a-b030-fff785ab4eeb": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "182c49c9-2e46-45f5-b171-977d3d091785"
+        },
+        "809ef0f0-5891-4ffd-a017-fb5f58b4ecbe": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "b64379c0-2359-4169-b17b-665131a9fd60"
+        },
+        "a725e795-6895-41a7-b574-00a76616456c": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "e54d2325-ffd8-48b4-b282-0eac01a61413"
+        },
+        "afe716a9-bc40-4750-bb56-22804af76e4a": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "279a1b46-08e6-4904-9872-1fbaebb3560c"
+        },
+        "b8fe13ae-86d4-4ae9-acab-ea70602790a4": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "35ba1e74-cc0b-4c2c-9439-b0d728dea0cd"
+        },
+        "eee19f0e-3c49-46ac-be1b-1b7dc42840e1": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "e4e5f62f-9be1-42f3-b3bb-241f73ae49da"
+        },
+        "f957a8a8-7077-4662-818f-00c5583e98a5": {
+            "gate": "f7598d11-4eb2-4165-aea8-963adf3e6956",
+            "pin": "0ad4809e-e269-4bdf-bcf3-88db2663c7a4"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "part",
+    "uuid": "c04bd7d0-69e1-452f-bc41-8d0576341e8e",
+    "value": [
+        false,
+        "MAX17502G"
+    ]
+}
