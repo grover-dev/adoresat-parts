@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-3EKF1402V"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "c0c152ff-c25e-4c25-9efc-6b95c5e3a6bd": "ERJ-3EKF1402V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "14000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9dc1eacf-8d90-45d7-b764-34144e1ad064",
+    "value": [
+        false,
+        "14 kOhm - 1% - 0.1 W"
+    ]
+}
