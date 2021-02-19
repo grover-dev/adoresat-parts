@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "TMK316BBJ226ML-T"
+    ],
+    "base": "6f7f5dca-cda3-4015-a77b-85cd2e08ef2d",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "ba804631-9227-4702-a5ff-06ce80f8f27e": "TMK316BBJ226ML-T"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "2.2e-05",
+        "wvdc": "25"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7a45a9d1-31eb-409a-a516-573d775490ae",
+    "value": [
+        false,
+        "22 uF - 25 V - X5R - 20%"
+    ]
+}

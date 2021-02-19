@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "CL31B225KCHSNNE"
+    ],
+    "base": "6f7f5dca-cda3-4015-a77b-85cd2e08ef2d",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "10b18b36-fe04-4aad-a7fa-f679f1675cea": "CL31B225KCHSNNE"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2e-06",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7f4a3c7c-11e2-44d7-8963-c14cc9c0eb25",
+    "value": [
+        false,
+        "2.2 uF - 100 V - X7R - 10%"
+    ]
+}
