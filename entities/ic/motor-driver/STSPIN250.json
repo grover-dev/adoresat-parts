@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae": {
+            "name": "",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ba0d6738-1331-453c-9e0d-de896eb8b191"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STSPIN250",
+    "prefix": "U",
+    "tags": [
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "e3a87b49-a36e-4882-82cb-1480ee516d82"
+}
