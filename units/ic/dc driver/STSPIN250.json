@@ -1,0 +1,144 @@
+{
+    "manufacturer": "ST",
+    "name": "STSPIN250",
+    "pins": {
+        "1bef2302-0ae3-49e8-bb93-88185214bba0": {
+            "direction": "input",
+            "names": [
+                "PH"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "2bd4e61f-e67b-4f44-b9ba-7ed605e5eda7": {
+            "direction": "input",
+            "names": [
+                "EN/FAULT"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "49f44a00-779f-4c3f-a537-d070ce9da8c5": {
+            "direction": "input",
+            "names": [
+                "TOFF"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "4c2ffb3c-7027-4dda-9b1c-e174d6e04903": {
+            "direction": "input",
+            "names": [
+                "PWM"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "57625b26-46ef-490f-b40c-92d8babd8082": {
+            "direction": "power_output",
+            "names": [
+                "OUTB1"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "5b0127b0-e61e-4fd2-bf26-eb3eb6a96085": {
+            "direction": "power_output",
+            "names": [
+                "OUTA1"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "80586e4a-d0f7-44bd-b317-a446214e81c0": {
+            "direction": "input",
+            "names": [
+                "STBY/RESET"
+            ],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "8309b4d3-b366-4eff-84d9-7cdc33614756": {
+            "direction": "power_output",
+            "names": [
+                "SENSEB"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "88a68054-dabf-4353-abfd-33ed62dc9141": {
+            "direction": "passive",
+            "names": [
+                "TEST0"
+            ],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "952c7581-c73f-411b-8fcb-c904ed847879": {
+            "direction": "passive",
+            "names": [
+                "VS"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "a3250827-77eb-4799-bf8d-abcc41cee72d": {
+            "direction": "power_output",
+            "names": [
+                "SENSEA"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "b544bbda-ccc7-4474-ab46-982669d28ef1": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "d3d026d6-77c6-4bec-9588-19e1741b7ffe": {
+            "direction": "passive",
+            "names": [
+                "TEST1"
+            ],
+            "primary_name": "16",
+            "swap_group": 0
+        },
+        "d8a555a2-45fe-4180-852f-187e46bd1483": {
+            "direction": "passive",
+            "names": [
+                "EPAD"
+            ],
+            "primary_name": "17",
+            "swap_group": 0
+        },
+        "de65c603-8751-4e4a-a0b8-1ac4052fa81e": {
+            "direction": "power_output",
+            "names": [
+                "OUTB2"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "ed291219-f037-4aab-8811-ef7034145e71": {
+            "direction": "input",
+            "names": [
+                "REF"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "f48ff4ba-3240-4462-a964-a5efb29c5472": {
+            "direction": "power_output",
+            "names": [
+                "OUTA2"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ba0d6738-1331-453c-9e0d-de896eb8b191"
+}
