@@ -157,7 +157,7 @@
             "width": 150000
         }
     },
-    "manufacturer": "",
+    "manufacturer": "ST",
     "models": {
         "5ac53c16-0ce7-49bf-b0d6-9afda7b10b55": {
             "filename": "3d_models/ST/QFN-16 (3x3).stp",
@@ -169,7 +169,7 @@
             "z": 0
         }
     },
-    "name": "STSPIN250",
+    "name": "VFQFPN - 16L",
     "pads": {
         "131dc76b-ce1c-470b-a5e6-23c8cebc9ec8": {
             "name": "13",

@@ -5,11 +5,11 @@
     ],
     "datasheet": [
         false,
-        ""
+        "https://www.st.com/resource/en/datasheet/stspin250.pdf"
     ],
     "description": [
         false,
-        ""
+        "dc motor driver"
     ],
     "entity": "e3a87b49-a36e-4882-82cb-1480ee516d82",
     "inherit_model": false,
@@ -19,6 +19,9 @@
         "ST"
     ],
     "model": "5ac53c16-0ce7-49bf-b0d6-9afda7b10b55",
+    "orderable_MPNs": {
+        "4a9e32be-03fc-4f3d-8ca0-ebc6e7fdd6d2": "STSPIN250"
+    },
     "package": "63c98bff-7ad0-428e-ab7b-52fef7a9ac4e",
     "pad_map": {
         "131dc76b-ce1c-470b-a5e6-23c8cebc9ec8": {
@@ -91,11 +94,14 @@
         }
     },
     "parametric": {},
-    "tags": [],
+    "tags": [
+        "dc driver",
+        "ic"
+    ],
     "type": "part",
     "uuid": "bdc21123-1095-4fa3-a1e6-7f64aa919915",
     "value": [
         false,
-        ""
+        "STSPIN250"
     ]
 }
