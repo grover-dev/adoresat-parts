@@ -1,0 +1,107 @@
+{
+    "MPN": [
+        false,
+        "STSPIN250"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/stspin250.pdf"
+    ],
+    "description": [
+        false,
+        "dc motor driver"
+    ],
+    "entity": "e3a87b49-a36e-4882-82cb-1480ee516d82",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "5ac53c16-0ce7-49bf-b0d6-9afda7b10b55",
+    "orderable_MPNs": {
+        "4a9e32be-03fc-4f3d-8ca0-ebc6e7fdd6d2": "STSPIN250"
+    },
+    "package": "63c98bff-7ad0-428e-ab7b-52fef7a9ac4e",
+    "pad_map": {
+        "131dc76b-ce1c-470b-a5e6-23c8cebc9ec8": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "2bd4e61f-e67b-4f44-b9ba-7ed605e5eda7"
+        },
+        "2706eb61-85a7-4e22-a5fd-b86cabd88017": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "a3250827-77eb-4799-bf8d-abcc41cee72d"
+        },
+        "354dab38-d481-495f-b684-ee8d02c708a9": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "1bef2302-0ae3-49e8-bb93-88185214bba0"
+        },
+        "3e654c2f-4e35-44ae-b672-f734b9b0f486": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "d8a555a2-45fe-4180-852f-187e46bd1483"
+        },
+        "404c71b8-ab15-4bf5-b6e6-21b998962f92": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "57625b26-46ef-490f-b40c-92d8babd8082"
+        },
+        "4086e31b-f112-48df-a087-ab899782459d": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "88a68054-dabf-4353-abfd-33ed62dc9141"
+        },
+        "518236f1-6e6e-4c12-8e1b-77f6754cc5c5": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "d3d026d6-77c6-4bec-9588-19e1741b7ffe"
+        },
+        "66293fd8-6200-4c0b-9c98-d37746796b15": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "952c7581-c73f-411b-8fcb-c904ed847879"
+        },
+        "9e9a0115-e18d-40f8-a84e-f0a34e396778": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "80586e4a-d0f7-44bd-b317-a446214e81c0"
+        },
+        "9efb9dac-1708-44cd-852e-b4f98e10199e": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "ed291219-f037-4aab-8811-ef7034145e71"
+        },
+        "b7b7ea6a-7618-44dd-8dc6-bc4be3150430": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "4c2ffb3c-7027-4dda-9b1c-e174d6e04903"
+        },
+        "b8a19ac3-6770-4fa5-86e2-1854e0122ce1": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "de65c603-8751-4e4a-a0b8-1ac4052fa81e"
+        },
+        "c99bf1d4-5114-4289-a192-55d2cf3b51e1": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "8309b4d3-b366-4eff-84d9-7cdc33614756"
+        },
+        "cb21b071-3b74-4186-a9a3-ed7ed67aa950": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "f48ff4ba-3240-4462-a964-a5efb29c5472"
+        },
+        "d63cb1d6-e930-4865-af90-6f5d31c61e13": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "49f44a00-779f-4c3f-a537-d070ce9da8c5"
+        },
+        "e7da0925-de5e-4916-bb66-bee9938d336b": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "b544bbda-ccc7-4474-ab46-982669d28ef1"
+        },
+        "e9273f0b-2976-41fd-9d57-2d29367b681c": {
+            "gate": "de4207fe-1a2f-4f8d-b9b9-6bd5fd9714ae",
+            "pin": "5b0127b0-e61e-4fd2-bf26-eb3eb6a96085"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dc driver",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "bdc21123-1095-4fa3-a1e6-7f64aa919915",
+    "value": [
+        false,
+        "STSPIN250"
+    ]
+}
