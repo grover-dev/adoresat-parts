@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "TMCMA1C226MTRF"
+    ],
+    "base": "6f7f5dca-cda3-4015-a77b-85cd2e08ef2d",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/427/tmcm-1764087.pdf"
+    ],
+    "description": [
+        false,
+        "SMD tantalum polarized"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay / Sprague"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "e9617149-df04-4c7a-9d92-caf0e1df4103": "TMCMA1C226MTRF"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "2.2e-05",
+        "wvdc": "16"
+    },
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "9db350ae-4a34-4aba-be55-492d43f94fb3",
+    "value": [
+        false,
+        "22 uF - 16V - Electrolytic - 20%"
+    ]
+}

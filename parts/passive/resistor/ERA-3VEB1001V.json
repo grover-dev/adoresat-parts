@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "ERA-3VEB1001V"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/Panasonic_Resistor_Thin_Film_(ERA-xV_2c_ERA-xK_Ser-1815278.pdf"
+    ],
+    "description": [
+        false,
+        "SMD resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "8c41cab4-89ca-42e8-a08d-6d0733c84018": "ERA-3VEB1001V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "1000"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "d9387e49-0608-47ec-8051-32d5993b2c04",
+    "value": [
+        false,
+        "1 kOhms - 0.1% - 0.1W"
+    ]
+}

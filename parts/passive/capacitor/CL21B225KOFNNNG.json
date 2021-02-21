@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "CL21B225KOFNNNG"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
+    ],
+    "description": [
+        false,
+        "SMD ceramic capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung Electro-Mechanics"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "0290762d-d67e-49c6-bc12-d1c60d2eb1cd": "CL21B225KOFNNNG"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2e-06",
+        "wvdc": "16"
+    },
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "c1339548-b3d8-4a5d-8559-83752829c719",
+    "value": [
+        false,
+        "2.2 uF - 16V - X7R - 10%"
+    ]
+}

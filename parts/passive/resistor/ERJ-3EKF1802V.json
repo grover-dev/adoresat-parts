@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "ERJ-3EKF1802V"
+    ],
+    "base": "68272fa5-b674-4b57-a892-80c09c6e59d1",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"
+    ],
+    "description": [
+        false,
+        "SMD resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "89e9ace1-d7bd-4932-b676-07a22abe6118": "ERJ-3EKF1802V"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "18000"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "0a47f014-8341-4bb2-9e87-5d7993af1601",
+    "value": [
+        false,
+        "18 kOhms - 1% - 0.1W"
+    ]
+}
