@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "2dec417b-7da1-4566-b5ae-25711d84dab1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "0552c332-f2db-47db-999b-ce4583c13d93"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "INA240-D",
+    "prefix": "U",
+    "tags": [
+        "differential amplifier",
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "3353a224-baf9-4ee4-bc9a-c4c7e24b1554"
+}
