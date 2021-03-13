@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "M2-Mounting Hole"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "M2 Screw Sized Mounting Hole"
+    ],
+    "entity": "bfbcf4c1-1065-4f57-9de9-10d5bfc4c2b2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "2c625b43-76a3-4f69-860d-4f3744974255",
+    "pad_map": {
+        "ed8098fb-b678-4460-adf6-d75356611f35": {
+            "gate": "57d08c8c-4cf3-4e76-b103-629f699b596d",
+            "pin": "14824539-ba48-47a0-aba6-4a80d6939391"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "3fc03d29-1d8a-4636-9205-9e3f29d098ee",
+    "value": [
+        false,
+        ""
+    ]
+}
