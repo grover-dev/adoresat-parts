@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "561070332096"
+    ],
+    "base": "daef1a95-dcdd-470f-b133-cc707370330b",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/445/561070332096-1717539.pdf"
+    ],
+    "description": [
+        false,
+        "SMD resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Wurth Elektronik"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "487e6a7d-83d8-4872-abc4-7df0e49251a2": "561070332096"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "0.33"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "e60bbc27-2547-4b1d-8425-78c00b2d984a",
+    "value": [
+        false,
+        "330 mOhms - 5% - 1W"
+    ]
+}

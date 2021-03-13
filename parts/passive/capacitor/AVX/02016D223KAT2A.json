@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "02016D223KAT2A"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/manufacturer/avx/"
+    ],
+    "description": [
+        false,
+        "SMD ceramic capacitor 6.3V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "AVX"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "f8873b6c-f51e-4cf9-bb5e-0c24d369e89d": "02016D223KAT2A"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X5R",
+        "value": "2.2e-08",
+        "wvdc": "6.3"
+    },
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "42747cc9-c33c-4d0a-b552-c398e50439d9",
+    "value": [
+        false,
+        "0.022 uF - 6.3V - X5R - 10%"
+    ]
+}
