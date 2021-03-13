@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "02016C102KAT2A"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/40/X7RDielectric-777024.pdf"
+    ],
+    "description": [
+        false,
+        "SMD ceramic capacitor 6.3V"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "AVX"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "27d49f58-4678-4b74-ba14-b4eb56302ee1": "02016C102KAT2A"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-09",
+        "wvdc": "6.3"
+    },
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "40a50387-0581-46a0-beec-e5b10dcefc78",
+    "value": [
+        false,
+        "1 nF - 6.3V - X7R - 10%"
+    ]
+}

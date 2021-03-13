@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "INA240A1EDRQ1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina240.pdf?ts=1614664131588&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA240"
+    ],
+    "description": [
+        false,
+        "High-side Current Sense Amplifier"
+    ],
+    "entity": "3353a224-baf9-4ee4-bc9a-c4c7e24b1554",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "5344bb4e-f190-4f5b-b387-3ec716177b89",
+    "orderable_MPNs": {
+        "5c5a90d0-a1f3-4263-84f8-59b3e326e4b5": "INA240A1EDRQ1"
+    },
+    "package": "64036c70-3761-4380-9ec4-80941bf5af70",
+    "pad_map": {
+        "1da0b45e-493e-45b1-a44a-d5e9def9b237": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "6fd43ac6-6539-4d96-b7e0-c7daf0c49f90"
+        },
+        "3c9b44d7-7488-4b62-876e-7c970ec2d3de": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "59b84ee3-0fab-4640-8991-007b7e9d49dc"
+        },
+        "84bbd9fe-4946-4a02-a1e7-39214e239f70": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "725068a8-c372-4d21-8679-28a30b6cf3a1"
+        },
+        "a7ac47a4-397f-4cd4-a215-4ddeb39fe91a": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "f449fa57-228e-4c83-ad03-7d96a0fd60d7"
+        },
+        "cb2a8528-f045-41d2-80ce-d5e4dd687868": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "d8c76e68-2bef-4168-aaf0-b9ec6d277c8b"
+        },
+        "deee2750-345a-4ccb-9f40-385992991d7e": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "1c94d7c3-e49f-43c8-8362-e2084efe0bba"
+        },
+        "ed422e0e-e203-430c-81bf-d5a46879778e": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "2027546b-94a4-4588-8733-1eeb6ba07271"
+        },
+        "f3eef9fd-67e0-45ca-a5e4-f564c3e035dd": {
+            "gate": "2dec417b-7da1-4566-b5ae-25711d84dab1",
+            "pin": "25f615a7-34ed-4612-b97f-34514c3cab3b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "differential amplifier",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "f6dbc153-d0b3-4e7b-9963-539c21cd2be8",
+    "value": [
+        false,
+        "100 kHz - 20V/V - 120 dB"
+    ]
+}
