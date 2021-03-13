@@ -230,9 +230,9 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 100000,
-                "pad_height": 1850000,
-                "pad_width": 1850000,
-                "solder_mask_expansion": 0
+                "pad_height": 1750000,
+                "pad_width": 1750000,
+                "solder_mask_expansion": 100000
             },
             "placement": {
                 "angle": 0,
