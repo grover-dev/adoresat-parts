@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "RK73H3ATTE1R20F"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/219/RK73H-5715.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KOA Speer"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "da8f95bf-fb31-471a-91fd-10f449007ae3": "RK73H3ATTE1R20F"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "1.2"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "bdd22cc9-9177-4cbd-8841-8e992d0a6910",
+    "value": [
+        false,
+        "1.2 Ohms - 1% - 1W"
+    ]
+}

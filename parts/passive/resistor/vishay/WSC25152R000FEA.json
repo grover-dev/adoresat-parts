@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "WSC25152R000FEA"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/427/wscwsn-1762128.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Vishay / Dale"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "a14774db-3176-429d-a591-1e283b478426": "WSC25152R000FEA"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "2"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "24ed336c-bf61-48d1-8f9e-3863d39ea92b",
+    "value": [
+        false,
+        "1 Ohms - 1 % - 1 W"
+    ]
+}
