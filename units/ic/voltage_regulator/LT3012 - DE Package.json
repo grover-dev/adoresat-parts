@@ -1,0 +1,112 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "LT3012 - DE Package",
+    "pins": {
+        "0097275c-77db-4536-a5b0-c36e311db9f9": {
+            "direction": "power_output",
+            "names": [
+                "OUT"
+            ],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "05352bbd-f385-4e17-aac1-cc028f772bf2": {
+            "direction": "input",
+            "names": [
+                "/SHDN"
+            ],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "11cdb1f0-0efd-4b2e-8f6d-62565909795f": {
+            "direction": "input",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "2ffc8f72-d578-4e3b-8448-7960845ac915": {
+            "direction": "power_input",
+            "names": [
+                "IN"
+            ],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "3e1bd816-3ab1-43d7-9f87-2d581ef38af8": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "41c9863f-6207-4783-9700-31959a183277": {
+            "direction": "power_input",
+            "names": [
+                "IN"
+            ],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "58dafc1f-22b1-4606-bea2-049bc4542390": {
+            "direction": "passive",
+            "names": [
+                "GND"
+            ],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "b97bc4e1-f2c8-4083-8133-5049079cd67f": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "bbcdf82c-4384-4867-8af2-6ead3a976b9a": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "d491633b-efd7-4f7a-9154-9d1be8995be4": {
+            "direction": "input",
+            "names": [
+                "ADJ"
+            ],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "d5039eee-7e89-45e2-b583-efbe4d98bc68": {
+            "direction": "power_output",
+            "names": [
+                "OUT"
+            ],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "f3d3d72e-02ab-440b-aea1-dbda58842d88": {
+            "direction": "not_connected",
+            "names": [
+                "NC"
+            ],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "fd3c5317-d29b-4e9c-b22b-08b6dbd62391": {
+            "direction": "passive",
+            "names": [
+                "PAD"
+            ],
+            "primary_name": "13",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3d0f1ca2-df94-4017-90f3-8be0f72945e9"
+}

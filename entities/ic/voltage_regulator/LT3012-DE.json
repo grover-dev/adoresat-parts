@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a7efcbad-13d1-4592-8703-3453e52dd3ca": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3d0f1ca2-df94-4017-90f3-8be0f72945e9"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LT3012-DE",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage regulator"
+    ],
+    "type": "entity",
+    "uuid": "49251102-4b60-44e7-b9b1-330eda3bda8a"
+}
