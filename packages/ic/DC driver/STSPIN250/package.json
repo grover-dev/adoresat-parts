@@ -177,7 +177,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 32768,
@@ -194,7 +195,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 49152,
@@ -211,7 +213,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 49152,
@@ -228,7 +231,8 @@
             "parameter_set": {
                 "corner_radius": 100000,
                 "pad_height": 1850000,
-                "pad_width": 1850000
+                "pad_width": 1850000,
+                "solder_mask_expansion": 0
             },
             "placement": {
                 "angle": 0,
@@ -245,7 +249,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -262,7 +267,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 32768,
@@ -279,7 +285,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 32768,
@@ -296,7 +303,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
@@ -313,7 +321,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 32768,
@@ -330,7 +339,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -347,7 +357,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 49152,
@@ -364,7 +375,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
@@ -381,7 +393,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -398,7 +411,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
@@ -415,7 +429,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 16384,
@@ -432,7 +447,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 0,
@@ -449,7 +465,8 @@
             "parameter_set": {
                 "corner_radius": 60000,
                 "pad_height": 640000,
-                "pad_width": 300000
+                "pad_width": 300000,
+                "solder_mask_expansion": 50000
             },
             "placement": {
                 "angle": 49152,
