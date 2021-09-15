@@ -1,0 +1,43 @@
+{
+    "gates": {
+        "23c0578a-34d6-4ef2-8cc5-dff6056206ea": {
+            "name": "Pow",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00": {
+            "name": "Op Amp 2",
+            "suffix": "B",
+            "swap_group": 1,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "6ac4f394-7666-483f-afd5-921ce1825bc8": {
+            "name": "Op Amp 4",
+            "suffix": "D",
+            "swap_group": 1,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "7f8c4273-8659-47df-aece-6a74daea0373": {
+            "name": "Op Amp 1",
+            "suffix": "A",
+            "swap_group": 1,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "b9362524-21c4-4323-9f12-1a4af17ebd6a": {
+            "name": "Op Amp 3",
+            "suffix": "C",
+            "swap_group": 1,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LTC6248",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "5e4defe4-fb2d-4204-b49b-0f5c7780520a"
+}
