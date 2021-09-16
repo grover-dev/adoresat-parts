@@ -12,6 +12,11 @@
         ""
     ],
     "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
@@ -45,5 +50,6 @@
     "value": [
         false,
         ""
-    ]
+    ],
+    "version": 1
 }

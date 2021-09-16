@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "2 Pin Power",
+    "pins": {
+        "eebbd8b2-180a-4493-bada-604a04f84bbd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        },
+        "fe89b695-074b-4c48-be39-5c9b3c42ced9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+}
