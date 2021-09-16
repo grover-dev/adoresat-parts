@@ -1,6 +1,6 @@
 {
     "manufacturer": "",
-    "name": "Hook Test Point",
+    "name": "Test Point Hook",
     "pins": {
         "4bb7ed9b-4e3b-45f6-9779-51ae49824855": {
             "direction": "input",
