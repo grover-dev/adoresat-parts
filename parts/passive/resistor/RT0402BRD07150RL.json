@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RT0402BRD07150RL"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "1d3940cd-4285-4267-a9b4-055e0d214579": "RT0402BRD07150RL"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "150"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "a460dc8a-91d2-4393-90d5-d341e0df24cb",
+    "value": [
+        false,
+        "150 Ohm - 0.1% - 0.0625 W"
+    ]
+}
