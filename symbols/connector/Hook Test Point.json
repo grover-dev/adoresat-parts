@@ -1,0 +1,135 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "11ef821c-4a03-4cb6-aa4b-e2ec66358237": {
+            "position": [
+                -1250000,
+                1250000
+            ]
+        },
+        "12244258-5164-435f-b085-5b7a7158eb2c": {
+            "position": [
+                -2500000,
+                -2500000
+            ]
+        },
+        "4fa8c59f-b21b-48d8-83ce-1e5f02589cac": {
+            "position": [
+                2500000,
+                -2500000
+            ]
+        },
+        "803398cf-ad73-4d33-a314-af80f4ab3366": {
+            "position": [
+                1250000,
+                1250000
+            ]
+        }
+    },
+    "lines": {
+        "1a1c80d7-3c86-4bf6-8c89-a12f6d0ae868": {
+            "from": "803398cf-ad73-4d33-a314-af80f4ab3366",
+            "layer": 0,
+            "to": "11ef821c-4a03-4cb6-aa4b-e2ec66358237",
+            "width": 0
+        },
+        "24ebed05-2fc3-4c58-812d-089efbce2a80": {
+            "from": "11ef821c-4a03-4cb6-aa4b-e2ec66358237",
+            "layer": 0,
+            "to": "12244258-5164-435f-b085-5b7a7158eb2c",
+            "width": 0
+        },
+        "65756ce8-42b2-41b9-aaa3-362695ce864f": {
+            "from": "803398cf-ad73-4d33-a314-af80f4ab3366",
+            "layer": 0,
+            "to": "803398cf-ad73-4d33-a314-af80f4ab3366",
+            "width": 0
+        },
+        "68590c9f-cb91-436f-9ed4-b0fa98650571": {
+            "from": "4fa8c59f-b21b-48d8-83ce-1e5f02589cac",
+            "layer": 0,
+            "to": "803398cf-ad73-4d33-a314-af80f4ab3366",
+            "width": 0
+        },
+        "b8da3d2e-4a94-4fd6-9524-b6639f0903b6": {
+            "from": "12244258-5164-435f-b085-5b7a7158eb2c",
+            "layer": 0,
+            "to": "4fa8c59f-b21b-48d8-83ce-1e5f02589cac",
+            "width": 0
+        },
+        "e1d6a39f-c7a7-4545-b1dd-8ac4d8f703d6": {
+            "from": "11ef821c-4a03-4cb6-aa4b-e2ec66358237",
+            "layer": 0,
+            "to": "11ef821c-4a03-4cb6-aa4b-e2ec66358237",
+            "width": 0
+        },
+        "ecbe41a6-3088-417d-be78-c79b9e62fedc": {
+            "from": "4fa8c59f-b21b-48d8-83ce-1e5f02589cac",
+            "layer": 0,
+            "to": "4fa8c59f-b21b-48d8-83ce-1e5f02589cac",
+            "width": 0
+        }
+    },
+    "name": "Hook Test Point",
+    "pins": {
+        "4bb7ed9b-4e3b-45f6-9779-51ae49824855": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "down",
+            "pad_visible": false,
+            "position": [
+                0,
+                -5000000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "5f42b96e-e096-4814-b85a-adaf9190f462": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    -1250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "de4a99f2-cb8f-413e-a9f4-927f4d6ac642": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2500000,
+                    1250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "2abcf342-bf67-416c-86b4-056ca9167e8f",
+    "uuid": "5c723835-5569-4121-ae61-fa1228124ef0"
+}
