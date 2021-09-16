@@ -2,6 +2,22 @@
     "arcs": {},
     "default_model": "52fb6364-63ec-4d19-b780-1fc7bd064a79",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
     "junctions": {
         "00349a8c-c001-4eca-8739-062b8d35de49": {
             "position": [
@@ -58,13 +74,13 @@
     "manufacturer": "Analog Devices",
     "models": {
         "52fb6364-63ec-4d19-b780-1fc7bd064a79": {
-            "filename": "3d_models/Analog Devices/MSOP16.stp",
-            "pitch": 0,
-            "roll": 0,
+            "filename": "3d_models/Analog Devices/MSOP16.STEP",
+            "pitch": 16384,
+            "roll": 49152,
             "x": 0,
             "y": 0,
             "yaw": 0,
-            "z": 0
+            "z": 600000
         }
     },
     "name": "MSOP16",
