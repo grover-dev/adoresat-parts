@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERA-2AEB1270X"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C307-1149632.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "bd07246c-0dd8-464b-a3d3-d463e7d4b6ad": "ERA-2AEB1270X"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "127"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "094e5142-e7c3-475d-a8d3-83e0146a2eab",
+    "value": [
+        false,
+        "127 Ohm - 0.1% - 0.0625 W"
+    ]
+}

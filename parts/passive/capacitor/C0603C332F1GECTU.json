@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C0603C332F1GECTU"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/212/1/KEM_C1091_C0G_ESD-1140493.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KEMET"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "1",
+        "type": "C0G/NP0",
+        "value": "3.3e-09",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7ac747fe-332d-4797-900d-726d1162a28c",
+    "value": [
+        false,
+        "3.3 nF - 100 V - C0G - 1%"
+    ]
+}

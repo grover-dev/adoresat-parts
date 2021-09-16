@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERA-2ARB3831X"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C307-1149632.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "9cf25e44-87d8-4f6d-b768-1881ab807ae1": "ERA-2ARB3831X"
+    },
+    "parametric": {
+        "pmax": "0.063",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "3830"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7aa2b80d-a987-42a0-a4eb-c543139be645",
+    "value": [
+        false,
+        "3.83 kOhm - 0.1% - 0.063W"
+    ]
+}

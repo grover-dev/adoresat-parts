@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERA-2ARB241X"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C307-1149632.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "a3701baa-0744-4dd6-9456-fca8f362da30": "ERA-2ARB241X"
+    },
+    "parametric": {
+        "pmax": "0.063",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "240"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ad613fb9-235f-431e-badb-89fde55abd0c",
+    "value": [
+        false,
+        "240 Ohm - 0.1% - 0.063 W"
+    ]
+}
