@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "Quad Channel Precision Amplifier"
+        "Precision Quad Channel Amplifier"
     ],
     "entity": "5e4defe4-fb2d-4204-b49b-0f5c7780520a",
     "inherit_model": false,
@@ -18,67 +18,67 @@
         false,
         "Analog Devices"
     ],
-    "model": "883f5bc3-b06a-41f7-9594-7db28c8b0419",
+    "model": "52fb6364-63ec-4d19-b780-1fc7bd064a79",
     "orderable_MPNs": {
-        "4c1d8c5b-3ebc-4444-844b-476f6104aa07": "LTC6248IMS#PBF"
+        "bd7d7298-212c-425a-a4ee-5f7b1843aaf7": "LTC6248IMS#PBF"
     },
-    "package": "d420dc5a-d3e1-43dc-a47a-58b35f41dcbd",
+    "package": "f8e4cfdf-ad68-4235-bf5d-8ac68a7ae711",
     "pad_map": {
-        "117a025b-4194-4c2e-a453-1a75d8c3a0d5": {
-            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
-            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
-        },
-        "3f37d141-d86d-404a-8017-dc298695e716": {
-            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
-            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
-        },
-        "4cddaa8a-1879-4d2a-8272-e511bdcf6d8e": {
-            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
-            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
-        },
-        "6791a76d-8cb4-425c-8569-9ef9802b09e2": {
-            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
-            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
-        },
-        "76a1478d-94a8-4631-b75d-b28245343b41": {
-            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
-            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
-        },
-        "a6b82b67-f6c4-4133-8a80-2108859fca5d": {
+        "12133387-8ed1-4830-a50f-67dc9413ac4b": {
             "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
             "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
         },
-        "b50a7f6a-389d-4e59-a96a-b47e2e64efa2": {
+        "23000a68-2da8-4f74-b138-2618b7f9347b": {
+            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "4b56c3f7-d034-49b3-9640-f2af1041445a": {
             "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "517a8f3f-4311-4a4c-8275-e4de797eb822": {
+            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
             "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
         },
-        "bdcc992a-75af-49c2-b53e-61bb35db90d6": {
+        "91d4eae9-2842-42c9-9f04-240a3a9cbd83": {
             "gate": "23c0578a-34d6-4ef2-8cc5-dff6056206ea",
             "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
         },
-        "c5f2c4fa-03b5-4618-9d5f-124e6327a349": {
-            "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
+        "9229d642-7ca4-41ca-92b2-95d25c9bb42d": {
+            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
             "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
         },
-        "db149b2d-760b-4542-b73c-c72e9a77a301": {
+        "9849393a-92b0-46ca-b110-4617f0db87e2": {
             "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
-            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
-        },
-        "e06c26d2-bccc-4a93-a0b3-e74c6e92b54d": {
-            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
             "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
         },
-        "e17708ac-7298-4ee4-a1e7-a0aa7f50445f": {
-            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
-            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        "bd8e212d-ccbc-48f2-abc3-7a552182fdea": {
+            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
         },
-        "fa02f391-6b09-4d09-85dc-38a9c753540a": {
+        "d836ce5d-c0ba-47d5-b728-c42a30bcad99": {
             "gate": "23c0578a-34d6-4ef2-8cc5-dff6056206ea",
             "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
         },
-        "ff295980-3d2d-46c9-8a2e-2be16df44aa6": {
-            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
+        "dfca84e8-2595-4aa1-b01c-6bdf6f07c931": {
+            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "e6efb386-2b14-42ef-a087-9361bc3e22c8": {
+            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
             "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "eafbcd53-5417-4b91-b006-fe2d1fce9080": {
+            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "f4a2544a-4c1a-4349-81b8-73c27d5001bf": {
+            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "f4a691de-e96f-40b0-9e69-cd188050a669": {
+            "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
         }
     },
     "parametric": {},
@@ -87,7 +87,7 @@
         "opamp"
     ],
     "type": "part",
-    "uuid": "ffb6475d-f762-40f4-89f1-7cc986608956",
+    "uuid": "a43b1506-20ee-47ac-af9d-1f45afb749a7",
     "value": [
         false,
         "LTC6248"
