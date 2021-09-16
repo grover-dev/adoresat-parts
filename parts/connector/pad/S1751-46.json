@@ -1,0 +1,42 @@
+{
+    "MPN": [
+        false,
+        "S1751-46"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/181/S1751-1136303.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Test Point Hook"
+    ],
+    "entity": "c4df9597-3f7e-4865-bb32-da681da2d84c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Harwin"
+    ],
+    "model": "7317ef15-4103-41d5-8b1b-6e5b3f785b1a",
+    "orderable_MPNs": {
+        "e75ef34c-c6e3-4500-8071-887e105dbe7f": "S1751-46"
+    },
+    "package": "281110eb-8ef8-49e4-b532-47002259dfc8",
+    "pad_map": {
+        "7d4566d5-916b-409c-a0f2-e3a0026be1d7": {
+            "gate": "6c833929-9da1-48a1-9054-37132b1c41df",
+            "pin": "e9b7d346-06cf-4a41-bef7-1d204b1444be"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "test point"
+    ],
+    "type": "part",
+    "uuid": "17b0e0f9-cdaa-47ee-bc78-874e61080c47",
+    "value": [
+        false,
+        "Test Point Hook"
+    ]
+}
