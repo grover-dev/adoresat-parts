@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "S1751-46"
+    ],
+    "base": "3f31ee5a-62a8-4274-97d2-32ad73eb4268",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/181/S1751-1136303.pdf"
+    ],
+    "description": [
+        true,
+        "Hook Test Point"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Harwin"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "615db3a7-eaa6-4196-94a9-1ae7b614c057": "S1751-46"
+    },
+    "parametric": {},
+    "tags": [
+        "test-point"
+    ],
+    "type": "part",
+    "uuid": "102e2a64-b4b1-4002-b205-495da0320ca7",
+    "value": [
+        false,
+        "Hook TP"
+    ]
+}
