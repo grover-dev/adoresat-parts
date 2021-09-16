@@ -1,7 +1,7 @@
 {
     "MPN": [
         false,
-        "Base 0603 Capacitor"
+        "Base 0402 Capacitor"
     ],
     "datasheet": [
         false,
@@ -24,13 +24,13 @@
         ""
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
-    "package": "0c6f5ea3-c601-4b00-b985-6db23ce77246",
+    "package": "45ad1610-b116-4311-a9bc-3acf947db72f",
     "pad_map": {
-        "5eb3d31f-6cc4-43f5-a1e0-6ff6d5834e89": {
+        "3dea6323-9c61-422c-ad53-770cdf22ce12": {
             "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
             "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
         },
-        "dbd0c5ca-3d47-4dc1-9012-bed19d601c53": {
+        "69205d76-735b-4b4e-b3b0-31d90ac2016d": {
             "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
             "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
         }
@@ -41,7 +41,7 @@
         "passive"
     ],
     "type": "part",
-    "uuid": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "uuid": "a13e104c-a1e3-4506-9272-3b857a04db93",
     "value": [
         false,
         ""
