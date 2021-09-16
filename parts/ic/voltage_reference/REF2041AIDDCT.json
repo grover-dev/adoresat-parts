@@ -9,7 +9,7 @@
     ],
     "description": [
         false,
-        "Voltage Reference"
+        "4.096 V/2.048 V Reference"
     ],
     "entity": "dbda2093-7418-45ef-b302-de70bb46b307",
     "inherit_model": false,
