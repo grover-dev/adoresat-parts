@@ -1,0 +1,95 @@
+{
+    "MPN": [
+        false,
+        "LTC6248IMS#PBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/609/LTC6246_6247_6248-1605383.pdf"
+    ],
+    "description": [
+        false,
+        "Quad Channel Precision Amplifier"
+    ],
+    "entity": "5e4defe4-fb2d-4204-b49b-0f5c7780520a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "883f5bc3-b06a-41f7-9594-7db28c8b0419",
+    "orderable_MPNs": {
+        "4c1d8c5b-3ebc-4444-844b-476f6104aa07": "LTC6248IMS#PBF"
+    },
+    "package": "d420dc5a-d3e1-43dc-a47a-58b35f41dcbd",
+    "pad_map": {
+        "117a025b-4194-4c2e-a453-1a75d8c3a0d5": {
+            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "3f37d141-d86d-404a-8017-dc298695e716": {
+            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "4cddaa8a-1879-4d2a-8272-e511bdcf6d8e": {
+            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "6791a76d-8cb4-425c-8569-9ef9802b09e2": {
+            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "76a1478d-94a8-4631-b75d-b28245343b41": {
+            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "a6b82b67-f6c4-4133-8a80-2108859fca5d": {
+            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "b50a7f6a-389d-4e59-a96a-b47e2e64efa2": {
+            "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "bdcc992a-75af-49c2-b53e-61bb35db90d6": {
+            "gate": "23c0578a-34d6-4ef2-8cc5-dff6056206ea",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        },
+        "c5f2c4fa-03b5-4618-9d5f-124e6327a349": {
+            "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "db149b2d-760b-4542-b73c-c72e9a77a301": {
+            "gate": "6ac4f394-7666-483f-afd5-921ce1825bc8",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "e06c26d2-bccc-4a93-a0b3-e74c6e92b54d": {
+            "gate": "7f8c4273-8659-47df-aece-6a74daea0373",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "e17708ac-7298-4ee4-a1e7-a0aa7f50445f": {
+            "gate": "4d7bd1b2-d6b8-4cfc-bcd1-2f4c5f5c6c00",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "fa02f391-6b09-4d09-85dc-38a9c753540a": {
+            "gate": "23c0578a-34d6-4ef2-8cc5-dff6056206ea",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "ff295980-3d2d-46c9-8a2e-2be16df44aa6": {
+            "gate": "b9362524-21c4-4323-9f12-1a4af17ebd6a",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "ffb6475d-f762-40f4-89f1-7cc986608956",
+    "value": [
+        false,
+        "LTC6248"
+    ]
+}

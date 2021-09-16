@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Op Amp",
+    "pins": {
+        "8516cea1-5e8c-4d1d-875d-fee4433940cf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "-IN",
+            "swap_group": 0
+        },
+        "afb3a832-2713-4e25-86bb-b943dc031245": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "+IN",
+            "swap_group": 0
+        },
+        "d56ae805-119d-4be5-b654-60a7eded5a92": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+}
