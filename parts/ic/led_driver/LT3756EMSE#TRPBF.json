@@ -1,0 +1,107 @@
+{
+    "MPN": [
+        false,
+        "LT3756EMSE#TRPBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3756-3756-1-3756-2.pdf"
+    ],
+    "description": [
+        false,
+        "LED Driver"
+    ],
+    "entity": "3cf8d8a9-fb3b-43d2-a425-4248a7f09ed2",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "52fb6364-63ec-4d19-b780-1fc7bd064a79",
+    "orderable_MPNs": {
+        "c9a4b53f-880c-4cd3-bc69-0fadbfadf041": "LT3756EMSE#TRPBF"
+    },
+    "package": "cd38b6a3-fa19-489a-863f-f99326bce7a4",
+    "pad_map": {
+        "026b6ed3-ee4a-4c2a-ac57-6dc976bec41e": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "a577d18d-fee6-4947-85e2-62b50a320500"
+        },
+        "12133387-8ed1-4830-a50f-67dc9413ac4b": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "cda70523-3df5-4fc5-bc02-b673627414f8"
+        },
+        "23000a68-2da8-4f74-b138-2618b7f9347b": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "69c646f5-8422-462a-ad44-28385260f006"
+        },
+        "284f23fc-c441-447d-bbd8-9675f427a2fd": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "55fa6d9c-894a-4f38-9e93-5ad9e42a4b94"
+        },
+        "3cc920a1-3dca-4363-ae3b-b160bebe5bc7": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "c5c6e77f-c7f4-4eb3-bbc0-0271eea5fc00"
+        },
+        "4b56c3f7-d034-49b3-9640-f2af1041445a": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "7f982bed-65e5-43dd-bd3c-708219c1f468"
+        },
+        "517a8f3f-4311-4a4c-8275-e4de797eb822": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "9bd2de33-5428-449f-a38d-4a97cc585787"
+        },
+        "91d4eae9-2842-42c9-9f04-240a3a9cbd83": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "dc4f228d-c6e6-4dac-b577-8477d4def057"
+        },
+        "9229d642-7ca4-41ca-92b2-95d25c9bb42d": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "97988dd5-e0f8-4abb-a052-0644a70c9842"
+        },
+        "9849393a-92b0-46ca-b110-4617f0db87e2": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "9114b1f0-bd0c-462d-88cd-0b23478ae0aa"
+        },
+        "bd8e212d-ccbc-48f2-abc3-7a552182fdea": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "9c60e76b-e32b-4c34-b61a-50113b9df545"
+        },
+        "d836ce5d-c0ba-47d5-b728-c42a30bcad99": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "dad7745a-81b7-49be-9b54-48eaa0f9bc22"
+        },
+        "dfca84e8-2595-4aa1-b01c-6bdf6f07c931": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "1f4842eb-d932-4469-873e-843a76cc7d37"
+        },
+        "e6efb386-2b14-42ef-a087-9361bc3e22c8": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "3ab488e7-5878-467d-b1aa-164d3ea1d315"
+        },
+        "eafbcd53-5417-4b91-b006-fe2d1fce9080": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "508fa4f0-e99f-48d7-a8ab-c01a5c9058fe"
+        },
+        "f4a2544a-4c1a-4349-81b8-73c27d5001bf": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "3a758ef0-3672-4aee-9f65-3bce5f495abd"
+        },
+        "f4a691de-e96f-40b0-9e69-cd188050a669": {
+            "gate": "6b4543f7-327f-4dd3-be86-53b562f5d665",
+            "pin": "72c6889c-5614-4ffd-a375-693445620c64"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "led-driver"
+    ],
+    "type": "part",
+    "uuid": "f21ba082-682d-4a6a-98f6-76fc7813308f",
+    "value": [
+        false,
+        "LT3756-MSE"
+    ]
+}
