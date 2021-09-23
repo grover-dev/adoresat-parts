@@ -2,6 +2,22 @@
     "manufacturer": "Lattice",
     "name": "iCE40HX4K-power-cbga121",
     "pins": {
+ 	"a697f9d7-c733-7202-ab0c-aa70229596af": {
+         "direction": "power_input",
+         "names": [
+            "VPP_FAST"
+         ],
+         "primary_name": "B10",
+         "swap_group": 0
+     	 },   
+    	"318f8129-4edc-4d32-2f46-12da3abe3506": {
+         "direction": "power_input",
+         "names": [
+            "VPP_2V5"
+         ],
+         "primary_name": "C10",
+         "swap_group": 0
+    	  },
         "05b6faa3-f305-c071-b69b-b74a8e649bae": {
             "direction": "power_input",
             "names": [
