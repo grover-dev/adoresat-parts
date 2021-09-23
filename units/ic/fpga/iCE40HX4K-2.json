@@ -1,0 +1,168 @@
+{
+   "manufacturer": "Lattice",
+   "name": "iCE40HX4K-2",
+   "pins": {
+      "f34e4036-6172-8f1c-4da1-8304de8a479f": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_87"
+         ],
+         "primary_name": "H7",
+         "swap_group": 0
+      },
+      "283069e8-2f7e-d434-7945-fabb017f1301": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_104_CBSEL1"
+         ],
+         "primary_name": "H9",
+         "swap_group": 0
+      },
+      "b84fecf5-ce28-5878-38f3-d8f869d6cbc3": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_57"
+         ],
+         "primary_name": "J3",
+         "swap_group": 0
+      },
+      "48204cde-90f1-f12b-48f5-6410ac9468d4": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_64"
+         ],
+         "primary_name": "J4",
+         "swap_group": 0
+      },
+      "a19bfd46-8505-3b19-5f8a-80cec3e50076": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_78"
+         ],
+         "primary_name": "J5",
+         "swap_group": 0
+      },
+      "8c9e5033-7e50-85f2-843a-c0961082d77b": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_91"
+         ],
+         "primary_name": "J8",
+         "swap_group": 0
+      },
+      "4b88289b-d6fa-ece1-46c6-7e58d2479e8a": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_63"
+         ],
+         "primary_name": "K3",
+         "swap_group": 0
+      },
+      "0f822dc1-475c-c588-6604-95045a958a4d": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_73"
+         ],
+         "primary_name": "K4",
+         "swap_group": 0
+      },
+      "aa734ccb-2a23-72d2-79ba-12f150128f6c": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_79"
+         ],
+         "primary_name": "K5",
+         "swap_group": 0
+      },
+      "c7fb77dc-0a6c-8c18-74af-ff8886268439": {
+         "direction": "passive",
+         "names": [
+            "IOB_82_GBIN4"
+         ],
+         "primary_name": "K6",
+         "swap_group": 0
+      },
+      "a37c36c2-5bec-652b-8c34-300a7964c342": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_89"
+         ],
+         "primary_name": "K7",
+         "swap_group": 0
+      },
+      "dbb145de-1afc-e83a-59fe-608e4177d3be": {
+         "direction": "bidirectional",
+         "names": [
+            "CDONE"
+         ],
+         "primary_name": "K8",
+         "swap_group": 0
+      },
+      "0af7c073-c170-c6e3-c311-f3ce67aea166": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_56"
+         ],
+         "primary_name": "L1",
+         "swap_group": 0
+      },
+      "cab7c330-7da4-6f66-8bd2-c5d166a7df3f": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_61"
+         ],
+         "primary_name": "L2",
+         "swap_group": 0
+      },
+      "25c8f1fa-ac9d-1b19-c38b-4a08f06fca71": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_71"
+         ],
+         "primary_name": "L3",
+         "swap_group": 0
+      },
+      "af7775f0-97ee-1f47-3e23-dfb15b54a2a0": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_72"
+         ],
+         "primary_name": "L4",
+         "swap_group": 0
+      },
+      "4a9c3b47-7975-08de-34c4-000b1db4477b": {
+         "direction": "passive",
+         "names": [
+            "IOB_81_GBIN5"
+         ],
+         "primary_name": "L5",
+         "swap_group": 0
+      },
+      "d6d5c9cb-d3da-124e-8f20-8e80a353b941": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_94"
+         ],
+         "primary_name": "L7",
+         "swap_group": 0
+      },
+      "0d2e1011-44bc-1e3b-499e-411ffa7681eb": {
+         "direction": "bidirectional",
+         "names": [
+            "IOB_103_CBSEL0"
+         ],
+         "primary_name": "L8",
+         "swap_group": 0
+      },
+      "c9e9f436-f124-a1ec-7a0f-551cbce8694f": {
+         "direction": "bidirectional",
+         "names": [
+            "CRESET_B"
+         ],
+         "primary_name": "L9",
+         "swap_group": 0
+      }
+   },
+   "type": "unit",
+   "uuid": "c08d69ff-35c7-ce10-19f1-879b9cfcadaa"
+}
