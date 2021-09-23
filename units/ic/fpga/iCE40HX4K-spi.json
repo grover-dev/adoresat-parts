@@ -1,0 +1,48 @@
+{
+    "manufacturer": "Lattice",
+    "name": "iCE40HX4K-spi-cbga121",
+    "pins": {
+        "07f8c7a7-0bbc-ecd2-154b-e3ca44d8e636": {
+            "direction": "bidirectional",
+            "names": [
+                "VCC_SPI"
+            ],
+            "primary_name": "L11",
+            "swap_group": 0
+        },
+        "80f679ec-ff9a-048f-11f3-0dd177b014a8": {
+            "direction": "bidirectional",
+            "names": [
+                "IOB_107_SCK"
+            ],
+            "primary_name": "L10",
+            "swap_group": 0
+        },
+        "966aa027-bf2e-7ddb-9063-4ada0ea1e14c": {
+            "direction": "bidirectional",
+            "names": [
+                "IOB_105_SDO"
+            ],
+            "primary_name": "K9",
+            "swap_group": 0
+        },
+        "f04f3617-9bc1-50a7-e356-0b848894a74c": {
+            "direction": "bidirectional",
+            "names": [
+                "IOB_108_SS"
+            ],
+            "primary_name": "K10",
+            "swap_group": 0
+        },
+        "fb1ef533-a003-e525-5497-6ee06db59d42": {
+            "direction": "bidirectional",
+            "names": [
+                "IOB_106_SDI"
+            ],
+            "primary_name": "J9",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ed73223e-6017-8059-722a-7f8179c4ca2b"
+}

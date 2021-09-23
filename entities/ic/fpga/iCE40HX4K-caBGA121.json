@@ -1,0 +1,49 @@
+{
+    "gates": {
+        "009512aa-a440-4b99-930d-1eae77fd9c28": {
+            "name": "bank-0",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "b7981cf2-0222-614a-541e-a9e2b0479646"
+        },
+        "27cdd6f3-d24f-46a5-a618-574faa2d4235": {
+            "name": "bank-1",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "66e6fb9a-7aad-f863-40aa-da368c2cbd06"
+        },
+        "3c0cdd80-4a54-4fcc-8125-3ea611fd0fbe": {
+            "name": "power",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "f8a44d81-4a4c-4b27-3ec7-423b22361dd7"
+        },
+        "5d959a51-6ab8-4307-b7d8-51b7ca08ac6b": {
+            "name": "spi",
+            "suffix": "F",
+            "swap_group": 0,
+            "unit": "ed73223e-6017-8059-722a-7f8179c4ca2b"
+        },
+        "98eb3a78-1c36-4292-93cb-8afb0f793322": {
+            "name": "bank-3",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "e822ad7d-7680-45b1-b136-810d07740835"
+        },
+        "c9864ff9-db36-4e7c-8982-0f89d36076d0": {
+            "name": "bank-2",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "c08d69ff-35c7-ce10-19f1-879b9cfcadaa"
+        }
+    },
+    "manufacturer": "Lattice",
+    "name": "iCE40HX4K-caBGA121",
+    "prefix": "U",
+    "tags": [
+        "fpga",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "90c480a6-9201-47d7-b10f-ebec151fd153"
+}
