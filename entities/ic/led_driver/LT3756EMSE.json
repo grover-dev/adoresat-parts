@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "6b4543f7-327f-4dd3-be86-53b562f5d665": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "306a52de-88ae-418c-bee1-9c8bd885f3e8"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LT3756EMSE",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "led-driver"
+    ],
+    "type": "entity",
+    "uuid": "3cf8d8a9-fb3b-43d2-a425-4248a7f09ed2"
+}
