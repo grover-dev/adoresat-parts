@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "28816677-9ddb-4d68-8128-6030f7d28d61": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b7aa2859-c714-4b25-bcff-13ce89b7a210"
+        }
+    },
+    "manufacturer": "NXP",
+    "name": "LPC82x - HVQFN33",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "microcontroller"
+    ],
+    "type": "entity",
+    "uuid": "027a1db6-52d8-44e2-bf4c-06c04ab16964"
+}

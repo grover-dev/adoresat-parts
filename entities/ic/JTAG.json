@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "deb03917-2caa-4711-94a9-4e01060ec979": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "963ccf4d-170d-46f2-a0cd-ae252eb688bd"
+        }
+    },
+    "manufacturer": "",
+    "name": "JTAG - 6 Pin",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "49ed5fb2-ee5f-41db-9bef-fcc67f7c2af4"
+}
