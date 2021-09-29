@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "2 Pin Jumper",
+    "pins": {
+        "0f181173-fb90-4677-96b6-43ce6faca637": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "416dcb91-36c2-4235-8b1c-236cb736b8cf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4a922ff7-1f93-4c10-8e55-9e6333692470"
+}
