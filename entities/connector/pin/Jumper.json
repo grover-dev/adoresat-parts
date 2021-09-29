@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "cc463c24-393a-4130-83ca-e82b8d77fff3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4a922ff7-1f93-4c10-8e55-9e6333692470"
+        }
+    },
+    "manufacturer": "",
+    "name": "2 Pin Jumper",
+    "prefix": "JP",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "586ee693-61ab-465e-820d-6fcdb4a902c9"
+}
