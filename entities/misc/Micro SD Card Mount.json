@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a495b909-e4d4-43ca-ab90-b9ee0620c5f8"
+        }
+    },
+    "manufacturer": "",
+    "name": "Micro SD Card Mount",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "cc1ef2d5-bde1-4a4b-8c84-55be70dd8c50"
+}
