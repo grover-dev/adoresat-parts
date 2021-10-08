@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Infineon",
+    "name": "1ED31xxMC12H",
+    "pins": {
+        "289dcdd9-bc12-42e3-8229-1b4455d7d251": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "3d1c6a46-03c7-47e9-9ff0-f0f4b01fb034": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT-",
+            "swap_group": 0
+        },
+        "50d7b865-ae91-4e24-9275-3ad501c8a7ff": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN+",
+            "swap_group": 0
+        },
+        "8920d92a-b77c-4369-aa61-492b088eb938": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VEE2",
+            "swap_group": 0
+        },
+        "d972b4eb-d9c9-4fcb-a133-8ae597c387a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND1",
+            "swap_group": 0
+        },
+        "e542bc5b-cc3f-4236-99b0-e85cd599e11d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT+",
+            "swap_group": 0
+        },
+        "f4d571e1-df74-4377-ac5c-e633efe70a73": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC1",
+            "swap_group": 0
+        },
+        "fbf7aa43-893a-4ec1-95a5-468fded13292": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1410e312-0c6d-4472-a0e5-92e28d6af6c9"
+}
