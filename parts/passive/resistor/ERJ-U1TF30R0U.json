@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "ERJ-U1TF30R0U"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C334-1314047.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "28a987a6-74f0-4b39-a56c-b6be3fe049b4": "ERJ-U1TF30R0U"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "30"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "9652c8c0-afe4-4391-ba4c-43f49da3d6b0",
+    "value": [
+        false,
+        "30 Ohms - 1% - 1W"
+    ]
+}
