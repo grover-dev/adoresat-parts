@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "AC0402JR-7W10KL"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/447/PYu_AC_51_RoHS_L_7-1714230.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "e1bfe71c-3157-422c-b356-9ad407ba9ad6": "AC0402JR-7W10KL"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "10000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "d54b6cb3-da1c-4553-acf6-724a1e71c160",
+    "value": [
+        false,
+        "10 kOhm - 5% - 0.0625 W"
+    ]
+}

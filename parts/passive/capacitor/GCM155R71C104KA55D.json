@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GCM155R71C104KA55D"
+    ],
+    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/GCM155R71C104KA55_01-1965576.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "e68b8329-1113-41ac-9216-08ab363b1690": "GCM155R71C104KA55D"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-07",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "9c4fb5a5-f6f3-4798-adaf-ce0986e09a72",
+    "value": [
+        false,
+        "100 nF - 16 V - X7R - 10%"
+    ]
+}

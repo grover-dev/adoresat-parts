@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "XAL1513-153MEB"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/597/xal1513_153-774584.pdf"
+    ],
+    "description": [
+        false,
+        "Fixed Shielded Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Coilcraft"
+    ],
+    "model": "730aaa51-8c76-4cb7-8a02-a0cd0432f6c6",
+    "orderable_MPNs": {
+        "e9b19487-e59a-4b7f-a503-09d51192a717": "XAL1513-153MEB"
+    },
+    "package": "f5090010-85d0-4254-8f0c-6af929e46b5a",
+    "pad_map": {
+        "45bbd7b7-0ccc-47f3-a127-2bf1bf85978b": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "dd50d921-3047-4c9a-a414-ad6ee2b96b1b": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "dcr": "0.0075",
+        "idc": "22",
+        "table": "inductors",
+        "value": "1.5e-05"
+    },
+    "tags": [
+        "inductor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "99c36bdf-56c8-45e6-9b23-14a6b710b990",
+    "value": [
+        false,
+        "15 uH - 16 A - 7.5 mOhm"
+    ]
+}

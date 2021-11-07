@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "W25Q16JVSNIQ"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/949/w25q16jv_spi_revg_03222018_plus-1489727.pdf"
+    ],
+    "description": [
+        false,
+        "16 MBit, Serial Flash"
+    ],
+    "entity": "7bed3979-b0b9-4e9f-96fa-dd826872cf8a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "winbond"
+    ],
+    "model": "e80f6fac-f781-41d1-b32f-a0afd4e4244f",
+    "orderable_MPNs": {
+        "fb054837-d70c-4f35-ad04-0b62c67655f5": "W25Q16JVSNIQ"
+    },
+    "package": "56165d3a-ba70-42e5-b2a9-e1c35dee1a1d",
+    "pad_map": {
+        "467561dc-e3c4-4a24-9363-3aff21df66ef": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "4538c256-9cef-444d-a370-c68902bab5e8"
+        },
+        "815331ba-54f3-40a8-8664-b5b091674ef5": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "f32c5722-01a1-41a3-962d-e61637cc3018"
+        },
+        "a876ed8a-b7b7-4bae-972b-c4b9feabcc4b": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "b94eb2ad-e6c2-452c-b20d-41d25f878f02"
+        },
+        "a960342b-7c63-4a32-9037-8666665a7790": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "2c06f09b-b383-4fc5-979f-76a752b39891"
+        },
+        "ac350ab5-5ed1-4d27-9f1d-82e6f6bfe9d5": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "21775e8e-30ce-4352-9782-9d421cfe5306"
+        },
+        "b1fd7b44-b418-41d3-9103-fd180eb0116e": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "8c3b397f-f5b0-4f92-95a0-72291925faac"
+        },
+        "cefd23a0-553a-4bb8-8b30-e4add81fe469": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "1413c23a-1a78-4c2c-af11-d0e7adfb6c46"
+        },
+        "d7274a62-037d-48b6-94e8-84c25e916197": {
+            "gate": "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb",
+            "pin": "ebb4afe2-1f68-4bd6-aaad-a866d8a1f3d3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "flash",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "efb143ae-ff5a-44f5-bed1-3018692767b3",
+    "value": [
+        false,
+        "W25Q16JV"
+    ]
+}
