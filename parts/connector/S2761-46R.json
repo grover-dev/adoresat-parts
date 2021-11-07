@@ -22,9 +22,9 @@
     "orderable_MPNs": {
         "1dff42b4-2f6c-4448-b5ea-00bedb89a865": "S2761-46R"
     },
-    "package": "ed8c6c23-70d2-441e-b8cf-d81564315cff",
+    "package": "449cc207-7d46-443c-9158-a37ce6a1852e",
     "pad_map": {
-        "0db03ab5-19cd-46ef-8439-62afdf6cd677": {
+        "b3fe69a4-c67b-4342-ad6e-1f00d62c6d75": {
             "gate": "7fca45f6-cd88-4986-9c14-6620a44f9cbd",
             "pin": "4bb7ed9b-4e3b-45f6-9779-51ae49824855"
         }
