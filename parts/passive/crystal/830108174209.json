@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "830108174209"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/445/830108174209-2005469.pdf"
+    ],
+    "description": [
+        false,
+        "25 MHz, 10 pF, 50 Ohm Crystal"
+    ],
+    "entity": "03e9b2b2-36ee-4e93-a665-c9327c97cc89",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Wurth Elektronik"
+    ],
+    "model": "87df3d60-89fd-4353-9c07-374213d807a1",
+    "orderable_MPNs": {
+        "7c1d769b-0643-469f-be30-32e720113c66": "830108174209"
+    },
+    "package": "dec33bbc-b330-4f78-9f6c-ccc96f0ea703",
+    "pad_map": {
+        "7318cd6f-97f0-43d0-959c-2bf35f3857ed": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "a32f1d4f-45df-4a7d-b19f-e378d7f79fd0": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "badcd84f-2b37-4785-859f-dc113d076c69": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        },
+        "bf9d66a3-1b46-4138-b9e7-d46445ff9372": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "6bd2d9ae-7f0b-436a-b2db-833302cbb729",
+    "value": [
+        false,
+        "25 MHz Crystal"
+    ]
+}
