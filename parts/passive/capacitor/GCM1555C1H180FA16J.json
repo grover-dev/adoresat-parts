@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GCM1555C1H180FA16J"
+    ],
+    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/GCM1555C1H180FA16_01-1964821.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "efb55496-b164-4d2f-9071-a7c82a281de4": "GCM1555C1H180FA16J"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "1",
+        "type": "C0G/NP0",
+        "value": "1.8e-11",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6cd5c77c-f0c9-4b7d-bdad-e36a81dbdc7d",
+    "value": [
+        false,
+        "18 pF - 50 V - C0G - 1%"
+    ]
+}
