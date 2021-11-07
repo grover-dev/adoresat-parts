@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CRM2512-FX-1501ELF"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/crm-1858657.pdf"
+    ],
+    "description": [
+        false,
+        "Current Sense Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "489e5a93-9fb2-4b88-9168-2f3a3a2195c6": "CRM2512-FX-1501ELF"
+    },
+    "parametric": {
+        "pmax": "2",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "1500"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "808bee7d-9f98-4c75-95df-d6195a95db6e",
+    "value": [
+        false,
+        "1.5 kOhm - 1% - 2 W"
+    ]
+}
