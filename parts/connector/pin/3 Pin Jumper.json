@@ -5,7 +5,7 @@
     ],
     "datasheet": [
         false,
-        ""
+        "https://www.mouser.com/datasheet/2/35/16001-economy-miniature-jumper-355429.pdf"
     ],
     "description": [
         false,
@@ -16,7 +16,7 @@
     "inherit_tags": false,
     "manufacturer": [
         false,
-        ""
+        "Aries Electronics"
     ],
     "model": "00000000-0000-0000-0000-000000000000",
     "orderable_MPNs": {

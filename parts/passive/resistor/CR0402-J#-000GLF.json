@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CR0402-J#-000GLF"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW04020000Z0EDC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gwkqbMx2gSI%252BmKUnjnIW1MQ%3D%3D"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "162dae3d-083e-4501-bd95-9c8236cb0ac6": "CR0402-J/-000GLF"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "82462cd6-22d4-459e-b24b-cabc92f0de97",
+    "value": [
+        false,
+        "0 Ohm - 5% - 0.0625 W"
+    ]
+}
