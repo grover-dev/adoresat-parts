@@ -128,11 +128,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "down",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                0,
-                -5000000
+                7500000,
+                0
             ]
         },
         "5e9f004b-463f-4f87-86ac-e794d38b174c": {
@@ -162,11 +162,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "right",
+            "orientation": "down",
             "pad_visible": true,
             "position": [
-                7500000,
-                0
+                0,
+                -5000000
             ]
         }
     },
