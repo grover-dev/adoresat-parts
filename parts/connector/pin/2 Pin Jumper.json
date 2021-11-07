@@ -24,6 +24,9 @@
         ""
     ],
     "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "dcee3104-30e7-421f-ba78-6d930ee94cdb": "ME-100"
+    },
     "package": "90a0604f-080e-41a1-a9d8-e6090cbe63eb",
     "pad_map": {
         "2509cd93-201f-4dc5-baa8-7abfda53dc73": {
