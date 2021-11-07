@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CDBU0530"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/80/CDBU0530_HF_RevA797179-2489986.pdf"
+    ],
+    "description": [
+        false,
+        "Schottky Diode"
+    ],
+    "entity": "cba5158c-706d-4f10-b48a-2de7e5a82a4c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Comchip"
+    ],
+    "model": "c53ed436-49a9-4920-8c70-22c20d15507e",
+    "orderable_MPNs": {
+        "f499b55b-d708-4036-b1df-9db2d645c8b2": "CDBU0530"
+    },
+    "package": "331c4075-8746-400c-bc20-efd4c4a9e3b1",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "523d19b4-6dfb-44df-9e60-0944cba3badc",
+    "value": [
+        false,
+        "Schottky - 0.47 Vf - 0.5 If"
+    ]
+}
