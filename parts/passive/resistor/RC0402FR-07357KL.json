@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RC0402FR-07357KL"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_10-1664068.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistors"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "5208e32c-ebf9-4eb9-a490-ee1272f8aff9": "RC0402FR-07357KL"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "357000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "1e776af1-ae8c-4420-af5c-5f3edcb89705",
+    "value": [
+        false,
+        "357 kOhm - 1% - 0.0625 W"
+    ]
+}

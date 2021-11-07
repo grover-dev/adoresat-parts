@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RG1005P-473-B-T5"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/392/n_catalog_partition01_en-1140338.pdf"
+    ],
+    "description": [
+        false,
+        "Thin Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Susumu"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "bc92b528-7cfe-4559-81ea-d1971ab6b8d7": "RG1005P-473-B-T5"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "47000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "89397812-5f45-4d96-9d1a-56c0f96a1e2c",
+    "value": [
+        false,
+        "47 kOhm - 0.1% - 0.0625 W"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "474c4041-af1c-4588-b3eb-da20d54751ea": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "76ad5384-8780-4bc2-8391-c2f5f673fd5b"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LT3030",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage-regulator"
+    ],
+    "type": "entity",
+    "uuid": "c8bf5bfd-f71c-4050-864f-dd6d8eb7381c"
+}

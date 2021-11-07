@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "UMF105B7103MVHF"
+    ],
+    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/396/taiyo_yuden_07182019_MLCC_AECQ200_Grade_1_X7R_data-1622917.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic  Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Taiyo Yuden"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "c9e8edb4-3107-4144-8d1c-22f4ad747885": "UMF105B7103MVHF"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X7R",
+        "value": "1e-08",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "6e128532-524d-420d-b11d-cda8e2cb6fca",
+    "value": [
+        false,
+        "10 nF - 50 V - X7R - 20%"
+    ]
+}

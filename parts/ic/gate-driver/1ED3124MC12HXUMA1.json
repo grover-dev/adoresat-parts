@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "1ED3124MC12HXUMA1"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/196/Infineon_1ED31xxMC12H__1ED_X3_Compact_DataSheet_v0-2090416.pdf"
+    ],
+    "description": [
+        false,
+        "Isolated Gate Driver"
+    ],
+    "entity": "5e0e635d-446d-41f0-9fd9-67366bb42888",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Infineon"
+    ],
+    "model": "42898a50-3663-4acd-9bba-fb31d34373f4",
+    "orderable_MPNs": {
+        "bd2a89b3-5d87-43d0-bfd7-7701d794c8db": "1ED3124MC12HXUMA1"
+    },
+    "package": "bbc5d893-157a-46dc-a82b-507592ce3c66",
+    "pad_map": {
+        "01cf9318-1d9d-42c5-877f-3ea55cfc53b2": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "e542bc5b-cc3f-4236-99b0-e85cd599e11d"
+        },
+        "090d039a-671d-47d7-8d3f-d8baf731ad33": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "3d1c6a46-03c7-47e9-9ff0-f0f4b01fb034"
+        },
+        "0a051309-e8fb-445b-aa2c-3094426a8e46": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "8920d92a-b77c-4369-aa61-492b088eb938"
+        },
+        "0cc6d6f9-69e6-4690-b525-74f717f3eafc": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "d972b4eb-d9c9-4fcb-a133-8ae597c387a6"
+        },
+        "20fbf5e1-7610-431a-a3ea-c12aea8ae9ca": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "289dcdd9-bc12-42e3-8229-1b4455d7d251"
+        },
+        "912e0001-9713-4c05-a451-923e07dd5944": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "50d7b865-ae91-4e24-9275-3ad501c8a7ff"
+        },
+        "9e611bfc-2996-4fda-91ba-43d1ee9a7692": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "f4d571e1-df74-4377-ac5c-e633efe70a73"
+        },
+        "a6b76b0c-a3da-4f7e-a814-8b3c051d8453": {
+            "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
+            "pin": "fbf7aa43-893a-4ec1-95a5-468fded13292"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gate-driver",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "f4e7f576-1c10-4d75-9d0a-dc4cf9759a65",
+    "value": [
+        false,
+        "1ED3124MC"
+    ]
+}

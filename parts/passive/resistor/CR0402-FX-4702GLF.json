@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CR0402-FX-4702GLF"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "b7d34fc0-4063-4147-b93f-bfcce211d16e": "CR0402-FX-4702GLF"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "47000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "7f25b6b1-582b-471f-80e9-972dfbe90c3f",
+    "value": [
+        false,
+        "47 kOhm - 1% - 0.0625 W"
+    ]
+}
