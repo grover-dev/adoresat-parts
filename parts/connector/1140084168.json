@@ -1,0 +1,70 @@
+{
+    "MPN": [
+        false,
+        "1140084168"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/18/11400841-1156069.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Mount microSD Card Holder"
+    ],
+    "entity": "cc1ef2d5-bde1-4a4b-8c84-55be70dd8c50",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol ICC"
+    ],
+    "model": "45a61e50-f6d0-48ff-adb3-f9bd3c01deb0",
+    "orderable_MPNs": {
+        "fa6fadad-e0b3-46c4-a891-67d735d89db3": "1140084168"
+    },
+    "package": "f51aaf60-b2dc-4875-acc2-c3e0a8d84923",
+    "pad_map": {
+        "4f0efdf7-3345-4c57-b6ea-e9a43a13c844": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "d9f0a5de-2608-40cd-93ae-507ac7af84c4"
+        },
+        "89fd5a46-f44b-4cc9-b481-4b3a34ff933a": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "8dafb9da-a885-4166-8fc1-ab90f56cad95"
+        },
+        "a75c3795-d0d4-472a-839c-39e41d88cfe7": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "a4629f46-4e85-42a5-8b25-466a8a760f02"
+        },
+        "af4f62c2-8354-4e2a-a679-39a649e3466e": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "25886cc8-d1f2-45b0-9c39-b779be40778c"
+        },
+        "b0ddb518-97c4-48bf-9fef-d5b1118e199b": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "f5d4e10d-2fc2-46a9-ad80-7a9555cebfad"
+        },
+        "ddce2a52-c5f1-4b4e-9ba1-35102178ca30": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "7e1e7f6f-adaa-4a5f-b9b0-bde7d6412c79"
+        },
+        "ded345a4-32fe-4473-be37-88788ed25cd3": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "eb91328b-d6a7-453a-b1d6-8c4fce10aad8"
+        },
+        "e1c9d202-4ee3-4faf-b246-0b9d186a5268": {
+            "gate": "1b59cd4f-2655-45d9-b8e9-f73478a2dd1a",
+            "pin": "7ac22dac-2ff6-42b9-855e-41098bcce2ac"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "3a74d961-1fba-4aa0-9d79-1d450d9f36ad",
+    "value": [
+        false,
+        "microSD"
+    ]
+}
