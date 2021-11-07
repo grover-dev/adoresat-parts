@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "3 Pin Jumper"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/35/16001-economy-miniature-jumper-355429.pdf"
+    ],
+    "description": [
+        false,
+        "3 Pin Jumper"
+    ],
+    "entity": "132e3b49-9a0e-4cdf-a16f-b7660a1e615e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Aries Electronics"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "8f7bf20b-29b5-4ebc-9185-6138941ff445": "ME-100"
+    },
+    "package": "f3b87d54-5516-487d-8c49-d76517981280",
+    "pad_map": {
+        "2509cd93-201f-4dc5-baa8-7abfda53dc73": {
+            "gate": "b58c9980-3068-4fd5-8002-7bff153f7fe2",
+            "pin": "cfd5d940-5c2e-4a53-8ab5-5543662316a6"
+        },
+        "8de0d36f-d5b3-4945-896e-c733599a22be": {
+            "gate": "b58c9980-3068-4fd5-8002-7bff153f7fe2",
+            "pin": "5e9f004b-463f-4f87-86ac-e794d38b174c"
+        },
+        "add190b0-5d03-4dc2-a90f-432e92366692": {
+            "gate": "b58c9980-3068-4fd5-8002-7bff153f7fe2",
+            "pin": "4eaf37cd-21cc-46e0-820f-3000f6d474b2"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bbd9f44d-fa26-4356-87e0-3be44b14ed58",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "S2761-46R"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/181/S2761R-1291319.pdf"
+    ],
+    "description": [
+        false,
+        "Hook Test Point"
+    ],
+    "entity": "905ead0e-e2ee-4bd2-a500-fdc364a95055",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hawin"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "1dff42b4-2f6c-4448-b5ea-00bedb89a865": "S2761-46R"
+    },
+    "package": "449cc207-7d46-443c-9158-a37ce6a1852e",
+    "pad_map": {
+        "b3fe69a4-c67b-4342-ad6e-1f00d62c6d75": {
+            "gate": "7fca45f6-cd88-4986-9c14-6620a44f9cbd",
+            "pin": "4bb7ed9b-4e3b-45f6-9779-51ae49824855"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "hook",
+        "test-point"
+    ],
+    "type": "part",
+    "uuid": "9fcbd69a-d3a2-4376-a650-572e96459d14",
+    "value": [
+        false,
+        "Hook TP"
+    ]
+}

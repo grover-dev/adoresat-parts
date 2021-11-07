@@ -1,0 +1,62 @@
+{
+    "manufacturer": "",
+    "name": "Micro SD Card",
+    "pins": {
+        "25886cc8-d1f2-45b0-9c39-b779be40778c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "7ac22dac-2ff6-42b9-855e-41098bcce2ac": {
+            "direction": "input",
+            "names": [
+                "CS"
+            ],
+            "primary_name": "DAT3",
+            "swap_group": 0
+        },
+        "7e1e7f6f-adaa-4a5f-b9b0-bde7d6412c79": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "8dafb9da-a885-4166-8fc1-ab90f56cad95": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DAT1",
+            "swap_group": 0
+        },
+        "a4629f46-4e85-42a5-8b25-466a8a760f02": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DAT2",
+            "swap_group": 0
+        },
+        "d9f0a5de-2608-40cd-93ae-507ac7af84c4": {
+            "direction": "input",
+            "names": [
+                "DO"
+            ],
+            "primary_name": "DAT0",
+            "swap_group": 0
+        },
+        "eb91328b-d6a7-453a-b1d6-8c4fce10aad8": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "f5d4e10d-2fc2-46a9-ad80-7a9555cebfad": {
+            "direction": "input",
+            "names": [
+                "DI"
+            ],
+            "primary_name": "CMD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a495b909-e4d4-43ca-ab90-b9ee0620c5f8"
+}

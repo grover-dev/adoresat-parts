@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-2RKF2103X"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C304-1149620.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "5970ae37-3f6b-4c12-9469-a41b53764a9e": "ERJ-2RKF2103X"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "210000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ef5465e4-54a2-43e9-9982-1b05f7d3beb6",
+    "value": [
+        false,
+        "210 kOhm - 1% - 0.1 W"
+    ]
+}
