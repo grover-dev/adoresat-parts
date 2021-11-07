@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "d47968cc-410c-4b2a-8638-d8e5c9730790": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1410e312-0c6d-4472-a0e5-92e28d6af6c9"
+        }
+    },
+    "manufacturer": "Infineon",
+    "name": "1ED31xxMC12H",
+    "prefix": "U",
+    "tags": [
+        "gate-driver"
+    ],
+    "type": "entity",
+    "uuid": "5e0e635d-446d-41f0-9fd9-67366bb42888"
+}
