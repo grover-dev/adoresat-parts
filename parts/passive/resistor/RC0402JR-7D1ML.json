@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RC0402JR-7D1ML"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/447/PYu_RC_Group_51_RoHS_L_10-1664068.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "85e2a0a2-29c2-4654-8576-696221381448": "RC0402JR-7D1ML"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "1e+06"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "02535657-611e-4e10-8d59-e574f8e411ef",
+    "value": [
+        false,
+        "1 MOhm - 5% - 0.0625 W"
+    ]
+}

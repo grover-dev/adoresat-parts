@@ -1,0 +1,56 @@
+{
+    "manufacturer": "winbond",
+    "name": "W25Q16JV",
+    "pins": {
+        "1413c23a-1a78-4c2c-af11-d0e7adfb6c46": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CS",
+            "swap_group": 0
+        },
+        "21775e8e-30ce-4352-9782-9d421cfe5306": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DI",
+            "swap_group": 0
+        },
+        "2c06f09b-b383-4fc5-979f-76a752b39891": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~WP",
+            "swap_group": 0
+        },
+        "4538c256-9cef-444d-a370-c68902bab5e8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "~HOLD",
+            "swap_group": 0
+        },
+        "8c3b397f-f5b0-4f92-95a0-72291925faac": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "b94eb2ad-e6c2-452c-b20d-41d25f878f02": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DO",
+            "swap_group": 0
+        },
+        "ebb4afe2-1f68-4bd6-aaad-a866d8a1f3d3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "f32c5722-01a1-41a3-962d-e61637cc3018": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ad2f593c-7417-40be-b812-40a7e31e50b1"
+}
