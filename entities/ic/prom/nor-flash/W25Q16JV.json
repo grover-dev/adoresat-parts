@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "fe2fa5ad-e389-49c4-8a0b-88f5beb36ebb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ad2f593c-7417-40be-b812-40a7e31e50b1"
+        }
+    },
+    "manufacturer": "winbond",
+    "name": "W25Q16JV",
+    "prefix": "U",
+    "tags": [
+        "flash",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "7bed3979-b0b9-4e9f-96fa-dd826872cf8a"
+}

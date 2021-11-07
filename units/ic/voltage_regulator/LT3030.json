@@ -1,0 +1,86 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "LT3030",
+    "pins": {
+        "1d126763-8a16-4b2f-8b45-e5304c58b376": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT1",
+            "swap_group": 0
+        },
+        "2905ce86-ed64-4fae-a551-496f9268ff2e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PWRGD1",
+            "swap_group": 0
+        },
+        "2ae4e0b7-c73b-42f9-9173-6e1f233c6661": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN1",
+            "swap_group": 0
+        },
+        "4c2fb6d1-f1eb-4fba-8681-1e8e56b07401": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~SHDN1",
+            "swap_group": 0
+        },
+        "4e66e3a1-0f4d-4b05-80e1-be2b3ce52dc6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "57d6fc54-e643-4e89-a138-4ae73324509e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~SHDN2",
+            "swap_group": 0
+        },
+        "6e71d475-c6dc-4f04-bee4-95a90598d828": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PWRGD2",
+            "swap_group": 0
+        },
+        "905fc62e-c597-4c76-ae64-4cdcbc52dcc2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BYP1",
+            "swap_group": 0
+        },
+        "ae0fb6f4-ebc7-4278-8a88-a1a80bd4eea8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADJ1",
+            "swap_group": 0
+        },
+        "af108b7e-280c-4d2b-a061-b85c2b04b0ee": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADJ2",
+            "swap_group": 0
+        },
+        "ebc5b568-3a23-4f49-b558-507ee7920df7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "BYP2",
+            "swap_group": 0
+        },
+        "ee1b51b1-1144-48cf-bb4d-56f3ffaa537b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN2",
+            "swap_group": 0
+        },
+        "fb2a96d9-4097-4850-a46d-386177c011fd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "76ad5384-8780-4bc2-8391-c2f5f673fd5b"
+}
