@@ -1,0 +1,116 @@
+{
+    "manufacturer": "Trinamic",
+    "name": "TMC4671 - Power",
+    "pins": {
+        "0411b3e1-6f0a-4212-8bc6-f76b06697f12": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCCCORE3",
+            "swap_group": 0
+        },
+        "19ac75bf-6afc-49bd-be7a-ce4ca8853bae": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO1",
+            "swap_group": 0
+        },
+        "1fb5362e-072b-4358-a3b7-0fc7f6e82adb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDIO6",
+            "swap_group": 0
+        },
+        "276796c1-58aa-4747-9a72-86ff68379fe4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDIO1",
+            "swap_group": 0
+        },
+        "3643cb06-8226-4c30-8c4c-1bf724861c0c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDIO2",
+            "swap_group": 0
+        },
+        "3a247d36-1b78-4c92-862f-9180bd553c81": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDIO3",
+            "swap_group": 0
+        },
+        "4044c06a-f8e5-4996-8dd2-e67d217a696f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO6",
+            "swap_group": 0
+        },
+        "57561afd-5ce0-4a84-8ac7-cafec8f2f193": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDA",
+            "swap_group": 0
+        },
+        "611ca00b-fb7a-4b92-a572-d2e6d74dc2f7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO4",
+            "swap_group": 0
+        },
+        "62825f5d-b8b7-4f6e-8033-3b6a4cd4d1a6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDIO4",
+            "swap_group": 0
+        },
+        "79dc8574-29c0-420a-8b47-c52ca7c8d40e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "V5",
+            "swap_group": 0
+        },
+        "83041b34-dc9b-4e13-90f7-5d7de4b240e9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDPAD",
+            "swap_group": 0
+        },
+        "8e2f38f4-3af8-4f69-a24e-a9fb20bd4749": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO5",
+            "swap_group": 0
+        },
+        "9e30f927-c7e6-44d1-bc34-db647f25fbf4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO3",
+            "swap_group": 0
+        },
+        "ced5532c-e7ed-4ddf-a71b-9aeb457fcb6b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GNDIO5",
+            "swap_group": 0
+        },
+        "d71c0e5c-6aff-4506-a358-6bf7dfd0cb20": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCIO2",
+            "swap_group": 0
+        },
+        "e9d77a72-aaec-4b44-9d5c-a5a6e2630972": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCCCORE2",
+            "swap_group": 0
+        },
+        "fc02705b-2c3f-4c02-bcc7-5a7178a12a77": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VCCCORE1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "138815ed-f53d-4109-b0a0-7f0a842c8a86"
+}
