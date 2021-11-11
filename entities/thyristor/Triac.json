@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "3a19fd84-cdaf-4d67-9264-eb72a143c318": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "479c0fef-36a6-4ed9-97ae-530214502324"
+        }
+    },
+    "manufacturer": "",
+    "name": "Triac",
+    "prefix": "T",
+    "tags": [
+        "triac"
+    ],
+    "type": "entity",
+    "uuid": "eb34c16e-b962-414b-897c-564b93ec7f71"
+}
