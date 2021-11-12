@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "245e0b9a-07c1-4eb2-898c-808bee93c548": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7cc00eb1-e968-4b7c-bb56-5acdc12ea9ce"
+        }
+    },
+    "manufacturer": "",
+    "name": "Fuse",
+    "prefix": "F",
+    "tags": [
+        "fuse",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "ec742676-0326-40c9-b371-d02b7dcef357"
+}
