@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "4632457b-f357-4962-b79e-e9336a5404c6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "03e6a297-e51a-41e2-a281-fff5feabf04e"
+        }
+    },
+    "manufacturer": "Honeywell",
+    "name": "SM353LT",
+    "prefix": "MR",
+    "tags": [
+        "magnetoresistor",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "d7dd126b-e1aa-4989-bcc7-d242e236a0e6"
+}
