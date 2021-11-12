@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "AS3004204-0054X0ISAY"
+    ],
+    "datasheet": [
+        false,
+        "https://www.avalanche-technology.com/wp-content/uploads/1Mb-16Mb-Serial-SPI-only-MRAM-1.pdf"
+    ],
+    "description": [
+        false,
+        "4 Mbit MRAM Serial QSPI"
+    ],
+    "entity": "e6508b93-e285-4726-9ce0-68a0fd00b0ef",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Avalanche Technology"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "4dd4c9da-d79c-4521-aa6d-f7501af6a1de": "AS3004204-0054X0ISAY"
+    },
+    "package": "fae719b0-66a5-4690-b6c2-18598f870fad",
+    "pad_map": {
+        "2d2fd9ca-02e1-43a6-9e02-3d64731f293f": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "074bc8bf-73ac-4d43-aa12-25c222129a03"
+        },
+        "2e307e4c-50cf-4579-a1eb-dd4245a3761a": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "dcc8ad86-385c-4a13-99cf-c0f5b2d9b01e"
+        },
+        "6872bd13-c7b4-4a03-9edc-e276e44471ee": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "676ccf6e-9dbf-4d7b-8cd0-be09abfa17ff"
+        },
+        "6a4f346d-8f25-4754-b97c-f4fde9f6c635": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "ed82b876-3779-4819-91c4-af1a532fc77b"
+        },
+        "7219f745-e927-40ca-ad16-9557e5b9db23": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "e2586533-c607-493b-984b-ba4d4f6df0fb"
+        },
+        "9994487f-43ab-40f9-ade5-6263de91bcd2": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "8a9b4757-6968-4dd3-8339-61e9b574cf6c"
+        },
+        "e3505fc0-601d-41f6-9e04-1002413bfb3a": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "e8539820-4617-4f34-8a20-f00f54e9d1cc"
+        },
+        "e88cd565-9e88-4f08-93d2-4d3ac57a7bd5": {
+            "gate": "039049c2-550b-4015-ab49-4fa4400d538d",
+            "pin": "633f9888-9375-487c-ae70-c91adfda2d7e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "mram"
+    ],
+    "type": "part",
+    "uuid": "a3fad04a-5914-482f-a2ee-268f52bed0dc",
+    "value": [
+        false,
+        "AS3004204"
+    ]
+}
