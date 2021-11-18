@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "4 Pin Connector",
+    "pins": {
+        "6fcecd52-12a0-4baf-82b5-02777a811224": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "a6cca623-16e7-4e8f-a419-633c1e45102b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "f2dbe54e-681d-4dcb-9292-8d17bbea6fe4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "f7310cb7-d516-4a47-9dfd-aa412bfccca0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "18f79622-9b35-46de-8dba-3f71ff6e7ac3"
+}
