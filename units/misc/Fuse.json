@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Fuse",
+    "pins": {
+        "5cf6da43-b858-458d-a8b7-e60d34835488": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "60b55a56-c1e8-4c8a-8b34-d053f7152761": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7cc00eb1-e968-4b7c-bb56-5acdc12ea9ce"
+}
