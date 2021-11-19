@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERJ-2GEJ222X"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C301-1488782.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "34c0c6bd-8544-4634-a21a-4e9c4765ebff": "ERJ-2GEJ222X"
+    },
+    "parametric": {
+        "pmax": "0.1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "2200"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "bb934d93-4f36-47ee-b562-afec26073a79",
+    "value": [
+        false,
+        "2.2 kOhm -5% - 0.1 W"
+    ]
+}

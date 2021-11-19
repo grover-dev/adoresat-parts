@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2020fc65-23c9-406b-898e-8b9d3e2540a0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "6d7aaca6-9402-421d-8902-1932a31ad58d"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "TL43x",
+    "prefix": "D",
+    "tags": [
+        "passive",
+        "voltage-reference"
+    ],
+    "type": "entity",
+    "uuid": "01b8f575-c98b-4656-a0f7-784c5c8a318d"
+}

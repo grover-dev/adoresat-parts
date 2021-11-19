@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "XRP7659ISTR-F"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/146/XRP7659-1889145.pdf"
+    ],
+    "description": [
+        false,
+        "Switching Voltage Regulator"
+    ],
+    "entity": "7793e72c-241e-4564-a425-73af2ee0dacb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Max Linear"
+    ],
+    "model": "c8224379-efb0-412d-b34d-6ab7e3ce1b50",
+    "orderable_MPNs": {
+        "42a1ead1-a044-4c37-babc-dce7e9010cd6": "XRP7659ISTR-F"
+    },
+    "package": "893ca0d5-0caa-4ce0-b1e8-b6b4dc4ab145",
+    "pad_map": {
+        "36e0f574-28e9-4581-b911-09d52a7ba50f": {
+            "gate": "3edc3d63-2285-40dd-9ce6-f6e85ca966aa",
+            "pin": "c5f01fb2-cc07-4a06-8ef5-369bf82e64d8"
+        },
+        "412ba428-5a5b-4904-b891-482b274c1210": {
+            "gate": "3edc3d63-2285-40dd-9ce6-f6e85ca966aa",
+            "pin": "86c921cc-a0aa-4c3a-bcc1-ffb61510c4b3"
+        },
+        "5b52e565-f5f9-475e-8b54-4f2455b472fb": {
+            "gate": "3edc3d63-2285-40dd-9ce6-f6e85ca966aa",
+            "pin": "a745f74e-a220-4612-a4a3-86b60c63b776"
+        },
+        "6936737b-7bbb-4395-af7b-f61140f044a7": {
+            "gate": "3edc3d63-2285-40dd-9ce6-f6e85ca966aa",
+            "pin": "8e43cee0-e155-4b08-810b-2977b7aa9192"
+        },
+        "6de2409c-404b-417c-be96-32ed61b0376c": {
+            "gate": "3edc3d63-2285-40dd-9ce6-f6e85ca966aa",
+            "pin": "621111e0-630d-411f-8bb2-7e9083934ffe"
+        },
+        "ac1f2bf0-a42c-48e9-bb7b-0d5a8c92c219": {
+            "gate": "3edc3d63-2285-40dd-9ce6-f6e85ca966aa",
+            "pin": "9297881a-8d20-44ab-9b68-037d26a769d4"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1a69cf12-e7e2-488f-afa2-755ccd9d9eb4",
+    "value": [
+        false,
+        "XRP7659"
+    ]
+}
