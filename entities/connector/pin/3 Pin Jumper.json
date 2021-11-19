@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "b58c9980-3068-4fd5-8002-7bff153f7fe2": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f0820992-6880-412a-b2f9-9969cfcad0ba"
+        }
+    },
+    "manufacturer": "",
+    "name": "3 Pin Jumper",
+    "prefix": "JP",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "132e3b49-9a0e-4cdf-a16f-b7660a1e615e"
+}

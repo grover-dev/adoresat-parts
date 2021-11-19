@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM188Z71C475KE21D"
+    ],
+    "base": "9dd80741-44a5-4f7d-a263-67d0f050f248",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/1/GRM188Z71C475KE21_01A-1986016.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "fbd1aecb-8dd6-4aaf-a0f3-da54ebf49564": "GRM188Z71C475KE21D"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "4.7e-06",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "4926297e-0601-4193-a627-8d483bcfefa4",
+    "value": [
+        false,
+        "4.7 uF - 16 V - X7R - 10%"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "ERJ-1TYJ820U"
+    ],
+    "base": "7acc9273-4b2c-4d34-8dc4-293b9b4dfaca",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/315/AOA0000C301-1488782.pdf"
+    ],
+    "description": [
+        false,
+        "SMD Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "e5f9f686-392d-45db-8a15-2c626423d476",
+    "orderable_MPNs": {
+        "6de2e4ab-5586-4d41-aeab-085c14446eec": "ERJ-1TYJ820U"
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "82"
+    },
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "d262eec0-cff5-4a04-beb0-dc7b00b8cc72",
+    "value": [
+        false,
+        "82 Ohms - 5% - 1W"
+    ]
+}

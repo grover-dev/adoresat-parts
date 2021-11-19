@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM155R60J106ME05D"
+    ],
+    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/1/GRM155R60J106ME05_01A-1983717.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "a78aed61-290f-43b1-9c63-2a2191be5312": "GRM155R60J106ME05D"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X5R",
+        "value": "1e-05",
+        "wvdc": "6.3"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "5c459152-4629-4800-8f2b-c30b39ec0472",
+    "value": [
+        false,
+        "10 uF - 6.3 V - X5R - 20%"
+    ]
+}

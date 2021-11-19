@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Trinamic",
+    "name": "TMC4671 - Communication",
+    "pins": {
+        "0189d922-e2cb-43dd-adb0-1bb372c5ca42": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_nSCS",
+            "swap_group": 0
+        },
+        "29435136-afcb-427b-890a-91c6376865f7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "UART_RXD",
+            "swap_group": 0
+        },
+        "3bb19a50-5906-45b8-95c8-ede86550a884": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SPI_MISO",
+            "swap_group": 0
+        },
+        "b1ac1603-6420-4f22-9fd2-55d20186a54a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_MOSI",
+            "swap_group": 0
+        },
+        "cdcd656d-5755-41c6-a152-5e14491cbe03": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SPI_SCK",
+            "swap_group": 0
+        },
+        "f45d6aae-b942-4c1d-ac97-938781ca6eed": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "UART_TXD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "37c17405-a584-429d-ad65-f97d88864ec1"
+}

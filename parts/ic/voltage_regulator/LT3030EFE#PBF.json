@@ -1,0 +1,123 @@
+{
+    "MPN": [
+        false,
+        "LT3030EFE#PBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/609/3030fa-1271285.pdf"
+    ],
+    "description": [
+        false,
+        "Dual Channel Voltage Regulator"
+    ],
+    "entity": "c8bf5bfd-f71c-4050-864f-dd6d8eb7381c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "61c6078a-2032-40e8-bf86-616357749b16",
+    "orderable_MPNs": {
+        "55fe2cf6-397b-4614-8a1f-48f10c22fa2d": "LT3030EFE#PBF"
+    },
+    "package": "eced5008-508f-4e43-9877-032826ce03c9",
+    "pad_map": {
+        "00087eb5-8474-4194-801b-92e4c5e40fec": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "1d126763-8a16-4b2f-8b45-e5304c58b376"
+        },
+        "03729de6-ce12-42af-83b8-d6344e439c3f": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "905fc62e-c597-4c76-ae64-4cdcbc52dcc2"
+        },
+        "09ed5c03-d72b-48fe-a793-d6dd84ca0b1f": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "2905ce86-ed64-4fae-a551-496f9268ff2e"
+        },
+        "228396d4-b415-48fb-86df-5cc45ff8f8dc": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "4e66e3a1-0f4d-4b05-80e1-be2b3ce52dc6"
+        },
+        "38b7b0ff-17f1-4190-8ca5-9ed5195caace": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "af108b7e-280c-4d2b-a061-b85c2b04b0ee"
+        },
+        "38ee57e0-f73e-4127-a05c-aadc002ed79d": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "4c2fb6d1-f1eb-4fba-8681-1e8e56b07401"
+        },
+        "3cd7b658-7dc8-4207-8a51-37a068664104": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "fb2a96d9-4097-4850-a46d-386177c011fd"
+        },
+        "526c2ed7-ec78-492e-8bae-30dbf92db1e2": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "ee1b51b1-1144-48cf-bb4d-56f3ffaa537b"
+        },
+        "5bb92687-0230-44d5-8fc4-cf33d2ba8d99": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "4e66e3a1-0f4d-4b05-80e1-be2b3ce52dc6"
+        },
+        "65fdb4e0-9c1b-40ab-a4c2-54b840341ba1": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "2ae4e0b7-c73b-42f9-9173-6e1f233c6661"
+        },
+        "89cd281c-6ba0-4b39-94fc-be7076f42c51": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "57d6fc54-e643-4e89-a138-4ae73324509e"
+        },
+        "8ab13e80-b80a-4963-8504-b6037575e20e": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "2ae4e0b7-c73b-42f9-9173-6e1f233c6661"
+        },
+        "8bbe9d48-0312-4186-9546-2643572e8213": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "ee1b51b1-1144-48cf-bb4d-56f3ffaa537b"
+        },
+        "8d7e2dee-bde7-4840-9503-d032a910f3dd": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "6e71d475-c6dc-4f04-bee4-95a90598d828"
+        },
+        "a51105f5-8a1e-42ce-a4da-96e1e9c93e6b": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "ebc5b568-3a23-4f49-b558-507ee7920df7"
+        },
+        "c590594f-9382-4c68-92b7-233c13569458": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "4e66e3a1-0f4d-4b05-80e1-be2b3ce52dc6"
+        },
+        "c5e97410-7b7c-4ed9-a9bc-28a3406c09f6": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "fb2a96d9-4097-4850-a46d-386177c011fd"
+        },
+        "c9587f1a-906d-4052-a721-33c5ea7285d7": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "ae0fb6f4-ebc7-4278-8a88-a1a80bd4eea8"
+        },
+        "d16686fa-957e-4c75-9207-d25429bceac8": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "1d126763-8a16-4b2f-8b45-e5304c58b376"
+        },
+        "f95c770e-524f-48cb-a909-e13af9b27747": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "4e66e3a1-0f4d-4b05-80e1-be2b3ce52dc6"
+        },
+        "fb090865-a4be-4947-b099-295f5d484f64": {
+            "gate": "474c4041-af1c-4588-b3eb-da20d54751ea",
+            "pin": "4e66e3a1-0f4d-4b05-80e1-be2b3ce52dc6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "voltage-regulator"
+    ],
+    "type": "part",
+    "uuid": "db8cc13c-2b9f-4275-b3c9-6c98817303f1",
+    "value": [
+        false,
+        "LT3030"
+    ]
+}
