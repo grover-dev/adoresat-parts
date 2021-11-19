@@ -26,15 +26,15 @@
     "pad_map": {
         "01cf9318-1d9d-42c5-877f-3ea55cfc53b2": {
             "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
-            "pin": "e542bc5b-cc3f-4236-99b0-e85cd599e11d"
+            "pin": "3d1c6a46-03c7-47e9-9ff0-f0f4b01fb034"
         },
         "090d039a-671d-47d7-8d3f-d8baf731ad33": {
             "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
-            "pin": "3d1c6a46-03c7-47e9-9ff0-f0f4b01fb034"
+            "pin": "e542bc5b-cc3f-4236-99b0-e85cd599e11d"
         },
         "0a051309-e8fb-445b-aa2c-3094426a8e46": {
             "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
-            "pin": "8920d92a-b77c-4369-aa61-492b088eb938"
+            "pin": "fbf7aa43-893a-4ec1-95a5-468fded13292"
         },
         "0cc6d6f9-69e6-4690-b525-74f717f3eafc": {
             "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
@@ -54,7 +54,7 @@
         },
         "a6b76b0c-a3da-4f7e-a814-8b3c051d8453": {
             "gate": "d47968cc-410c-4b2a-8638-d8e5c9730790",
-            "pin": "fbf7aa43-893a-4ec1-95a5-468fded13292"
+            "pin": "8920d92a-b77c-4369-aa61-492b088eb938"
         }
     },
     "parametric": {},
