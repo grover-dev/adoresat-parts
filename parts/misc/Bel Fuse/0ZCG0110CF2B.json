@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "0ZCG0110CF2B"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/643/ds_CP_0zcg_series-1960332.pdf"
+    ],
+    "description": [
+        false,
+        "Resettable Fuse"
+    ],
+    "entity": "ec742676-0326-40c9-b371-d02b7dcef357",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bel Fuse"
+    ],
+    "model": "be28c26b-d16e-4410-805a-9eea5315e8eb",
+    "orderable_MPNs": {
+        "902a0fc6-1bf7-4f66-a327-1fbcca6af1b5": "0ZCG0110CF2B"
+    },
+    "package": "afa3f6a6-3aa9-4321-b6f3-7efab4bca857",
+    "pad_map": {
+        "3e7e138d-feee-46df-b0e9-889e859dcf4f": {
+            "gate": "245e0b9a-07c1-4eb2-898c-808bee93c548",
+            "pin": "60b55a56-c1e8-4c8a-8b34-d053f7152761"
+        },
+        "b0b71ed4-1102-4940-b25a-de75cde697d3": {
+            "gate": "245e0b9a-07c1-4eb2-898c-808bee93c548",
+            "pin": "5cf6da43-b858-458d-a8b7-e60d34835488"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuse",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "4b6de6e6-84b7-4a06-b130-5e8913939597",
+    "value": [
+        false,
+        "1.1 A 33 V PPTC Fuse"
+    ]
+}

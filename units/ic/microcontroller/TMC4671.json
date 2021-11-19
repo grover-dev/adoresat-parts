@@ -1,0 +1,179 @@
+{
+    "manufacturer": "Trinamic",
+    "name": "TMC4671",
+    "pins": {
+        "01100d33-df85-45ea-9cc4-5bb65201e823": {
+            "direction": "bidirectional",
+            "names": [
+                "AGPI_B_MCD",
+                "DBGSPI_SCK"
+            ],
+            "primary_name": "GPIO4",
+            "swap_group": 0
+        },
+        "0233e2da-1064-4a90-9207-98811b0223e5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BRAKE",
+            "swap_group": 0
+        },
+        "0291e6dd-1560-4eef-9aa0-292a65e8b37d": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC_VM_MCD"
+            ],
+            "primary_name": "GPIO2",
+            "swap_group": 0
+        },
+        "0f9a44e1-fffb-422c-9bbb-a649b4f2b20d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_VX2_H",
+            "swap_group": 0
+        },
+        "154a321c-6e6e-4a8b-b078-925429f83dd4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "254f4b50-2ba6-4ec2-bd14-96dfe1f502d2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_WY1_H",
+            "swap_group": 0
+        },
+        "2c4d16fe-0ac6-41a4-b3fc-187eaf406740": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_UX1_H",
+            "swap_group": 0
+        },
+        "382e2e7a-3110-4e13-ac1c-153f189c37f4": {
+            "direction": "bidirectional",
+            "names": [
+                "AENC_VN_MCD",
+                "DBGSPI_MISO"
+            ],
+            "primary_name": "GPIO6",
+            "swap_group": 0
+        },
+        "41948db2-f03b-4f91-876c-b3b878c48d58": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_UX1_L",
+            "swap_group": 0
+        },
+        "47f8af8b-5429-4721-88e3-c37ce4724589": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENI",
+            "swap_group": 0
+        },
+        "51aa4c00-55b6-4aa9-8341-8c71f5b864cc": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "STATUS",
+            "swap_group": 0
+        },
+        "54df1ada-a780-4c7d-8c21-077286ac8b90": {
+            "direction": "bidirectional",
+            "names": [
+                "AENC_UX_MCD",
+                "DBGSPI_MOSI"
+            ],
+            "primary_name": "GPIO5",
+            "swap_group": 0
+        },
+        "74394525-2c2c-48b4-a272-63510adeaa5f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_Y2_H",
+            "swap_group": 0
+        },
+        "7753f71c-b205-4235-b014-71fb02079af1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "STP",
+            "swap_group": 0
+        },
+        "77f05129-8877-41a2-a42e-47cb2b1e0e31": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIR",
+            "swap_group": 0
+        },
+        "a626abe1-e206-4f43-919f-cd561268eb93": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC_I1_MCD"
+            ],
+            "primary_name": "GPIO1",
+            "swap_group": 0
+        },
+        "b40f8039-1b68-479e-9294-0859bb0092a5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_VX2_L",
+            "swap_group": 0
+        },
+        "c14e076b-af5c-437d-9a7e-6c13f8880cc7": {
+            "direction": "bidirectional",
+            "names": [
+                "AENC_WY_MCD",
+                "DBGSPI_TRG"
+            ],
+            "primary_name": "GPIO7",
+            "swap_group": 0
+        },
+        "c21145a1-c9d1-49a6-99b6-d3ee5c141319": {
+            "direction": "bidirectional",
+            "names": [
+                "AGPI_A_MCD",
+                "DBGSPI_nSCS"
+            ],
+            "primary_name": "GPIO3",
+            "swap_group": 0
+        },
+        "d1b3eea7-f365-4cab-83b6-70e4e31eb10e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ENO",
+            "swap_group": 0
+        },
+        "d63d47ec-4f3e-4abb-8e5c-ab0da841d93c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "nRST",
+            "swap_group": 0
+        },
+        "d8b434de-77dc-4261-a754-41595c26888d": {
+            "direction": "bidirectional",
+            "names": [
+                "ADC_I0_MCD"
+            ],
+            "primary_name": "GPIO0",
+            "swap_group": 0
+        },
+        "e0a3bf82-af50-4dff-885c-ee2ed8ab88f1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_WY1_L",
+            "swap_group": 0
+        },
+        "ee9415db-475d-4856-b722-f70255c94012": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "f31de58d-8dbd-49e5-9809-52449823051c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PWM_Y2_L",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c1bd5db3-ba5c-4eb8-9ecb-f71be94dde03"
+}
