@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Honeywell",
+    "name": "SM353LT",
+    "pins": {
+        "9c3f389b-e0cd-4ecc-8eb5-9366ebae89bf": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "a03b82f0-6bfa-4b05-addb-802356fbf82f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "d9dd4a29-6fb1-48f1-95bf-84f8a47495c9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTPUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "03e6a297-e51a-41e2-a281-fff5feabf04e"
+}
