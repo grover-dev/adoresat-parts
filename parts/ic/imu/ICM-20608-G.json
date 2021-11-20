@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "ICM-20608-G"
+    ],
+    "datasheet": [
+        false,
+        "https://product.tdk.com/system/files/dam/doc/product/sensor/mortion-inertial/imu/data_sheet/ds-000081-v1.01.pdf"
+    ],
+    "description": [
+        false,
+        "6-Axis IMU"
+    ],
+    "entity": "9c0af07e-40a8-47dd-a68d-c740f19d4481",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TDK"
+    ],
+    "model": "82ef312d-8cc4-45f5-bc66-c6c84a4e01dc",
+    "orderable_MPNs": {
+        "ef746d5f-8185-425c-a3be-f3bad91a4977": "ICM-20608-G"
+    },
+    "package": "499ed8f9-6f1b-4e35-9f4b-6e42c1fba54f",
+    "pad_map": {
+        "1bb6d638-d172-4aff-979c-984618ae285f": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "5cedda33-950b-41eb-8d16-24e4e60c9444"
+        },
+        "300c6530-892f-4fc3-b95f-f925e3af333f": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "766dcbc3-f6d6-4296-aef6-d4bd0d3ab8fa"
+        },
+        "318183be-d3f8-4398-852d-7c90a3b9ef47": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "017ce52f-8d0d-431f-b1ec-42064ade03f0"
+        },
+        "3881df9c-27d3-4bfb-a1bc-9f251eb9518d": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "cc30fbb3-9d43-492c-8565-1c4cafc2d7e4"
+        },
+        "3b18cee2-b2d3-4c02-b3c4-8d49571eec64": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "2f7ad842-f790-4c5f-9aca-bb7da0d643bd"
+        },
+        "4d0d263f-e952-4ea1-a4c3-8a3ae2f1c1f5": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "007465d1-b293-485b-9f93-c6eb9ff9c807"
+        },
+        "4ff672bf-b674-4c16-a269-07d0dcca0f51": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "ee925702-0fc6-44d1-97e3-7e569de58ad9"
+        },
+        "745280d0-cb77-4963-98d4-372d9d8b465c": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "92c743a1-b2b9-4661-8fe5-064a724de792"
+        },
+        "7b9f72e0-59fa-4990-9009-0b51628a0b81": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "c50bdb20-5193-4eda-8921-6a4cd81ae2a1"
+        },
+        "93a53b97-26c4-4f4b-8101-d19ec76e7618": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "fe69ca56-56b2-4fd5-bb0b-c942751b6ec7"
+        },
+        "9ceb42c9-68ab-41b7-a6e1-839123bb6f2c": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "8799669e-7b97-4df7-b63d-e793e349410f"
+        },
+        "b1224141-ae0d-4d0f-ac03-ab846caabb83": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "3ad583c1-f2cb-478b-b7f0-66c8a55219e5"
+        },
+        "b7027d30-8127-4888-8fc0-a22b8d9f03ce": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "8ceaf3ab-c906-4b68-95a7-0ddcc26525fc"
+        },
+        "c588a60f-9047-422a-9fc1-a46521974ef5": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "0e783916-a4e5-4bbd-973c-ba2dafc21264"
+        },
+        "c9bdbd48-4d07-4b52-9b4b-96efb1b0dfe0": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "d4142958-36da-4a45-8064-bf9eccc75623"
+        },
+        "d1c92ec2-59d6-4f11-b65e-f243ef54b851": {
+            "gate": "cff0e300-b5c6-4891-83d0-8981057ef7e0",
+            "pin": "dc9b20fc-da02-4188-9f33-e19667043db8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "imu"
+    ],
+    "type": "part",
+    "uuid": "05e378e4-8a43-43b0-9d65-a6fab1477b23",
+    "value": [
+        false,
+        "ICM-20608"
+    ]
+}
