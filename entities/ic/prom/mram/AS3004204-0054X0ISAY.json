@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "039049c2-550b-4015-ab49-4fa4400d538d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "51a24efb-14b7-4fbf-b235-f29f97b8673d"
+        }
+    },
+    "manufacturer": "Avalanche Technology",
+    "name": "AS3004204-0054X0ISAY",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "mram"
+    ],
+    "type": "entity",
+    "uuid": "e6508b93-e285-4726-9ce0-68a0fd00b0ef"
+}
