@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "4e71e663-18da-493f-a48e-09ee61f3ff17": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e88bc8f4-bc97-4d56-8693-267631d40512"
+        }
+    },
+    "manufacturer": "",
+    "name": "1 Pin Connector",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "fb417f09-31ba-49a1-960c-6740a2375125"
+}

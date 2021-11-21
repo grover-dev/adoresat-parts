@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "1 Pin Connector",
+    "pins": {
+        "f8b2a87f-ea4a-4384-b2fc-88957ab407fd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e88bc8f4-bc97-4d56-8693-267631d40512"
+}
