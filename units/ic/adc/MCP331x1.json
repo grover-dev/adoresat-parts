@@ -4,82 +4,62 @@
     "pins": {
         "1186b688-efd6-4be9-af64-435575de441b": {
             "direction": "passive",
-            "names": [
-                "GND"
-            ],
-            "primary_name": "5",
+            "names": [],
+            "primary_name": "GND",
             "swap_group": 0
         },
         "209ae7ef-c86a-4112-8c30-458a1da8df3d": {
             "direction": "input",
-            "names": [
-                "CNVST"
-            ],
-            "primary_name": "6",
+            "names": [],
+            "primary_name": "CNVST",
             "swap_group": 0
         },
         "2e72e85e-1216-4fa6-9c86-02292e3a4608": {
             "direction": "input",
-            "names": [
-                "AVin-"
-            ],
-            "primary_name": "4",
+            "names": [],
+            "primary_name": "AVin-",
             "swap_group": 0
         },
         "4f87f513-4f2f-4384-a51e-ce12ee04af94": {
             "direction": "input",
-            "names": [
-                "SDI"
-            ],
-            "primary_name": "9",
+            "names": [],
+            "primary_name": "SDI",
             "swap_group": 0
         },
         "603fe21a-b471-497e-b9e6-dfa14cb65967": {
             "direction": "input",
-            "names": [
-                "SCLK"
-            ],
-            "primary_name": "8",
+            "names": [],
+            "primary_name": "SCLK",
             "swap_group": 0
         },
         "639ee705-28a1-40c3-9850-9920671bfc02": {
             "direction": "power_input",
-            "names": [
-                "DVio"
-            ],
-            "primary_name": "10",
+            "names": [],
+            "primary_name": "DVio",
             "swap_group": 0
         },
         "9d70cb11-1b44-4fe4-acd7-75297b7a79ef": {
             "direction": "power_input",
-            "names": [
-                "AVdd"
-            ],
-            "primary_name": "2",
+            "names": [],
+            "primary_name": "AVdd",
             "swap_group": 0
         },
         "dbf982ea-eb47-49a1-ad46-704ceb95aab8": {
             "direction": "input",
-            "names": [
-                "VRef"
-            ],
-            "primary_name": "1",
+            "names": [],
+            "primary_name": "VRef",
             "swap_group": 0
         },
         "e6263c4a-750a-4573-9b08-6b53d95b6afb": {
             "direction": "input",
-            "names": [
-                "AVin+"
-            ],
-            "primary_name": "3",
+            "names": [],
+            "primary_name": "AVin+",
             "swap_group": 0
         },
         "e673fcf8-49cc-4fd7-a73e-0c6f8f8f7773": {
             "direction": "output",
-            "names": [
-                "SDO"
-            ],
-            "primary_name": "7",
+            "names": [],
+            "primary_name": "SDO",
             "swap_group": 0
         }
     },
