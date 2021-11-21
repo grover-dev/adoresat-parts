@@ -12,7 +12,7 @@
     "prefix": "U",
     "tags": [
         "ic",
-        "voltage reference"
+        "voltage-reference"
     ],
     "type": "entity",
     "uuid": "dbda2093-7418-45ef-b302-de70bb46b307"
