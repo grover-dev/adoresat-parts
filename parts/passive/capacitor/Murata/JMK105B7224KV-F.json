@@ -12,7 +12,7 @@
         false,
         "Multilayer Ceramic Capacitor"
     ],
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": true,
     "manufacturer": [
         false,
