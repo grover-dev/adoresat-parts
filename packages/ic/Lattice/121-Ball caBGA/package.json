@@ -1985,8 +1985,10 @@
             }
         }
     },
-    "parameter_program": "",
-    "parameter_set": {},
+    "parameter_program": "9.800mm 9.800mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
     "polygons": {
         "6c06ff2f-4a71-4b76-b648-fa0e6716ac66": {
             "layer": 60,
@@ -1999,8 +2001,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -4500000,
-                        -4500000
+                        -5150000,
+                        -5150000
                     ],
                     "type": "line"
                 },
@@ -2011,8 +2013,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -4500000,
-                        4500000
+                        -5150000,
+                        5150000
                     ],
                     "type": "line"
                 },
@@ -2023,8 +2025,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4500000,
-                        4500000
+                        5150000,
+                        5150000
                     ],
                     "type": "line"
                 },
@@ -2035,8 +2037,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4500000,
-                        -4500000
+                        5150000,
+                        -5150000
                     ],
                     "type": "line"
                 }
@@ -2120,7 +2122,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -1000000,
+                    -1700000,
                     6000000
                 ]
             },
