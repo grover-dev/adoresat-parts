@@ -83,7 +83,7 @@
             "z": 0
         }
     },
-    "name": "SOIC-8",
+    "name": "SOIC-8 (SN)",
     "pads": {
         "467561dc-e3c4-4a24-9363-3aff21df66ef": {
             "name": "7",
@@ -222,8 +222,10 @@
             }
         }
     },
-    "parameter_program": "",
-    "parameter_set": {},
+    "parameter_program": "6.800mm 5.400mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
     "polygons": {
         "4fb65abb-aaab-47d2-8949-53a4258941b6": {
             "layer": 40,
@@ -290,8 +292,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -3450000,
-                        -2400000
+                        -3650000,
+                        -2950000
                     ],
                     "type": "line"
                 },
@@ -302,8 +304,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -3450000,
-                        2400000
+                        -3650000,
+                        2950000
                     ],
                     "type": "line"
                 },
@@ -314,8 +316,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        3450000,
-                        2400000
+                        3650000,
+                        2950000
                     ],
                     "type": "line"
                 },
@@ -326,8 +328,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        3450000,
-                        -2400000
+                        3650000,
+                        -2950000
                     ],
                     "type": "line"
                 }
