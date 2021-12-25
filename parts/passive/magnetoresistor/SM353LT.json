@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "SM353LT"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/187/honeywell-sensing-nanopower-series-datasheet-50095-1846325.pdf"
+    ],
+    "description": [
+        false,
+        "Magnetoresistor"
+    ],
+    "entity": "d7dd126b-e1aa-4989-bcc7-d242e236a0e6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Honeywell"
+    ],
+    "model": "1f33cff7-8b9c-4457-93ab-d359dc344a60",
+    "orderable_MPNs": {
+        "653a88d7-5dfe-415a-8522-2cd72595349a": "SM353LT"
+    },
+    "package": "96deb89c-88cf-45cb-94b2-978189727afb",
+    "pad_map": {
+        "3a6d89f5-639b-43b1-9267-281ff993cd30": {
+            "gate": "4632457b-f357-4962-b79e-e9336a5404c6",
+            "pin": "9c3f389b-e0cd-4ecc-8eb5-9366ebae89bf"
+        },
+        "5529f02c-a2c9-48f1-9aaf-baa7b1b84b30": {
+            "gate": "4632457b-f357-4962-b79e-e9336a5404c6",
+            "pin": "a03b82f0-6bfa-4b05-addb-802356fbf82f"
+        },
+        "ea1f8bcc-4437-4bd3-aa2b-febbe1575ba2": {
+            "gate": "4632457b-f357-4962-b79e-e9336a5404c6",
+            "pin": "d9dd4a29-6fb1-48f1-95bf-84f8a47495c9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "magnetoresistor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "db0b3778-2447-4da6-9811-d672727b793d",
+    "value": [
+        false,
+        "SM353"
+    ]
+}

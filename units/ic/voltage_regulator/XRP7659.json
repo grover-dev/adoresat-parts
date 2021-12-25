@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Max Linear",
+    "name": "XRP7659",
+    "pins": {
+        "621111e0-630d-411f-8bb2-7e9083934ffe": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "86c921cc-a0aa-4c3a-bcc1-ffb61510c4b3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8e43cee0-e155-4b08-810b-2977b7aa9192": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "9297881a-8d20-44ab-9b68-037d26a769d4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "a745f74e-a220-4612-a4a3-86b60c63b776": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "BS",
+            "swap_group": 0
+        },
+        "c5f01fb2-cc07-4a06-8ef5-369bf82e64d8": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "11648cf6-8500-4142-99da-764623daef77"
+}

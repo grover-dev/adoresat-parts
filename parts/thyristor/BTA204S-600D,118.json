@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "BTA204S-600D,118"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/848/bta204s-600d-1520066.pdf"
+    ],
+    "description": [
+        false,
+        "Triac"
+    ],
+    "entity": "eb34c16e-b962-414b-897c-564b93ec7f71",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "WeEn"
+    ],
+    "model": "ee4bc4dc-6238-4ba6-8454-31b71c2bed12",
+    "orderable_MPNs": {
+        "60f44318-ddbe-48bd-850f-0d36a0ab778a": "BTA204S-600D,118"
+    },
+    "package": "04fe4f09-c095-4b6b-94e0-a346cde0cbac",
+    "pad_map": {
+        "da06bff3-46b1-421b-a983-22d2f5512a1e": {
+            "gate": "3a19fd84-cdaf-4d67-9264-eb72a143c318",
+            "pin": "2b01604b-1c54-43f4-9f54-acf4aacb3ad0"
+        },
+        "f55160ae-1430-42e2-9a95-762ea58e142f": {
+            "gate": "3a19fd84-cdaf-4d67-9264-eb72a143c318",
+            "pin": "cccc1989-b418-475f-9fa7-6cd054495772"
+        },
+        "fdda9345-d3ad-461d-8157-ff99fada5157": {
+            "gate": "3a19fd84-cdaf-4d67-9264-eb72a143c318",
+            "pin": "2f2cb69a-76db-4fb8-a106-8b8ff2ab4bf0"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "c1fc163e-37c1-4eef-8a2a-6aaab38521d8",
+    "value": [
+        false,
+        "BTA204S-600D"
+    ]
+}

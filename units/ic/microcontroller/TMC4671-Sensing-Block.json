@@ -1,0 +1,176 @@
+{
+    "manufacturer": "Trinamic",
+    "name": "TMC4671 - Sensing Block",
+    "pins": {
+        "1391cc58-d25f-45a2-867b-1cffd12170e7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC_I0_POS",
+            "swap_group": 0
+        },
+        "13f55688-cdb7-465a-ba0e-75738f6dff08": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HALL_WY",
+            "swap_group": 0
+        },
+        "31c1d99a-8ebb-45fe-8044-817d0ea0f4df": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "PWM_IDLE_H",
+            "swap_group": 0
+        },
+        "3a964da4-3efb-4de0-8dee-69e6a0d5d24b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF_H",
+            "swap_group": 0
+        },
+        "3f36861c-ac30-40d1-b179-7d37904aa512": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENC2_N",
+            "swap_group": 0
+        },
+        "4716cfce-6db7-42a4-aa9d-03e2394ca8dc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PWM_I",
+            "swap_group": 0
+        },
+        "70d1f70b-9345-4bce-8771-210f5c3d268e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AENC_VN_POS",
+            "swap_group": 0
+        },
+        "7863c1ad-2064-4fe7-bb90-8d894e5b6a26": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC_I1_NEG",
+            "swap_group": 0
+        },
+        "7a9901b1-d338-42d8-881a-630252692b24": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AENC_WY_POS",
+            "swap_group": 0
+        },
+        "7fd52acb-51b0-4d96-8f49-f7467b42dd8b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENC_N",
+            "swap_group": 0
+        },
+        "81157122-0164-4ad3-b0df-7fc4b372c047": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENC2_B",
+            "swap_group": 0
+        },
+        "81219eb9-c488-470f-84f1-a35527944062": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AENC_VN_NEG",
+            "swap_group": 0
+        },
+        "94dc9cf0-a8ea-4b67-b950-a9cb92cdb6ed": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AENC_UX_POS",
+            "swap_group": 0
+        },
+        "98836556-529b-458f-8791-bc95de9ff964": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AGPI_A",
+            "swap_group": 0
+        },
+        "99f1069b-307c-4422-9f7d-25817b24f3df": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENC2_A",
+            "swap_group": 0
+        },
+        "9a7f7cf6-9f7e-4234-9170-95c00f6ffe0c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC_I0_NEG",
+            "swap_group": 0
+        },
+        "9bf91aa5-285c-4ef2-88c5-0636bb7e0105": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HALL_V",
+            "swap_group": 0
+        },
+        "a21cdd38-917f-425f-85c2-b8c8a1d888b0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC_I1_POS",
+            "swap_group": 0
+        },
+        "b7019249-9d01-4217-bec7-97246120309e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AENC_WY_NEG",
+            "swap_group": 0
+        },
+        "b7eff797-6d6e-40d9-8874-62b7679cda83": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF_L",
+            "swap_group": 0
+        },
+        "ba198d8f-a89d-4d61-a996-6cb29d951a81": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADC_VM",
+            "swap_group": 0
+        },
+        "ba5ca4ae-489a-4c3e-9bc2-36a54dbc4c5d": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "PWM_IDLE_L",
+            "swap_group": 0
+        },
+        "c2dad922-8ba5-48c1-a339-162eff606c86": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AGPI_B",
+            "swap_group": 0
+        },
+        "cb76ac8a-4ef9-459d-baf7-b500172d3c80": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF_R",
+            "swap_group": 0
+        },
+        "db2431c8-d418-4e6a-af25-3a2b3892c36a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENC_B",
+            "swap_group": 0
+        },
+        "de36aa2f-c9ce-45ef-9a80-cee42f925899": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ENC_A",
+            "swap_group": 0
+        },
+        "fac69c26-65b5-4c1d-893e-12cfe4c4c154": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AENC_UX_NEG",
+            "swap_group": 0
+        },
+        "fce7e825-1efb-43d1-9880-ae186942b81a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "HALL_UX",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a8e67832-11e9-4b9b-bafd-1ff9693a361b"
+}

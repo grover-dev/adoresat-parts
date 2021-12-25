@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "3edc3d63-2285-40dd-9ce6-f6e85ca966aa": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "11648cf6-8500-4142-99da-764623daef77"
+        }
+    },
+    "manufacturer": "Max Linear",
+    "name": "XRP7659",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage-regulator"
+    ],
+    "type": "entity",
+    "uuid": "7793e72c-241e-4564-a425-73af2ee0dacb"
+}

@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "TL431QDBVR"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431"
+    ],
+    "description": [
+        false,
+        "Voltage References Adjustable Precision Shunt Regulator"
+    ],
+    "entity": "01b8f575-c98b-4656-a0f7-784c5c8a318d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
+    "orderable_MPNs": {
+        "b4f9f8d5-d2ee-4eef-818a-5511b386e355": "TL431QDBVR"
+    },
+    "package": "ab6e7991-6c9a-4f14-bc66-417c204102fb",
+    "pad_map": {
+        "179a087b-d304-4651-bd68-1f15c3ebe954": {
+            "gate": "2020fc65-23c9-406b-898e-8b9d3e2540a0",
+            "pin": "55b5686c-5d31-40f0-9126-0e54f465a889"
+        },
+        "87131a04-8d87-4cfe-9178-f63fb5899e0b": {
+            "gate": "2020fc65-23c9-406b-898e-8b9d3e2540a0",
+            "pin": "55b5686c-5d31-40f0-9126-0e54f465a889"
+        },
+        "b082c171-3282-4658-8898-f044e6b9ec35": {
+            "gate": "2020fc65-23c9-406b-898e-8b9d3e2540a0",
+            "pin": "b0942d5d-fdd0-438f-af1c-bd85a717b9f1"
+        },
+        "cc906a02-fc3b-4758-bca6-306a7e1d336e": {
+            "gate": "2020fc65-23c9-406b-898e-8b9d3e2540a0",
+            "pin": "aa97dea2-d865-4cfa-8f74-467b9650a88f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "passive",
+        "voltage-reference"
+    ],
+    "type": "part",
+    "uuid": "6870333e-552c-4df7-b5c9-ee8d0d960301",
+    "value": [
+        false,
+        "TL431"
+    ]
+}

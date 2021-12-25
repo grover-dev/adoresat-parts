@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "CL21B475KOFNFNE"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung Electro-Mechanics"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "1dc424d0-dce2-419b-bf02-740171313baa": "CL21B475KOFNFNE"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "4.7e-06",
+        "wvdc": "16"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "be4a54e6-9ffa-4d04-980d-7682227e557c",
+    "value": [
+        false,
+        "4.7 uF - 16 V - X7R - 10%"
+    ]
+}

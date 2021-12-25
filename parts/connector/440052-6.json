@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "440052-6"
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F440052%7FC8%7Fpdf%7FEnglish%7FENG_CD_440052_C8.pdf%7F440052-4"
+    ],
+    "description": [
+        false,
+        "6 Pin Vertical PCB Mount Header"
+    ],
+    "entity": "849d563a-a4ef-46e1-a175-1d9341c4b9d0",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "3adf2626-2281-49e3-b334-0a5327040f10",
+    "orderable_MPNs": {
+        "427b7bd2-08bc-452e-a318-1108e1a1832b": "440052-6"
+    },
+    "package": "e97a5248-3d26-4cdc-9752-603dbc7348a1",
+    "pad_map": {
+        "00f7f56b-3e73-4f63-a67c-d0257d263bf5": {
+            "gate": "a9869f57-dee5-498d-a230-86f8e587b2e9",
+            "pin": "40fe3255-a0c7-4358-a570-3f2d9dce4c27"
+        },
+        "0f71b9bf-296c-43b4-ab46-c2d2d54ea0c5": {
+            "gate": "a9869f57-dee5-498d-a230-86f8e587b2e9",
+            "pin": "59b141d9-7029-42b3-879b-55568d11c64e"
+        },
+        "419ddbf0-1cf2-4367-9590-c093ca10544c": {
+            "gate": "a9869f57-dee5-498d-a230-86f8e587b2e9",
+            "pin": "5e9eff2c-2535-4200-af6e-502cc29db9a7"
+        },
+        "9bf2924a-309c-4542-9e06-8b591675edb5": {
+            "gate": "a9869f57-dee5-498d-a230-86f8e587b2e9",
+            "pin": "cd8e5d20-b696-4ea6-ad81-6bf7e6cbaf3b"
+        },
+        "be065280-3c52-4619-9d50-4cc59918cc87": {
+            "gate": "a9869f57-dee5-498d-a230-86f8e587b2e9",
+            "pin": "9032bfd3-6dc8-4f4e-a04f-9fe3e19001a6"
+        },
+        "e26a46bf-639e-4633-8ab9-44f0d7a6142b": {
+            "gate": "a9869f57-dee5-498d-a230-86f8e587b2e9",
+            "pin": "459cb2ad-9298-4c2c-8237-0ef2c349a96f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "3d195cc6-e092-43ff-811b-b5884310c0e6",
+    "value": [
+        false,
+        "440052-6"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "440052-4"
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F440052%7FC8%7Fpdf%7FEnglish%7FENG_CD_440052_C8.pdf%7F440052-4"
+    ],
+    "description": [
+        false,
+        "4 Pin Vertical PCB Mount Header"
+    ],
+    "entity": "325572db-7136-4171-b1c8-4729fd2dc469",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "a1aae330-2b83-4480-b04d-559396faec19",
+    "orderable_MPNs": {
+        "15006471-8e70-451d-ba6f-46f18fe0522b": "440052-4"
+    },
+    "package": "956f47c2-0666-42c6-aa83-8ef4b3437ca5",
+    "pad_map": {
+        "93747c9d-ee74-4e03-ad4a-3eaefd12a686": {
+            "gate": "1c83086f-53c7-4725-b381-439dfe2bb62c",
+            "pin": "f2dbe54e-681d-4dcb-9292-8d17bbea6fe4"
+        },
+        "b5f708cf-241b-4159-a05d-477903a78d36": {
+            "gate": "1c83086f-53c7-4725-b381-439dfe2bb62c",
+            "pin": "f7310cb7-d516-4a47-9dfd-aa412bfccca0"
+        },
+        "e1f46b53-f30b-4b88-9889-d9d8a99688bf": {
+            "gate": "1c83086f-53c7-4725-b381-439dfe2bb62c",
+            "pin": "a6cca623-16e7-4e8f-a419-633c1e45102b"
+        },
+        "eb6563a6-1920-4ba0-91dd-3683ec5a4c05": {
+            "gate": "1c83086f-53c7-4725-b381-439dfe2bb62c",
+            "pin": "6fcecd52-12a0-4baf-82b5-02777a811224"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "152737f2-a4cf-4dec-a21f-d5b329d7902b",
+    "value": [
+        false,
+        "440052-4"
+    ]
+}

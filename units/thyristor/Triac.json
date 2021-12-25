@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Triac",
+    "pins": {
+        "2b01604b-1c54-43f4-9f54-acf4aacb3ad0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "T1",
+            "swap_group": 0
+        },
+        "2f2cb69a-76db-4fb8-a106-8b8ff2ab4bf0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "T2",
+            "swap_group": 0
+        },
+        "cccc1989-b418-475f-9fa7-6cd054495772": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "G",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "479c0fef-36a6-4ed9-97ae-530214502324"
+}

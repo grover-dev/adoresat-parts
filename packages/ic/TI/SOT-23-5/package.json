@@ -2,70 +2,108 @@
     "arcs": {},
     "default_model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
     "dimensions": {},
-    "junctions": {
-        "150a98f3-0de1-4d26-8987-68f265733cbc": {
-            "position": [
-                -1500000,
-                1550000
-            ]
-        },
-        "295c38fd-e575-48bf-bb39-5d958bb53a3a": {
-            "position": [
-                1500000,
-                1550000
-            ]
-        },
-        "2c422d6f-49ff-4469-9fbd-aacd5668d49b": {
-            "position": [
-                1500000,
-                -1550000
-            ]
-        },
-        "5bf195dc-502d-4de9-a999-52d1275bc0ed": {
-            "position": [
-                -2000000,
-                -1550000
-            ]
-        },
-        "8935e621-b5d4-401f-bd13-9b450c198063": {
-            "position": [
-                -2300000,
-                1550000
-
-            ]
-        },
-        "c3b7e10b-4ad2-4f1e-a91b-3f58586a64fd": {
-            "position": [
-                -2300000,
-
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
                 1000000
+            ],
+            "spacing_square": 10000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "17377aad-3ade-4208-9a10-a6de03c94e9e": {
+            "position": [
+                -142384,
+                -1825000
+            ]
+        },
+        "3fb9ac66-90bd-486a-a4ad-c7fc1653e96e": {
+            "position": [
+                -142384,
+                1825000
+            ]
+        },
+        "4c0fb2a1-44e3-472a-940c-f73520fcc602": {
+            "position": [
+                142384,
+                1825000
+            ]
+        },
+        "7a742f64-7e27-4e32-b342-1b78166741b5": {
+            "position": [
+                142384,
+                -1825000
+            ]
+        },
+        "9d02cb5b-acb3-4e43-9dd5-2f6e088e82d7": {
+            "position": [
+                1300000,
+                -1825000
+            ]
+        },
+        "9df1f078-9b04-475a-934e-6d3987be6d4a": {
+            "position": [
+                -1300000,
+                -1825000
+            ]
+        },
+        "f2c61b87-1953-4708-ac7b-fe43b83094c2": {
+            "position": [
+                1300000,
+                1825000
+            ]
+        },
+        "f8bf6943-535a-4486-a05f-474ddeefea31": {
+            "position": [
+                -2300000,
+                1825000
             ]
         }
     },
     "keepouts": {},
     "lines": {
-        "0e94a39f-7c1e-4ff0-8f84-f67f7771feb2": {
-            "from": "150a98f3-0de1-4d26-8987-68f265733cbc",
+        "36e25fbb-0d3b-4513-b1ef-f6ca859eaf11": {
+            "from": "7a742f64-7e27-4e32-b342-1b78166741b5",
             "layer": 20,
-            "to": "8935e621-b5d4-401f-bd13-9b450c198063",
+            "to": "9d02cb5b-acb3-4e43-9dd5-2f6e088e82d7",
             "width": 150000
         },
-        "7401a46f-36b0-43ed-a7d2-84c8e7546708": {
-            "from": "295c38fd-e575-48bf-bb39-5d958bb53a3a",
+        "420baf63-4a9d-4ad2-b23b-104025cf286d": {
+            "from": "4c0fb2a1-44e3-472a-940c-f73520fcc602",
             "layer": 20,
-            "to": "150a98f3-0de1-4d26-8987-68f265733cbc",
+            "to": "3fb9ac66-90bd-486a-a4ad-c7fc1653e96e",
             "width": 150000
         },
-        "b38c4883-b231-4e69-8aca-087a960c35bc": {
-            "from": "2c422d6f-49ff-4469-9fbd-aacd5668d49b",
+        "564a7525-7137-477b-9888-863fa102e7ac": {
+            "from": "17377aad-3ade-4208-9a10-a6de03c94e9e",
             "layer": 20,
-            "to": "5bf195dc-502d-4de9-a999-52d1275bc0ed",
+            "to": "9df1f078-9b04-475a-934e-6d3987be6d4a",
             "width": 150000
         },
-        "f0cc148b-48bf-4898-b585-571761d88465": {
-            "from": "8935e621-b5d4-401f-bd13-9b450c198063",
+        "6ddaf86b-45dd-4b2f-86c7-2cf614159bfc": {
+            "from": "3fb9ac66-90bd-486a-a4ad-c7fc1653e96e",
             "layer": 20,
-            "to": "c3b7e10b-4ad2-4f1e-a91b-3f58586a64fd",
+            "to": "f8bf6943-535a-4486-a05f-474ddeefea31",
+            "width": 150000
+        },
+        "8de30b0d-818b-47de-9317-dd7114e0edb4": {
+            "from": "4c0fb2a1-44e3-472a-940c-f73520fcc602",
+            "layer": 20,
+            "to": "f2c61b87-1953-4708-ac7b-fe43b83094c2",
+            "width": 150000
+        },
+        "f1b61456-20d9-42da-b053-c733bad88410": {
+            "from": "17377aad-3ade-4208-9a10-a6de03c94e9e",
+            "layer": 20,
+            "to": "7a742f64-7e27-4e32-b342-1b78166741b5",
             "width": 150000
         }
     },
@@ -185,8 +223,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1955000,
-                        -1450000
+                        -2400000,
+                        -1950000
                     ],
                     "type": "line"
                 },
@@ -197,8 +235,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1955000,
-                        1450000
+                        -2400000,
+                        1950000
                     ],
                     "type": "line"
                 },
@@ -209,8 +247,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1955000,
-                        1450000
+                        2400000,
+                        1950000
                     ],
                     "type": "line"
                 },
@@ -221,8 +259,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1955000,
-                        -1450000
+                        2400000,
+                        -1950000
                     ],
                     "type": "line"
                 }
@@ -307,7 +345,7 @@
                 "mirror": false,
                 "shift": [
                     -2400000,
-                    2550000
+                    2750000
                 ]
             },
             "size": 1000000,
@@ -323,8 +361,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    500000,
-                    0
+                    800000,
+                    2300000
                 ]
             },
             "size": 500000,

@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM155R72A102KA01J"
+    ],
+    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/1/GRM155R72A102KA01_01A-1984438.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "93398505-5ffd-4278-967f-e159f2726835": "GRM155R72A102KA01J"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-09",
+        "wvdc": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "aeb43f09-9555-4ef6-ab84-e18d34d3795e",
+    "value": [
+        false,
+        "1 nF - 100 V - X7R - 10%"
+    ]
+}
