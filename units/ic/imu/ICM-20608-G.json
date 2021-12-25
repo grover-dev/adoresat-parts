@@ -78,7 +78,9 @@
         },
         "cc30fbb3-9d43-492c-8565-1c4cafc2d7e4": {
             "direction": "input",
-            "names": [],
+            "names": [
+                "MODE"
+            ],
             "primary_name": "CS",
             "swap_group": 0
         },
@@ -89,7 +91,7 @@
             "swap_group": 0
         },
         "dc9b20fc-da02-4188-9f33-e19667043db8": {
-            "direction": "output",
+            "direction": "passive",
             "names": [],
             "primary_name": "REGOUT",
             "swap_group": 0
