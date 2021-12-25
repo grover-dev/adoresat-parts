@@ -4,66 +4,50 @@
     "pins": {
         "116b4700-0b16-441f-b166-c42815b4dbef": {
             "direction": "input",
-            "names": [
-                "+IN"
-            ],
-            "primary_name": "4",
+            "names": [],
+            "primary_name": "+IN",
             "swap_group": 0
         },
         "4dbd3f8d-9a33-4348-9f3e-9c7375f1bea8": {
             "direction": "input",
-            "names": [
-                "RG"
-            ],
-            "primary_name": "2",
+            "names": [],
+            "primary_name": "RG1",
             "swap_group": 0
         },
         "5897bfb3-6cf2-4997-9b84-9a41af93c202": {
             "direction": "input",
-            "names": [
-                "RG"
-            ],
-            "primary_name": "3",
+            "names": [],
+            "primary_name": "RG2",
             "swap_group": 0
         },
         "949bec55-add4-429f-ac42-6828c53def31": {
             "direction": "output",
-            "names": [
-                "OUT"
-            ],
-            "primary_name": "7",
+            "names": [],
+            "primary_name": "OUT",
             "swap_group": 0
         },
         "9a4b4ea9-e36c-4c22-a13f-9dae476d7db2": {
             "direction": "passive",
-            "names": [
-                "REF"
-            ],
-            "primary_name": "6",
+            "names": [],
+            "primary_name": "REF",
             "swap_group": 0
         },
         "aed0247b-0c32-4a1b-80a5-a46d1f5dfd90": {
             "direction": "power_input",
-            "names": [
-                "+VS"
-            ],
-            "primary_name": "8",
+            "names": [],
+            "primary_name": "+VS",
             "swap_group": 0
         },
         "b2a4bebb-504c-4de3-b915-f02283768b73": {
             "direction": "power_input",
-            "names": [
-                "-VS"
-            ],
-            "primary_name": "5",
+            "names": [],
+            "primary_name": "-VS",
             "swap_group": 0
         },
         "ddf7852c-8bce-4c6a-abd7-556fe8f203bf": {
             "direction": "input",
-            "names": [
-                "-IN"
-            ],
-            "primary_name": "1",
+            "names": [],
+            "primary_name": "-IN",
             "swap_group": 0
         }
     },

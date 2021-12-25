@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "CR0402-FX-1001GLF"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/54/crxxxxx-1858361.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "02c08aa5-44bf-4e48-842f-36832dd0d7ac": "CR0402-FX-1001GLF"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "1000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "aa8ad59e-81d4-45bf-8362-981152a8d982",
+    "value": [
+        false,
+        "1 kOhm - 1% - 0.0625 W"
+    ]
+}

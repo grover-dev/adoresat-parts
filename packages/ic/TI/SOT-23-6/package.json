@@ -2,41 +2,51 @@
     "arcs": {},
     "default_model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
     "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 100000
+        },
+        "grids": {}
+    },
     "junctions": {
         "150a98f3-0de1-4d26-8987-68f265733cbc": {
             "position": [
                 -1500000,
-                1650000
+                1850000
             ]
         },
         "295c38fd-e575-48bf-bb39-5d958bb53a3a": {
             "position": [
-                1500000,
-                1650000
+                1300000,
+                1850000
             ]
         },
         "2c422d6f-49ff-4469-9fbd-aacd5668d49b": {
             "position": [
-                1500000,
-                -1660000
+                1300000,
+                -1860000
             ]
         },
         "5bf195dc-502d-4de9-a999-52d1275bc0ed": {
             "position": [
-                -2000000,
-                -1660000
+                -1300000,
+                -1860000
             ]
         },
         "8935e621-b5d4-401f-bd13-9b450c198063": {
             "position": [
                 -2310000,
-                1650000
-            ]
-        },
-        "c3b7e10b-4ad2-4f1e-a91b-3f58586a64fd": {
-            "position": [
-                -2310000,
-                1000000
+                1850000
             ]
         }
     },
@@ -59,12 +69,6 @@
             "layer": 20,
             "to": "5bf195dc-502d-4de9-a999-52d1275bc0ed",
             "width": 150000
-        },
-        "f0cc148b-48bf-4898-b585-571761d88465": {
-            "from": "8935e621-b5d4-401f-bd13-9b450c198063",
-            "layer": 20,
-            "to": "c3b7e10b-4ad2-4f1e-a91b-3f58586a64fd",
-            "width": 150000
         }
     },
     "manufacturer": "TI",
@@ -79,7 +83,7 @@
             "z": 20000
         }
     },
-    "name": "SOT-23-6 (DBV0006A)",
+    "name": "SOT-23-6",
     "pads": {
         "179a087b-d304-4651-bd68-1f15c3ebe954": {
             "name": "2",
@@ -198,8 +202,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1955000,
-                        -1450000
+                        -2455000,
+                        -1950000
                     ],
                     "type": "line"
                 },
@@ -210,8 +214,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -1955000,
-                        1450000
+                        -2455000,
+                        1950000
                     ],
                     "type": "line"
                 },
@@ -222,8 +226,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1955000,
-                        1450000
+                        2455000,
+                        1950000
                     ],
                     "type": "line"
                 },
@@ -234,8 +238,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        1955000,
-                        -1450000
+                        2455000,
+                        -1950000
                     ],
                     "type": "line"
                 }
@@ -320,7 +324,7 @@
                 "mirror": false,
                 "shift": [
                     -2390000,
-                    2520000
+                    2720000
                 ]
             },
             "size": 1000000,

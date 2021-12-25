@@ -47,6 +47,12 @@
                 -3125000
             ]
         },
+        "40675844-8829-4d36-ac33-7d8e7e6519fb": {
+            "position": [
+                0,
+                5000000
+            ]
+        },
         "46d4cda9-0e0e-4a30-83cf-470a88830827": {
             "position": [
                 -625000,
@@ -107,6 +113,18 @@
                 -2500000
             ]
         },
+        "6a03bd98-799f-4318-b94f-e08cfe763ea3": {
+            "position": [
+                0,
+                -5000000
+            ]
+        },
+        "6a3825bf-8bd7-45ec-b7ba-3fc2a7ccbaa3": {
+            "position": [
+                -5000000,
+                0
+            ]
+        },
         "6ae2e1f4-78de-4218-b04c-a021d94b0598": {
             "position": [
                 -625000,
@@ -137,18 +155,6 @@
                 -3625000
             ]
         },
-        "84c4b34a-5402-4c13-bc25-848f7415cac4": {
-            "position": [
-                1000000,
-                5625000
-            ]
-        },
-        "8504f729-7bb0-48b1-a82c-e9894467eff7": {
-            "position": [
-                1000000,
-                -5625000
-            ]
-        },
         "8ac8d64f-0b17-4d07-a4c1-24c9ad2def4d": {
             "position": [
                 -2750000,
@@ -161,10 +167,10 @@
                 -1875000
             ]
         },
-        "9a8b6f5d-bf05-4ebc-802f-4a6f2cf06a04": {
+        "96980e3f-107b-497c-920e-59af47e04aa7": {
             "position": [
-                1000000,
-                0
+                0,
+                2500000
             ]
         },
         "9e946de1-b522-4f41-9ef2-1aed27edfd2e": {
@@ -215,12 +221,6 @@
                 250000
             ]
         },
-        "d489c3d4-cc78-4045-9480-74e8029ccb21": {
-            "position": [
-                1000000,
-                -6875000
-            ]
-        },
         "d628bdea-0648-499c-aa9c-ba00c9a28b1c": {
             "position": [
                 2875000,
@@ -237,12 +237,6 @@
             "position": [
                 -625000,
                 -625000
-            ]
-        },
-        "dd26fea1-9d46-44e4-afa5-86f3bb165bde": {
-            "position": [
-                -6500000,
-                0
             ]
         },
         "f56ed3b9-a5ee-4fb6-8eaf-ba0b5ce7e9f1": {
@@ -271,16 +265,16 @@
             "to": "3170dd1f-0521-43a2-ba73-d98957a8f074",
             "width": 0
         },
-        "28e616ce-7a20-4604-b714-9fbd1b68c06e": {
-            "from": "8504f729-7bb0-48b1-a82c-e9894467eff7",
-            "layer": 0,
-            "to": "d489c3d4-cc78-4045-9480-74e8029ccb21",
-            "width": 0
-        },
         "2dcd19c6-6b45-4ff5-9028-c32b77c2b40a": {
             "from": "8ac8d64f-0b17-4d07-a4c1-24c9ad2def4d",
             "layer": 0,
             "to": "bb4fc696-10e5-43aa-a79d-3789676d3907",
+            "width": 0
+        },
+        "2ff85c52-f6b1-4115-aa99-5ddf14bda1bc": {
+            "from": "6a3825bf-8bd7-45ec-b7ba-3fc2a7ccbaa3",
+            "layer": 0,
+            "to": "1c58f06a-c873-4111-b7bf-9af770bb0843",
             "width": 0
         },
         "5ac44bba-b755-4a9e-b199-f48459e4d534": {
@@ -293,12 +287,6 @@
             "from": "6735c71a-0f24-4b4c-a3ad-cab189713a86",
             "layer": 0,
             "to": "9e946de1-b522-4f41-9ef2-1aed27edfd2e",
-            "width": 0
-        },
-        "6e289607-5783-441b-a59c-4d95d263757f": {
-            "from": "783e3c02-2335-4ee6-96f1-1daa46974bab",
-            "layer": 0,
-            "to": "84c4b34a-5402-4c13-bc25-848f7415cac4",
             "width": 0
         },
         "71cad044-a974-43df-a85a-b6d583e225d8": {
@@ -325,10 +313,10 @@
             "to": "dd0b3236-8d8c-4caa-9712-edeb9fa35b36",
             "width": 0
         },
-        "b5b500a6-49a1-4f74-aa5d-c7c3fdd4209a": {
-            "from": "9a8b6f5d-bf05-4ebc-802f-4a6f2cf06a04",
+        "b19316a5-ef68-465b-8c03-eb193c038d40": {
+            "from": "46d4cda9-0e0e-4a30-83cf-470a88830827",
             "layer": 0,
-            "to": "8504f729-7bb0-48b1-a82c-e9894467eff7",
+            "to": "a6c63eb3-8dbd-4bbf-b09f-86e870cd2659",
             "width": 0
         },
         "bbf5ac6e-1dcf-4065-b3e8-bd831430e240": {
@@ -349,6 +337,12 @@
             "to": "6ae2e1f4-78de-4218-b04c-a021d94b0598",
             "width": 0
         },
+        "c75b3730-db75-4e15-8b0a-b911fd8fba30": {
+            "from": "a6c63eb3-8dbd-4bbf-b09f-86e870cd2659",
+            "layer": 0,
+            "to": "6a03bd98-799f-4318-b94f-e08cfe763ea3",
+            "width": 0
+        },
         "c9b51bd7-34a2-4aeb-80c2-2cfe97d310de": {
             "from": "6ae2e1f4-78de-4218-b04c-a021d94b0598",
             "layer": 0,
@@ -367,16 +361,10 @@
             "to": "513013a1-710d-4e48-8532-0709e4ff550d",
             "width": 0
         },
-        "dec34846-fdfa-4e1d-a59d-8b2c933bdada": {
-            "from": "46d4cda9-0e0e-4a30-83cf-470a88830827",
+        "d3f235b9-ed74-4836-a9e3-9d208b978c5d": {
+            "from": "40675844-8829-4d36-ac33-7d8e7e6519fb",
             "layer": 0,
-            "to": "9a8b6f5d-bf05-4ebc-802f-4a6f2cf06a04",
-            "width": 0
-        },
-        "e25efa49-72a2-4e24-a23b-498f80ee40c4": {
-            "from": "1c58f06a-c873-4111-b7bf-9af770bb0843",
-            "layer": 0,
-            "to": "dd26fea1-9d46-44e4-afa5-86f3bb165bde",
+            "to": "96980e3f-107b-497c-920e-59af47e04aa7",
             "width": 0
         },
         "fceead3d-2d16-41fb-85c8-d52c834f4349": {
@@ -392,7 +380,7 @@
             "width": 0
         }
     },
-    "name": "IAUC120N06",
+    "name": "N Channel Mosfet",
     "pins": {
         "52b2b4f0-161b-496a-9f7f-d9cacdcafee7": {
             "decoration": {
@@ -403,12 +391,12 @@
             },
             "length": 2500000,
             "name_orientation": "in_line",
-            "name_visible": true,
+            "name_visible": false,
             "orientation": "down",
             "pad_visible": true,
             "position": [
-                1000000,
-                -9375000
+                0,
+                -7500000
             ]
         },
         "856f6297-0095-42fe-a81b-fe75a1f47b95": {
@@ -420,12 +408,12 @@
             },
             "length": 2500000,
             "name_orientation": "in_line",
-            "name_visible": true,
+            "name_visible": false,
             "orientation": "up",
             "pad_visible": true,
             "position": [
-                1000000,
-                8125000
+                0,
+                7500000
             ]
         },
         "b99ec37c-ef73-400f-ad55-530bbb9c4c1d": {
@@ -437,11 +425,11 @@
             },
             "length": 2500000,
             "name_orientation": "in_line",
-            "name_visible": true,
+            "name_visible": false,
             "orientation": "left",
             "pad_visible": true,
             "position": [
-                -9000000,
+                -7500000,
                 0
             ]
         }

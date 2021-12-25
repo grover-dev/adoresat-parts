@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "AC0402FR-075K49L"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/447/PYu_AC_51_RoHS_L_7-1714230.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "e48241a7-2591-4349-b24a-cb926fb87b89": "AC0402FR-075K49L"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "5490"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "829c2761-f38c-41c1-9340-f77e4b2a4f60",
+    "value": [
+        false,
+        "5.49 kOhm - 1% - 0.0625 W"
+    ]
+}
