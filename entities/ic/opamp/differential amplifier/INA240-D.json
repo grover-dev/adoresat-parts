@@ -1,17 +1,28 @@
 {
     "gates": {
-        "2dec417b-7da1-4566-b5ae-25711d84dab1": {
-            "name": "Main",
-            "suffix": "",
+        "86446e69-e98a-48a0-95d1-fb418c947ae6": {
+            "name": "main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "9eff16ef-b0ed-4d0a-9ee5-e7100fc8575a": {
+            "name": "pow",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "eeb0e3d0-c485-48dd-9c5d-5c7dd9bf104e": {
+            "name": "ref",
+            "suffix": "B",
             "swap_group": 0,
             "unit": "0552c332-f2db-47db-999b-ce4583c13d93"
         }
     },
-    "manufacturer": "TI",
-    "name": "INA240-D",
+    "manufacturer": "",
+    "name": "Op Amp with Resistor Set Gain",
     "prefix": "U",
     "tags": [
-        "differential amplifier",
         "ic",
         "opamp"
     ],
