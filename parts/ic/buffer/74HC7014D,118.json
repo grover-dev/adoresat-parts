@@ -1,0 +1,95 @@
+{
+    "MPN": [
+        false,
+        "74HC7014D,118"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/916/74HC7014-1598223.pdf"
+    ],
+    "description": [
+        false,
+        "6 Channel Non-inverting Schmitt Trigger"
+    ],
+    "entity": "f91eaea0-6363-4b23-a021-c101a2f3ca09",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "c7035432-99c5-4161-9f33-f9707fefc7da",
+    "orderable_MPNs": {
+        "ccbd2124-14c8-4557-a28a-b0c2061e0039": "74HC7014D,118"
+    },
+    "package": "9bee0067-175e-44c6-99b9-04338971d371",
+    "pad_map": {
+        "0151b762-f24c-4482-879f-f89cff02c2dc": {
+            "gate": "e8fb0314-f0d8-4552-88b1-96b4118b045a",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "0e47bd9e-bc61-4a32-bacd-b5b0d123caca": {
+            "gate": "691dc340-876d-4c62-a9ba-7138b060064e",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "1781a2ce-43c6-44a4-a888-8764da400db5": {
+            "gate": "691dc340-876d-4c62-a9ba-7138b060064e",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "324fb50e-a5f8-4b75-9aef-6eda6005e767": {
+            "gate": "e8fb0314-f0d8-4552-88b1-96b4118b045a",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "4e5ac405-2578-4c30-8745-abd3f91b9c56": {
+            "gate": "a53d8b72-03f5-487a-a6ef-8048c7af4386",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "572dd60d-409e-4fde-aa08-54cd9c00aca4": {
+            "gate": "f7abe27a-e78f-4e17-b375-c748783c6d24",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "5838b0a8-16e9-4abb-abc5-e3eb67a6383d": {
+            "gate": "87ef3810-1bfd-49e0-ab4e-617c5398e2d1",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "6c84e03f-483c-452b-abeb-2b147a4627ad": {
+            "gate": "25d65763-c283-48e5-a0c8-d028781a8a16",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "892ccfe4-e4eb-4096-a33a-2d066bad50f4": {
+            "gate": "a53d8b72-03f5-487a-a6ef-8048c7af4386",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "c68c9975-b5e3-494d-b5a0-b4e7fea4625f": {
+            "gate": "87ef3810-1bfd-49e0-ab4e-617c5398e2d1",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "cf42bf99-5228-45a3-9447-eca76002b442": {
+            "gate": "8f4f29a7-0ee7-4435-b56c-10024ef77611",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "d824f42a-5f2a-4a90-a2ce-3d4e01a7fa8c": {
+            "gate": "8f4f29a7-0ee7-4435-b56c-10024ef77611",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        },
+        "f3986b85-1b72-4c1f-be64-92b06a0a6060": {
+            "gate": "f7abe27a-e78f-4e17-b375-c748783c6d24",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "f8053198-2aec-4c82-99fa-a386b2cde354": {
+            "gate": "25d65763-c283-48e5-a0c8-d028781a8a16",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "schmitt-trigger"
+    ],
+    "type": "part",
+    "uuid": "f9539ca8-44e0-41e1-bc99-453a5c4c32ec",
+    "value": [
+        false,
+        "74HC7014D"
+    ]
+}
