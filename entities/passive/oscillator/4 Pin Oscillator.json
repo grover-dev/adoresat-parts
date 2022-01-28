@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7e2a1e42-aa16-45f8-8a4c-17597b35c407": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eaebd1b4-4092-4ddd-84d8-2c65aaabbf62"
+        }
+    },
+    "manufacturer": "",
+    "name": "4 Pin Oscillator",
+    "prefix": "Y",
+    "tags": [
+        "oscillator",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "34f9c531-0b75-4ffa-9f08-82c2fa092cb4"
+}

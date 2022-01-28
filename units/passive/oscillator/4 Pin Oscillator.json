@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "4 Pin Oscillator",
+    "pins": {
+        "39041b4c-1281-4114-8214-d72ded2039d9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "3ee41da3-1a78-4f9a-85e2-83293df2e82e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "STBY",
+            "swap_group": 0
+        },
+        "a1b85f2d-6831-4f0f-9dbc-a7575d1b48dd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Output",
+            "swap_group": 0
+        },
+        "e78474bb-29f9-4107-be97-54e2c857bc2e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eaebd1b4-4092-4ddd-84d8-2c65aaabbf62"
+}
