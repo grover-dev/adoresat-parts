@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "8 Pin - 2.54 mm Pitch"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 8 Pin Connector"
+    ],
+    "entity": "24e2293d-fbd4-4c5e-94ec-8db5d0052da1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "3adf2626-2281-49e3-b334-0a5327040f10",
+    "orderable_MPNs": {
+        "6dd9304a-c85f-40d4-8b13-e773084ef709": "8 Pin Connector"
+    },
+    "package": "4716141f-3429-457b-b4b2-549fa54d6acf",
+    "pad_map": {
+        "2d9e9dc1-b743-4600-a376-0918a8c1bd7e": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "30b2e642-e53c-4c70-9253-6960029dd951"
+        },
+        "3303b828-6e69-4e73-bfb3-60c1531a949f": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "ffba1c32-1bb1-4a60-a48f-ec51b3c81f5c"
+        },
+        "656b2ab6-1810-4b7c-9cb8-ebd0d11148ca": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "26cde3fa-415a-4ae0-8639-04d0d01d5c71"
+        },
+        "800e4a79-d9b1-4c89-bac5-7b8fcc0f5ac6": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "0005198d-1ce2-4607-8498-d5428cf6e938"
+        },
+        "8361ec04-e2a2-4ca8-8ded-d39162d363b3": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "426d3528-0c88-40fc-a8c2-b3a5e442ad39"
+        },
+        "a3115fff-37b9-49bf-aaa8-aba0fc1938b5": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "ef94112d-2373-4aa4-8bd3-6eccf12969c1"
+        },
+        "d4b28aee-d486-4bb3-ac92-428690533302": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "515111ca-30cc-472f-94b7-87da3f72a06f"
+        },
+        "e3224f81-36dc-4f91-9f8f-5812c39906dd": {
+            "gate": "e72ac492-3eac-4660-9151-bde5f2016b5d",
+            "pin": "32ef226f-5f52-420e-91cc-09c19638d60a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "part",
+    "uuid": "d73abe4b-5acd-4d1e-91d5-4a3302b80232",
+    "value": [
+        false,
+        ""
+    ]
+}
