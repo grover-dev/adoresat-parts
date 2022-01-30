@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "SN75LBC179DR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn75lbc179.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1643176893078&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "Full Duplex RS-485 Transceiver"
+    ],
+    "entity": "dfda0da9-f821-478c-ae37-bab1358c849f",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "5344bb4e-f190-4f5b-b387-3ec716177b89",
+    "orderable_MPNs": {
+        "12b167bf-3c73-46fc-b50c-3d87b4914e50": "SN75LBC179DR"
+    },
+    "package": "64036c70-3761-4380-9ec4-80941bf5af70",
+    "pad_map": {
+        "1da0b45e-493e-45b1-a44a-d5e9def9b237": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "c2fd5058-f7a3-4c19-a1d8-4e1509daaea7"
+        },
+        "3c9b44d7-7488-4b62-876e-7c970ec2d3de": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "6789df65-af3a-4832-acd7-af43d2230754"
+        },
+        "84bbd9fe-4946-4a02-a1e7-39214e239f70": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "8b722cb8-c5e4-4f25-bfb9-1a2ade9cd5cb"
+        },
+        "a7ac47a4-397f-4cd4-a215-4ddeb39fe91a": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "1c91b8e3-b604-42e4-8d55-1cb1256ab9e8"
+        },
+        "cb2a8528-f045-41d2-80ce-d5e4dd687868": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "b7ac583b-b01f-46f5-8ac7-1a77a0b6d5db"
+        },
+        "deee2750-345a-4ccb-9f40-385992991d7e": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "1ac5cd6e-5e6f-4032-91d6-ba2a9eb3d6eb"
+        },
+        "ed422e0e-e203-430c-81bf-d5a46879778e": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "22fce6f8-662f-41a7-b411-67bee8491ae3"
+        },
+        "f3eef9fd-67e0-45ca-a5e4-f564c3e035dd": {
+            "gate": "f2ef0a85-e98e-4f11-9a92-bba47262dae6",
+            "pin": "a32c73c8-1766-421f-9cc8-6a62cd962c30"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "c790f7f2-7a50-4472-aa8b-ba2cb8b541b6",
+    "value": [
+        false,
+        "SN75LBC"
+    ]
+}
