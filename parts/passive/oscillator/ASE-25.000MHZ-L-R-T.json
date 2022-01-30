@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "ASE-25.000MHZ-L-R-T"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/3/ASEseries-38758.pdf"
+    ],
+    "description": [
+        false,
+        "25 Mhz Oscillator"
+    ],
+    "entity": "34f9c531-0b75-4ffa-9f08-82c2fa092cb4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Abracon"
+    ],
+    "model": "7aaf7d8e-6cde-45e3-b25a-fd2e8a0e2a22",
+    "orderable_MPNs": {
+        "346e5942-033e-4b0d-bcc9-9b14570b32bd": "ASE-25.000MHZ-L-R-T"
+    },
+    "package": "2f5698a6-6c3d-4af4-b38d-7fc0f998a664",
+    "pad_map": {
+        "0802f46d-2950-4ee4-be37-d8175aa814ed": {
+            "gate": "7e2a1e42-aa16-45f8-8a4c-17597b35c407",
+            "pin": "a1b85f2d-6831-4f0f-9dbc-a7575d1b48dd"
+        },
+        "b2111093-34c0-4ab8-bc47-d5fa117b75e6": {
+            "gate": "7e2a1e42-aa16-45f8-8a4c-17597b35c407",
+            "pin": "3ee41da3-1a78-4f9a-85e2-83293df2e82e"
+        },
+        "d7f9b547-4c01-44ab-964f-0a3e8c54ebc6": {
+            "gate": "7e2a1e42-aa16-45f8-8a4c-17597b35c407",
+            "pin": "e78474bb-29f9-4107-be97-54e2c857bc2e"
+        },
+        "eb59ede0-a7d3-4b99-9db8-cb018ffc31e8": {
+            "gate": "7e2a1e42-aa16-45f8-8a4c-17597b35c407",
+            "pin": "39041b4c-1281-4114-8214-d72ded2039d9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "oscillator",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "190f3e2e-1cd3-42c0-ad98-1eddedc2c95f",
+    "value": [
+        false,
+        "25 Mhz - 15 pF - 25 ppm"
+    ]
+}
