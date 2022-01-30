@@ -1,0 +1,56 @@
+{
+    "gates": {
+        "25d65763-c283-48e5-a0c8-d028781a8a16": {
+            "name": "trig-C",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "691dc340-876d-4c62-a9ba-7138b060064e": {
+            "name": "trig-E",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "87ef3810-1bfd-49e0-ab4e-617c5398e2d1": {
+            "name": "trig-B",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "8f4f29a7-0ee7-4435-b56c-10024ef77611": {
+            "name": "pow",
+            "suffix": "G",
+            "swap_group": 1,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "a53d8b72-03f5-487a-a6ef-8048c7af4386": {
+            "name": "trig-D",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "e8fb0314-f0d8-4552-88b1-96b4118b045a": {
+            "name": "trig-A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "f7abe27a-e78f-4e17-b375-c748783c6d24": {
+            "name": "trig-F",
+            "suffix": "F",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        }
+    },
+    "manufacturer": "",
+    "name": "6 Channel Schmitt Trigger",
+    "prefix": "U",
+    "tags": [
+        "buffer",
+        "ic",
+        "schmitt-trigger"
+    ],
+    "type": "entity",
+    "uuid": "f91eaea0-6363-4b23-a021-c101a2f3ca09"
+}
