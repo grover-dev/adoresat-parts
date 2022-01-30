@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "8 Pin Connector",
+    "pins": {
+        "0005198d-1ce2-4607-8498-d5428cf6e938": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "26cde3fa-415a-4ae0-8639-04d0d01d5c71": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "30b2e642-e53c-4c70-9253-6960029dd951": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "32ef226f-5f52-420e-91cc-09c19638d60a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "426d3528-0c88-40fc-a8c2-b3a5e442ad39": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "515111ca-30cc-472f-94b7-87da3f72a06f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "ef94112d-2373-4aa4-8bd3-6eccf12969c1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "ffba1c32-1bb1-4a60-a48f-ec51b3c81f5c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "4565c725-da55-4279-95cf-550a3d65ce83"
+}
