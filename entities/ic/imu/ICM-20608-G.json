@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "cff0e300-b5c6-4891-83d0-8981057ef7e0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "817b9ad7-dec3-4263-b294-acf171dd3efd"
+        }
+    },
+    "manufacturer": "TDK",
+    "name": "ICM-20608-G",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "imu"
+    ],
+    "type": "entity",
+    "uuid": "9c0af07e-40a8-47dd-a68d-c740f19d4481"
+}

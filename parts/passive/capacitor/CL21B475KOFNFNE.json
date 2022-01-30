@@ -1,39 +1,39 @@
 {
     "MPN": [
         false,
-        "GRM155R70J223KA01D"
+        "CL21B475KOFNFNE"
     ],
-    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
     "datasheet": [
         false,
-        "https://www.mouser.com/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"
+        "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
     ],
     "description": [
         false,
         "Multilayer Ceramic Capacitor"
     ],
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": true,
     "manufacturer": [
         false,
-        "Murata"
+        "Samsung Electro-Mechanics"
     ],
     "model": "96c366ee-a963-41a0-9cc8-54c646979695",
     "orderable_MPNs": {
-        "4a144cba-f8bc-4386-944e-df0866e680b4": "GRM155R70J223KA01D"
+        "1dc424d0-dce2-419b-bf02-740171313baa": "CL21B475KOFNFNE"
     },
     "parametric": {
         "table": "capacitors",
         "tolerance": "10",
         "type": "X7R",
-        "value": "2.2e-08",
-        "wvdc": "6.3"
+        "value": "4.7e-06",
+        "wvdc": "16"
     },
     "tags": [],
     "type": "part",
-    "uuid": "2bdb5168-fdda-450f-94a4-c0a91494f8b5",
+    "uuid": "be4a54e6-9ffa-4d04-980d-7682227e557c",
     "value": [
         false,
-        "6.3 V - 0.022 uF - 10%"
+        "4.7 uF - 16 V - X7R - 10%"
     ]
 }

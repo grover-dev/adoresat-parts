@@ -1,0 +1,114 @@
+{
+    "manufacturer": "TDK",
+    "name": "ICM-20608-G",
+    "pins": {
+        "007465d1-b293-485b-9f93-c6eb9ff9c807": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "017ce52f-8d0d-431f-b1ec-42064ade03f0": {
+            "direction": "not_connected",
+            "names": [
+                "RESV"
+            ],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "0e783916-a4e5-4bbd-973c-ba2dafc21264": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV",
+            "swap_group": 0
+        },
+        "2f7ad842-f790-4c5f-9aca-bb7da0d643bd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV",
+            "swap_group": 0
+        },
+        "3ad583c1-f2cb-478b-b7f0-66c8a55219e5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV",
+            "swap_group": 0
+        },
+        "5cedda33-950b-41eb-8d16-24e4e60c9444": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT",
+            "swap_group": 0
+        },
+        "766dcbc3-f6d6-4296-aef6-d4bd0d3ab8fa": {
+            "direction": "bidirectional",
+            "names": [
+                "SDO"
+            ],
+            "primary_name": "AD0",
+            "swap_group": 0
+        },
+        "8799669e-7b97-4df7-b63d-e793e349410f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV",
+            "swap_group": 0
+        },
+        "8ceaf3ab-c906-4b68-95a7-0ddcc26525fc": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FSYNC",
+            "swap_group": 0
+        },
+        "92c743a1-b2b9-4661-8fe5-064a724de792": {
+            "direction": "bidirectional",
+            "names": [
+                "SDI"
+            ],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "c50bdb20-5193-4eda-8921-6a4cd81ae2a1": {
+            "direction": "bidirectional",
+            "names": [
+                "SCLK"
+            ],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "cc30fbb3-9d43-492c-8565-1c4cafc2d7e4": {
+            "direction": "input",
+            "names": [
+                "MODE"
+            ],
+            "primary_name": "CS",
+            "swap_group": 0
+        },
+        "d4142958-36da-4a45-8064-bf9eccc75623": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RESV",
+            "swap_group": 0
+        },
+        "dc9b20fc-da02-4188-9f33-e19667043db8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REGOUT",
+            "swap_group": 0
+        },
+        "ee925702-0fc6-44d1-97e3-7e569de58ad9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "fe69ca56-56b2-4fd5-bb0b-c942751b6ec7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDIO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "817b9ad7-dec3-4263-b294-acf171dd3efd"
+}

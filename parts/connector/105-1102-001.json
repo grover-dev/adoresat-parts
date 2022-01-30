@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "105-1102-001"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/643/pi-CCS-JOHN-105-1102-001-1289590.pdf"
+    ],
+    "description": [
+        false,
+        "Red Right Angle Banana Jack"
+    ],
+    "entity": "fb417f09-31ba-49a1-960c-6740a2375125",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Cinch"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "6afc6e75-0e13-41d4-b8cd-8dc9c3fbbacf": "105-1102-001"
+    },
+    "package": "8475e096-27f3-42b4-b66c-16adc3f8fe86",
+    "pad_map": {
+        "2868ea7e-4dad-409f-8afb-a6bb0d6846d2": {
+            "gate": "4e71e663-18da-493f-a48e-09ee61f3ff17",
+            "pin": "f8b2a87f-ea4a-4384-b2fc-88957ab407fd"
+        },
+        "6fc63c46-e623-4ce9-a0d1-0ec8dca777f8": {
+            "gate": "4e71e663-18da-493f-a48e-09ee61f3ff17",
+            "pin": "f8b2a87f-ea4a-4384-b2fc-88957ab407fd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "banana-jack",
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "0b7d540e-b25f-4975-beda-e3b67fcc2487",
+    "value": [
+        false,
+        "Red Right Angle Banana Jack"
+    ]
+}

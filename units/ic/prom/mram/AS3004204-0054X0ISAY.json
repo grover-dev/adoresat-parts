@@ -1,0 +1,62 @@
+{
+    "manufacturer": "Avalanche Technology",
+    "name": "AS3004204-0054X0ISAY",
+    "pins": {
+        "074bc8bf-73ac-4d43-aa12-25c222129a03": {
+            "direction": "bidirectional",
+            "names": [
+                "IO_0"
+            ],
+            "primary_name": "SI",
+            "swap_group": 0
+        },
+        "633f9888-9375-487c-ae70-c91adfda2d7e": {
+            "direction": "bidirectional",
+            "names": [
+                "IO_2"
+            ],
+            "primary_name": "~WP",
+            "swap_group": 0
+        },
+        "676ccf6e-9dbf-4d7b-8cd0-be09abfa17ff": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "8a9b4757-6968-4dd3-8339-61e9b574cf6c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "dcc8ad86-385c-4a13-99cf-c0f5b2d9b01e": {
+            "direction": "bidirectional",
+            "names": [
+                "IO_1"
+            ],
+            "primary_name": "SO",
+            "swap_group": 0
+        },
+        "e2586533-c607-493b-984b-ba4d4f6df0fb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CS",
+            "swap_group": 0
+        },
+        "e8539820-4617-4f34-8a20-f00f54e9d1cc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "ed82b876-3779-4819-91c4-af1a532fc77b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "IO_3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "51a24efb-14b7-4fbf-b235-f29f97b8673d"
+}

@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "f2ef0a85-e98e-4f11-9a92-bba47262dae6": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bd9f2a4f-3d4f-45b4-80cd-9260874f78c5"
+        }
+    },
+    "manufacturer": "",
+    "name": "SNxxLBC",
+    "prefix": "U",
+    "tags": [
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "dfda0da9-f821-478c-ae37-bab1358c849f"
+}
