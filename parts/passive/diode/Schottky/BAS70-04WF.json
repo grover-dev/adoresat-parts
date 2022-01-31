@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "BAS70-04WF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/916/BAS70_1PS7XSB70_SER-1598130.pdf"
+    ],
+    "description": [
+        false,
+        "Series Schottky Diodes"
+    ],
+    "entity": "7c132244-6629-4853-87ef-5661c8408d5a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "9144e9ae-ac16-4c34-b7e7-73167929d459",
+    "orderable_MPNs": {
+        "b48ad4ae-1021-4a8b-930d-49d5c2c3557c": "BAS70-04WF"
+    },
+    "package": "f4dedc07-b011-410b-9aad-2ad3e8b2a1d6",
+    "pad_map": {
+        "1ede8975-c5df-4869-8af9-bea3c5983883": {
+            "gate": "63dee294-8dcb-4fe0-92c8-bd02eeb1d1ca",
+            "pin": "6b771766-5607-4a63-9d6d-52b2886379fe"
+        },
+        "de39cb02-b4de-411c-b17a-c10e326af200": {
+            "gate": "63dee294-8dcb-4fe0-92c8-bd02eeb1d1ca",
+            "pin": "79c61e32-7499-4637-b5b9-253fcc8f5cc6"
+        },
+        "f5967815-6339-464f-9ef6-2a4f80de6b11": {
+            "gate": "63dee294-8dcb-4fe0-92c8-bd02eeb1d1ca",
+            "pin": "ed5f2588-bdcb-4470-880c-54c4198ce4a9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "passive",
+        "schottky"
+    ],
+    "type": "part",
+    "uuid": "ff1736b3-13cc-4a8f-8ba0-519b18193e09",
+    "value": [
+        false,
+        "Schottky - 0.41 Vf - 0.7 If"
+    ]
+}
