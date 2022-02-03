@@ -1,26 +1,26 @@
 {
     "MPN": [
         false,
-        "8 Pin - 2.54 mm Pitch"
+        "440052-8"
     ],
     "datasheet": [
         false,
-        ""
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F440052%7FC8%7Fpdf%7FEnglish%7FENG_CD_440052_C8.pdf%7F440052-8"
     ],
     "description": [
         false,
-        "Generic 8 Pin Connector"
+        "8 Pin Vertical PCB Mount Header"
     ],
     "entity": "24e2293d-fbd4-4c5e-94ec-8db5d0052da1",
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        ""
+        "TE Connectivity"
     ],
-    "model": "3adf2626-2281-49e3-b334-0a5327040f10",
+    "model": "15663cd4-6ed5-42eb-8000-a15ff34f2517",
     "orderable_MPNs": {
-        "6dd9304a-c85f-40d4-8b13-e773084ef709": "8 Pin Connector"
+        "6dd9304a-c85f-40d4-8b13-e773084ef709": "440052-8"
     },
     "package": "4716141f-3429-457b-b4b2-549fa54d6acf",
     "pad_map": {
@@ -66,6 +66,6 @@
     "uuid": "d73abe4b-5acd-4d1e-91d5-4a3302b80232",
     "value": [
         false,
-        ""
+        "440052-8"
     ]
 }
