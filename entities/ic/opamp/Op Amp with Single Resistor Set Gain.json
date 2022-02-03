@@ -1,0 +1,43 @@
+{
+    "gates": {
+        "2c9d21c3-5914-4d71-a691-c7c9b18056ca": {
+            "name": "pow",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "2fce9f0a-c092-4cd0-a5e8-d4f4226b9667": {
+            "name": "main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "808d19bf-44ee-4903-8597-d3ebfa2656e7": {
+            "name": "ref",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "93187fb5-f24e-4257-bb73-8da59fe77ada"
+        },
+        "95a872ac-3fb5-4b27-a127-8310289f0575": {
+            "name": "gain",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "5c1279c1-e0fd-4fd3-b923-0fbfc54bbdf7"
+        },
+        "fb4aa356-4e95-4b42-a6ac-6e3bc5f0d14a": {
+            "name": "shutdown",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "49e50d28-c0fd-4c13-81bb-f3a3a41f52f3"
+        }
+    },
+    "manufacturer": "",
+    "name": "Op Amp with Single Resistor Set Gain",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "9b792ae5-4ccd-4e6d-a080-53b401a19569"
+}

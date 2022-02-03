@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Gain Pin",
+    "pins": {
+        "b4d98869-0b6c-4cd4-9ede-c59af4654183": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Gain",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5c1279c1-e0fd-4fd3-b923-0fbfc54bbdf7"
+}
