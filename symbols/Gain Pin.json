@@ -1,0 +1,117 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "1b3a5370-7d0b-454b-ac25-6a9da9e42481": {
+            "position": [
+                -2500000,
+                3750000
+            ]
+        },
+        "5ce63b0f-9a4b-4f7a-a903-75cb74102678": {
+            "position": [
+                3750000,
+                3750000
+            ]
+        },
+        "e67ae79d-c697-4ee5-bc74-4ee6c96ed6b8": {
+            "position": [
+                3750000,
+                -3750000
+            ]
+        },
+        "ea4859da-a907-49d7-95e2-6e6c0e2874d9": {
+            "position": [
+                -2500000,
+                -3750000
+            ]
+        }
+    },
+    "lines": {
+        "2054afa8-ae96-4ebf-9c03-69a1ae4a3181": {
+            "from": "e67ae79d-c697-4ee5-bc74-4ee6c96ed6b8",
+            "layer": 0,
+            "to": "ea4859da-a907-49d7-95e2-6e6c0e2874d9",
+            "width": 0
+        },
+        "70bc2542-3134-4ebe-8c21-58f6523ccf81": {
+            "from": "ea4859da-a907-49d7-95e2-6e6c0e2874d9",
+            "layer": 0,
+            "to": "1b3a5370-7d0b-454b-ac25-6a9da9e42481",
+            "width": 0
+        },
+        "afe2c213-efdb-45b3-905e-edd5f07357d4": {
+            "from": "1b3a5370-7d0b-454b-ac25-6a9da9e42481",
+            "layer": 0,
+            "to": "5ce63b0f-9a4b-4f7a-a903-75cb74102678",
+            "width": 0
+        },
+        "c9e6958b-ace9-444a-bbd3-c4ad044d1418": {
+            "from": "5ce63b0f-9a4b-4f7a-a903-75cb74102678",
+            "layer": 0,
+            "to": "e67ae79d-c697-4ee5-bc74-4ee6c96ed6b8",
+            "width": 0
+        }
+    },
+    "name": "Gain Pin",
+    "pins": {
+        "b4d98869-0b6c-4cd4-9ede-c59af4654183": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -5000000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "daac871b-a9d5-45b2-a5df-d3dd9f7bf566": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    -5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "fa3aaf03-bdb6-4f28-8105-139ebc4baf8c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    5000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "5c1279c1-e0fd-4fd3-b923-0fbfc54bbdf7",
+    "uuid": "2d5fca9b-eed3-425c-a0b0-ef9346c29687"
+}

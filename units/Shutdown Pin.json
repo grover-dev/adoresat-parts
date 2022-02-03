@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Shutdown Pin",
+    "pins": {
+        "3c28538b-2e6f-43e6-9fec-07872b22805e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Shutdown",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "49e50d28-c0fd-4c13-81bb-f3a3a41f52f3"
+}

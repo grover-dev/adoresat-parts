@@ -1,0 +1,72 @@
+{
+    "MPN": [
+        false,
+        "INA332"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina332.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1643848887604&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "2 MHz Instrumentation Amplifier"
+    ],
+    "entity": "9b792ae5-4ccd-4e6d-a080-53b401a19569",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "9f4f7189-672d-44a5-8192-6baee6a7f39e",
+    "orderable_MPNs": {
+        "d4a73985-df0e-44c1-ad98-57bdb1e59ce6": "INA332AIDGKT"
+    },
+    "package": "199498cd-bb7f-4bdf-b2f4-7638e2c963de",
+    "pad_map": {
+        "061ae1be-bdc0-45ef-a088-4574d48180b9": {
+            "gate": "2fce9f0a-c092-4cd0-a5e8-d4f4226b9667",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "1bacd3c5-00f9-4416-a671-84d126140151": {
+            "gate": "2c9d21c3-5914-4d71-a691-c7c9b18056ca",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "24d0d1f3-42aa-45d1-8bdc-cc938658bb28": {
+            "gate": "2c9d21c3-5914-4d71-a691-c7c9b18056ca",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        },
+        "322dfd7e-8537-421f-86a7-19c089ca9973": {
+            "gate": "95a872ac-3fb5-4b27-a127-8310289f0575",
+            "pin": "b4d98869-0b6c-4cd4-9ede-c59af4654183"
+        },
+        "33ff277f-0c47-450f-8280-6276a9157eea": {
+            "gate": "808d19bf-44ee-4903-8597-d3ebfa2656e7",
+            "pin": "35b21fc5-139f-4516-ba60-600db5030142"
+        },
+        "5c36f68e-c625-4099-84ca-6807f6f83e68": {
+            "gate": "2fce9f0a-c092-4cd0-a5e8-d4f4226b9667",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "ddfc903c-579a-487b-b7ee-e8e019da04ba": {
+            "gate": "2fce9f0a-c092-4cd0-a5e8-d4f4226b9667",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "f6002d43-bf10-42ba-9791-f276f1ab7976": {
+            "gate": "fb4aa356-4e95-4b42-a6ac-6e3bc5f0d14a",
+            "pin": "3c28538b-2e6f-43e6-9fec-07872b22805e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "differential-amplifier",
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "771b63a4-52c7-41f8-8a22-6c6dc8cbc910",
+    "value": [
+        false,
+        "INA332"
+    ]
+}
