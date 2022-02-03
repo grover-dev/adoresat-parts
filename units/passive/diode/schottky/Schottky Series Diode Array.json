@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Schottky Series Diode Array",
+    "pins": {
+        "6b771766-5607-4a63-9d6d-52b2886379fe": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "79c61e32-7499-4637-b5b9-253fcc8f5cc6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "COM",
+            "swap_group": 0
+        },
+        "ed5f2588-bdcb-4470-880c-54c4198ce4a9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a690181b-f509-4311-b2c5-6377ca09abe5"
+}

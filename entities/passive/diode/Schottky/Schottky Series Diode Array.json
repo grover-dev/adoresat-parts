@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "63dee294-8dcb-4fe0-92c8-bd02eeb1d1ca": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a690181b-f509-4311-b2c5-6377ca09abe5"
+        }
+    },
+    "manufacturer": "",
+    "name": "Schottky Series Diode Array",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "7c132244-6629-4853-87ef-5661c8408d5a"
+}
