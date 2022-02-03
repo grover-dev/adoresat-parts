@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "e72ac492-3eac-4660-9151-bde5f2016b5d": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "4565c725-da55-4279-95cf-550a3d65ce83"
+        }
+    },
+    "manufacturer": "",
+    "name": "8 Pin Connector",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "24e2293d-fbd4-4c5e-94ec-8db5d0052da1"
+}

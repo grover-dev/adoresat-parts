@@ -177,18 +177,47 @@
     "models": {},
     "name": "JTAG - 6 Pin Needle Nose",
     "pads": {
-        "3949d8ae-2937-46e4-b950-2d2de6b96af7": {
-            "name": "6",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+        "019805fd-b553-4ddb-b78a-5f1f743b945e": {
+            "name": "1",
+            "padstack": "244b0e3c-02eb-4627-9469-47c3a379f814",
             "parameter_set": {
-                "hole_diameter": 787000,
-                "pad_diameter": 900000
+                "pad_diameter": 787000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    3810000,
+                    1270000,
+                    -635000
+                ]
+            }
+        },
+        "19ffd2d0-6129-45a0-8edf-989a9d6b91bb": {
+            "name": "3",
+            "padstack": "244b0e3c-02eb-4627-9469-47c3a379f814",
+            "parameter_set": {
+                "pad_diameter": 787000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2540000,
+                    -635000
+                ]
+            }
+        },
+        "482e53b2-d8bc-4416-8f86-2d7e2d05992d": {
+            "name": "4",
+            "padstack": "244b0e3c-02eb-4627-9469-47c3a379f814",
+            "parameter_set": {
+                "pad_diameter": 787000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2540000,
                     635000
                 ]
             }
@@ -238,18 +267,17 @@
                 ]
             }
         },
-        "7072076a-390e-4a86-a65a-1917103ceed9": {
-            "name": "4",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+        "7596ae93-e8d2-4b08-9eca-f09c0af41962": {
+            "name": "2",
+            "padstack": "244b0e3c-02eb-4627-9469-47c3a379f814",
             "parameter_set": {
-                "hole_diameter": 787000,
-                "pad_diameter": 900000
+                "pad_diameter": 787000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2540000,
+                    1270000,
                     635000
                 ]
             }
@@ -266,22 +294,6 @@
                 "shift": [
                     0,
                     2540000
-                ]
-            }
-        },
-        "afe549cc-4d96-4ea4-ab86-c8d517b275a6": {
-            "name": "1",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
-            "parameter_set": {
-                "hole_diameter": 787000,
-                "pad_diameter": 900000
-            },
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    1270000,
-                    -635000
                 ]
             }
         },
@@ -315,22 +327,6 @@
                 ]
             }
         },
-        "dd1992a7-5b4b-4d9b-84f4-01a852583df4": {
-            "name": "3",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
-            "parameter_set": {
-                "hole_diameter": 787000,
-                "pad_diameter": 900000
-            },
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    2540000,
-                    -635000
-                ]
-            }
-        },
         "e250a4c9-4a6f-4218-92d1-0404a09b505f": {
             "name": "12",
             "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
@@ -346,12 +342,11 @@
                 ]
             }
         },
-        "f139d7a6-c0bc-42f4-a3a9-0030796ab382": {
+        "e2b9bd54-0da8-4544-844c-c6a3d62ba061": {
             "name": "5",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "padstack": "244b0e3c-02eb-4627-9469-47c3a379f814",
             "parameter_set": {
-                "hole_diameter": 787000,
-                "pad_diameter": 900000
+                "pad_diameter": 787000
             },
             "placement": {
                 "angle": 0,
@@ -362,18 +357,17 @@
                 ]
             }
         },
-        "ff5e9136-5b8a-492c-945b-da0ecc8e04f8": {
-            "name": "2",
-            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+        "f3895aad-3840-4828-b203-557bb18262a4": {
+            "name": "6",
+            "padstack": "244b0e3c-02eb-4627-9469-47c3a379f814",
             "parameter_set": {
-                "hole_diameter": 787000,
-                "pad_diameter": 900000
+                "pad_diameter": 787000
             },
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    1270000,
+                    3810000,
                     635000
                 ]
             }
