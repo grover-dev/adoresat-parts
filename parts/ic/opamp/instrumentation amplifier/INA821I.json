@@ -26,8 +26,8 @@
     "package": "199498cd-bb7f-4bdf-b2f4-7638e2c963de",
     "pad_map": {
         "061ae1be-bdc0-45ef-a088-4574d48180b9": {
-            "gate": "6d5e2910-e25f-40bd-9757-0926b82bc9ef",
-            "pin": "1c94d7c3-e49f-43c8-8362-e2084efe0bba"
+            "gate": "55692bd7-972f-43c1-8c03-e7552403addb",
+            "pin": "f032cdca-75b2-44a7-85c5-dc1e0a6a2eab"
         },
         "1bacd3c5-00f9-4416-a671-84d126140151": {
             "gate": "d8b9a99a-f35a-4774-aa89-69ce3096a0db",
@@ -50,8 +50,8 @@
             "pin": "35b21fc5-139f-4516-ba60-600db5030142"
         },
         "ddfc903c-579a-487b-b7ee-e8e019da04ba": {
-            "gate": "6d5e2910-e25f-40bd-9757-0926b82bc9ef",
-            "pin": "25f615a7-34ed-4612-b97f-34514c3cab3b"
+            "gate": "55692bd7-972f-43c1-8c03-e7552403addb",
+            "pin": "b36df849-f026-400e-a8a2-215525477cd9"
         },
         "f6002d43-bf10-42ba-9791-f276f1ab7976": {
             "gate": "509b4780-d468-4aab-bf5c-cb8bb5ff6098",
