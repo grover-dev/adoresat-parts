@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "INA821I"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ina821.pdf?ts=1607232768575&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA821"
+    ],
+    "description": [
+        false,
+        "4.7 MHz, 7 nV/r-Hz Instrumentation Amp"
+    ],
+    "entity": "e4b314c0-7a9f-4b61-adbe-2b77fbcddb11",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "9f4f7189-672d-44a5-8192-6baee6a7f39e",
+    "orderable_MPNs": {
+        "00b74c72-d2c8-46dd-afc0-0bab97996653": "INA821ID",
+        "e443c344-7fe6-4373-8d38-4f674051b1eb": "INA821IDGKT"
+    },
+    "package": "199498cd-bb7f-4bdf-b2f4-7638e2c963de",
+    "pad_map": {
+        "061ae1be-bdc0-45ef-a088-4574d48180b9": {
+            "gate": "55692bd7-972f-43c1-8c03-e7552403addb",
+            "pin": "f032cdca-75b2-44a7-85c5-dc1e0a6a2eab"
+        },
+        "1bacd3c5-00f9-4416-a671-84d126140151": {
+            "gate": "d8b9a99a-f35a-4774-aa89-69ce3096a0db",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "24d0d1f3-42aa-45d1-8bdc-cc938658bb28": {
+            "gate": "d8b9a99a-f35a-4774-aa89-69ce3096a0db",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "322dfd7e-8537-421f-86a7-19c089ca9973": {
+            "gate": "d8b9a99a-f35a-4774-aa89-69ce3096a0db",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "33ff277f-0c47-450f-8280-6276a9157eea": {
+            "gate": "509b4780-d468-4aab-bf5c-cb8bb5ff6098",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "5c36f68e-c625-4099-84ca-6807f6f83e68": {
+            "gate": "04a612b2-680e-4972-8bc7-341f37cc7641",
+            "pin": "35b21fc5-139f-4516-ba60-600db5030142"
+        },
+        "ddfc903c-579a-487b-b7ee-e8e019da04ba": {
+            "gate": "55692bd7-972f-43c1-8c03-e7552403addb",
+            "pin": "b36df849-f026-400e-a8a2-215525477cd9"
+        },
+        "f6002d43-bf10-42ba-9791-f276f1ab7976": {
+            "gate": "509b4780-d468-4aab-bf5c-cb8bb5ff6098",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "differential-amplifier",
+        "ic",
+        "opamp"
+    ],
+    "type": "part",
+    "uuid": "df12c4c3-ac10-4e2b-a268-33ebedc73065",
+    "value": [
+        false,
+        "INA821"
+    ]
+}
