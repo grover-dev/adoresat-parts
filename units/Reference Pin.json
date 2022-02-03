@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Reference Pin",
+    "pins": {
+        "35b21fc5-139f-4516-ba60-600db5030142": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "Ref",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "93187fb5-f24e-4257-bb73-8da59fe77ada"
+}
