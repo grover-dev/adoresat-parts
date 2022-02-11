@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "IX4310TTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/240/IX4310T-1839211.pdf"
+    ],
+    "description": [
+        false,
+        "2A/2A Low Side Single Channel Gate Driver"
+    ],
+    "entity": "c59c90d7-ae2a-4804-92d2-43eb6cfcf967",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "IXYS"
+    ],
+    "model": "8078745a-95f2-491a-9f47-d10b8752531e",
+    "orderable_MPNs": {
+        "082f929a-7cfa-48e9-8ab1-b2ac63cddfb9": "IX4310TTR"
+    },
+    "package": "5f2b0868-3090-46c6-9d2a-4a41c18b34a6",
+    "pad_map": {
+        "002770aa-e02c-4e0b-aa5a-9abfde6a0cc8": {
+            "gate": "6b6c0ba2-2ff7-497a-910f-33bf4f12ca6c",
+            "pin": "5dfa94fe-16f2-4188-9166-88978ee153fd"
+        },
+        "0f9f6030-9915-494e-95fc-830ec01ee911": {
+            "gate": "6b6c0ba2-2ff7-497a-910f-33bf4f12ca6c",
+            "pin": "54c94618-274d-4539-a809-805250a877a9"
+        },
+        "1cee3e43-78d6-40a8-a6bc-889d050353cf": {
+            "gate": "6b6c0ba2-2ff7-497a-910f-33bf4f12ca6c",
+            "pin": "4f461432-44be-4d53-b7ac-f022898b6ed2"
+        },
+        "2c00716e-b59d-43b8-accb-3c6dbebcb87e": {
+            "gate": "6b6c0ba2-2ff7-497a-910f-33bf4f12ca6c",
+            "pin": "5dfa94fe-16f2-4188-9166-88978ee153fd"
+        },
+        "c81bdcef-af0d-453e-aa72-42f96171d49e": {
+            "gate": "6b6c0ba2-2ff7-497a-910f-33bf4f12ca6c",
+            "pin": "7f3478af-7c5b-4a6d-8bfe-b2d3e1def56a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gate-driver",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "c22b5bfb-3827-443a-b10d-aed449587c5d",
+    "value": [
+        false,
+        "IX4310TTR"
+    ]
+}
