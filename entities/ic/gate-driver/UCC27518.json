@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "16f3161d-ae1c-4ba8-a310-e5286768c659": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "da9580e1-db28-4e48-89e9-42b44e871094"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "UCC27518",
+    "prefix": "U",
+    "tags": [
+        "gate-driver"
+    ],
+    "type": "entity",
+    "uuid": "77b1c193-b019-43d3-aa1d-76d86dd73750"
+}

@@ -1,0 +1,38 @@
+{
+    "manufacturer": "TI",
+    "name": "UCC27518",
+    "pins": {
+        "6fac1e3b-c13a-43ab-b037-7b7b921f6034": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "a2747c53-5541-4579-b672-f73a7cb76da4": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "c697ca20-6dde-4b5b-a453-474f88b058b6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "d6422039-45d0-46f8-8ff4-6d639058c9df": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN-",
+            "swap_group": 0
+        },
+        "dabd17c7-b57f-48fe-9401-458590b553b1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "da9580e1-db28-4e48-89e9-42b44e871094"
+}
