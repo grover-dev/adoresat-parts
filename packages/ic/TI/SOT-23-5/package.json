@@ -119,14 +119,14 @@
             "z": 0
         }
     },
-    "name": "SOT-23-5",
+    "name": "DBV0005A (SOT-23-5)",
     "pads": {
         "179a087b-d304-4651-bd68-1f15c3ebe954": {
             "name": "2",
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 120000,
-                "pad_height": 1310000,
+                "pad_height": 1100000,
                 "pad_width": 600000
             },
             "placement": {
@@ -143,7 +143,7 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 120000,
-                "pad_height": 1310000,
+                "pad_height": 1100000,
                 "pad_width": 600000
             },
             "placement": {
@@ -160,7 +160,7 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 120000,
-                "pad_height": 1310000,
+                "pad_height": 1100000,
                 "pad_width": 600000
             },
             "placement": {
@@ -177,7 +177,7 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 120000,
-                "pad_height": 1310000,
+                "pad_height": 1100000,
                 "pad_width": 600000
             },
             "placement": {
@@ -194,7 +194,7 @@
             "padstack": "8e762581-e1b1-4fb4-81d3-7f8a1cabb97f",
             "parameter_set": {
                 "corner_radius": 120000,
-                "pad_height": 1310000,
+                "pad_height": 1100000,
                 "pad_width": 600000
             },
             "placement": {
@@ -207,9 +207,9 @@
             }
         }
     },
-    "parameter_program": "",
+    "parameter_program": "4.800mm 3.900mm\nget-parameter [ courtyard_expansion ]\n2 * +xy\nset-polygon [ courtyard rectangle 0.000mm 0.000mm ]",
     "parameter_set": {
-        "courtyard_expansion": 500000
+        "courtyard_expansion": 250000
     },
     "polygons": {
         "3554657f-9c9a-453e-95e6-d0fc15cdf212": {
@@ -223,8 +223,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -2400000,
-                        -1950000
+                        -2650000,
+                        -2200000
                     ],
                     "type": "line"
                 },
@@ -235,8 +235,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        -2400000,
-                        1950000
+                        -2650000,
+                        2200000
                     ],
                     "type": "line"
                 },
@@ -247,8 +247,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        2400000,
-                        1950000
+                        2650000,
+                        2200000
                     ],
                     "type": "line"
                 },
@@ -259,8 +259,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        2400000,
-                        -1950000
+                        2650000,
+                        -2200000
                     ],
                     "type": "line"
                 }
