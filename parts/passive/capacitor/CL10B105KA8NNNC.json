@@ -1,0 +1,42 @@
+{
+    "MPN": [
+        false,
+        "CL10B105KA8NNNC"
+    ],
+    "base": "e4ffbcdf-5224-4661-aa0d-8bd51eafc447",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Samsung Electro-Mechanics"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "6636e816-3ff2-4151-a653-0911ba115933": "CL10B105KA8NNNC"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "1e-06",
+        "wvdc": "25"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "249dfc7c-92a0-4b41-adf3-8afe162168a0",
+    "value": [
+        false,
+        "1 uF - 25 V - X7R - 10%"
+    ]
+}
