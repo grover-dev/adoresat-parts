@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "3adf2626-2281-49e3-b334-0a5327040f10",
+    "default_model": "15663cd4-6ed5-42eb-8000-a15ff34f2517",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -14,7 +14,7 @@
                 1000000,
                 1000000
             ],
-            "spacing_square": 100000
+            "spacing_square": 50000
         },
         "grids": {}
     },
@@ -22,31 +22,31 @@
         "3c9dccdb-9bad-4518-94dd-056e4b3a462a": {
             "position": [
                 -8900002,
-                -1625000
+                -2375000
             ]
         },
         "6ca10c12-8ea3-4ea3-9a9b-b87ae7004579": {
             "position": [
-                10525000,
-                1625000
+                11325000,
+                1725000
             ]
         },
         "89e7eae2-c7de-4e8a-9b6d-ea7abd6a9b97": {
             "position": [
-                -10525000,
-                -1625000
+                -11475000,
+                -2375000
             ]
         },
         "d1e64e7a-3eec-44d0-9e8d-29e82a3887ea": {
             "position": [
-                10525000,
+                11325000,
                 -1625000
             ]
         },
         "eb433a6b-b01d-405e-b946-574549544a39": {
             "position": [
-                -10525000,
-                1625000
+                -11475000,
+                1725000
             ]
         }
     },
@@ -79,13 +79,13 @@
     },
     "manufacturer": "TE Connectivity",
     "models": {
-        "3adf2626-2281-49e3-b334-0a5327040f10": {
-            "filename": "3d_models/TE Connectivity/2.5mm pitch - 6 pin.stp",
-            "pitch": 32768,
-            "roll": 32768,
-            "x": 0,
-            "y": 1700000,
-            "yaw": 0,
+        "15663cd4-6ed5-42eb-8000-a15ff34f2517": {
+            "filename": "3d_models/TE Connectivity/2.5mm pitch - 8 pin.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": -100000,
+            "y": 1600000,
+            "yaw": 32768,
             "z": 6000000
         }
     },
@@ -95,8 +95,8 @@
             "name": "5",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -111,8 +111,8 @@
             "name": "1",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -127,8 +127,8 @@
             "name": "4",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -143,8 +143,8 @@
             "name": "3",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -159,8 +159,8 @@
             "name": "2",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -175,8 +175,8 @@
             "name": "7",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -191,8 +191,8 @@
             "name": "6",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
@@ -207,8 +207,8 @@
             "name": "8",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
-                "hole_diameter": 900000,
-                "pad_diameter": 1250000
+                "hole_diameter": 1100000,
+                "pad_diameter": 1450000
             },
             "placement": {
                 "angle": 0,
