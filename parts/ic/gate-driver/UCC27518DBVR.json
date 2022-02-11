@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "UCC27518DBVR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ucc27518.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1644549364076&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "4A/4A Single Channel Low-side Gate Driver"
+    ],
+    "entity": "77b1c193-b019-43d3-aa1d-76d86dd73750",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "32cb6dfb-367c-488f-a022-80eb6c8bbf76",
+    "orderable_MPNs": {
+        "ee373b92-8abe-4267-a860-b298386da413": "UCC27518DBVR"
+    },
+    "package": "ab6e7991-6c9a-4f14-bc66-417c204102fb",
+    "pad_map": {
+        "179a087b-d304-4651-bd68-1f15c3ebe954": {
+            "gate": "16f3161d-ae1c-4ba8-a310-e5286768c659",
+            "pin": "6fac1e3b-c13a-43ab-b037-7b7b921f6034"
+        },
+        "87131a04-8d87-4cfe-9178-f63fb5899e0b": {
+            "gate": "16f3161d-ae1c-4ba8-a310-e5286768c659",
+            "pin": "a2747c53-5541-4579-b672-f73a7cb76da4"
+        },
+        "b082c171-3282-4658-8898-f044e6b9ec35": {
+            "gate": "16f3161d-ae1c-4ba8-a310-e5286768c659",
+            "pin": "dabd17c7-b57f-48fe-9401-458590b553b1"
+        },
+        "c032eef1-5692-4058-844a-cccf16c4a445": {
+            "gate": "16f3161d-ae1c-4ba8-a310-e5286768c659",
+            "pin": "c697ca20-6dde-4b5b-a453-474f88b058b6"
+        },
+        "cc906a02-fc3b-4758-bca6-306a7e1d336e": {
+            "gate": "16f3161d-ae1c-4ba8-a310-e5286768c659",
+            "pin": "d6422039-45d0-46f8-8ff4-6d639058c9df"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gate-driver",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "44d39036-9b92-4bb2-b0b3-2925c0c7913c",
+    "value": [
+        false,
+        "UCC27518"
+    ]
+}
