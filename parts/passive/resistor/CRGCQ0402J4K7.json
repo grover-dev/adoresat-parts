@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "CRGCQ0402J4K7"
+    ],
+    "base": "a1febf33-621d-4b25-9bb3-e5197216f791",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/418/4/NG_DS_1773204-3_1-1358553.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Resistors"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "973aa744-d1f8-4ae6-98df-aa57be4ce452": "CRGCQ0402J4K7"
+    },
+    "parametric": {
+        "pmax": "0.0625",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "4700"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "03001e50-88b3-4fc8-821f-071ff58b053f",
+    "value": [
+        false,
+        "4.7 kOhm - 5% - 0.0625 W"
+    ]
+}
