@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "MAX3221EIPWR"
+    ],
+    "datasheet": [
+        false,
+        "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax3221e"
+    ],
+    "description": [
+        false,
+        "RS-232 Transceiver"
+    ],
+    "entity": "7633772a-432c-45db-9daa-0b9e4484a3ba",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "d6b0fc31-cb18-4d5e-8e14-48e4f5a2738a",
+    "orderable_MPNs": {
+        "c8404d61-08e4-400d-a83f-66a838896e58": "MAX3221EIPWR"
+    },
+    "package": "6b343ad9-6ca9-4a5c-88c0-b2604be3d819",
+    "pad_map": {
+        "1cc90054-c323-465a-b22a-88a0bab2c848": {
+            "gate": "25c732f9-12f2-4163-8a2e-e122c1775d70",
+            "pin": "567f69ee-f24f-4617-aa9c-735c401f293f"
+        },
+        "1d0b7164-4807-49f7-a803-641db8d6d826": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "476d14e1-8aef-48e0-96bf-ed8a37533052"
+        },
+        "2a706cbf-1d3f-4266-9b9c-eebb4e13836b": {
+            "gate": "e096a79e-ccfe-41db-b149-e3429a5fd302",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        },
+        "30cf99d3-bf82-4dce-b8f3-a2426e9af740": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "1525c90c-f398-4a76-b672-61e5903d4170"
+        },
+        "5ef21760-e050-42e2-9332-4c34fcd926da": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "c45c319c-ce3f-4be2-b26b-90c2bfc3e02a"
+        },
+        "6a711848-75e4-4678-ac2a-7562f777b293": {
+            "gate": "0b1dddbb-8bed-4ce3-873d-e96a28713c3a",
+            "pin": "edbce3f1-58bb-4ce5-8a90-4b413b1db497"
+        },
+        "6f02783f-8afd-4ab3-82f7-f1872b2322d1": {
+            "gate": "0b1dddbb-8bed-4ce3-873d-e96a28713c3a",
+            "pin": "b84960e8-f875-4122-a8b3-b67774d86d6a"
+        },
+        "838060f3-6a8a-4392-8294-7dd8db6e8d98": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "e8ca455e-022e-4baa-a54c-d30ea494d5b1"
+        },
+        "9c3e8e66-0d55-4a74-a4cf-9051ef66a86a": {
+            "gate": "e096a79e-ccfe-41db-b149-e3429a5fd302",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "9dcd59b7-e88f-4d56-b8b9-4b43eedb6988": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "1e0b9ddc-e5dc-48dd-a0c3-5e0150619b49"
+        },
+        "b3f8540b-d8c1-4bed-96e9-5cb4ac279bc6": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "2b448826-f9c3-46d5-aa5f-a2eca7060d18"
+        },
+        "c45210e8-c5da-45b6-94ec-6b0f7c49cc77": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "14d73177-6dc7-4dff-8487-9786c17de2f7"
+        },
+        "d846ed61-7cf1-4240-ae75-5c646088964c": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "89a92ed5-fcd6-4cd8-9437-2920bb79152b"
+        },
+        "e7ee351c-ddd9-4703-b606-6ff1f30caa22": {
+            "gate": "25c732f9-12f2-4163-8a2e-e122c1775d70",
+            "pin": "c4b4c5a7-b5c6-487f-b490-e6649ad7f033"
+        },
+        "ee584570-3932-46d3-bdf4-793481da33f9": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "485174b5-e96c-4f57-b7ca-14e4691cc90d"
+        },
+        "fe385a8b-a347-46fa-91a1-d3ec93b7c00a": {
+            "gate": "7cfe1b09-1aef-4937-84a8-f148a576883b",
+            "pin": "7daac689-f41f-4b57-ad6a-fb6a15b44ae5"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "transceiver"
+    ],
+    "type": "part",
+    "uuid": "d31d223c-686d-4711-8dd6-0fa77ffaed6a",
+    "value": [
+        false,
+        "MAX3221E"
+    ]
+}
