@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Voltage Regulator",
+    "pins": {
+        "160ab4a5-4d00-448b-afbb-12143f031a5b": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "a07a7380-78de-4177-91ea-46d07619c713": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "c15c93ec-6b5e-48e8-b307-3dcc4b783f80": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b8f77329-3989-4be2-8504-bebdd0f50967"
+}
