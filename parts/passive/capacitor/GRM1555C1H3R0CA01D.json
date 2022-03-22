@@ -1,0 +1,39 @@
+{
+    "MPN": [
+        false,
+        "GRM1555C1H3R0CA01D"
+    ],
+    "base": "a13e104c-a1e3-4506-9272-3b857a04db93",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/281/1/GRM1555C1H3R0CA01_01A-1982852.pdf"
+    ],
+    "description": [
+        false,
+        "Multilayer Ceramic Capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "a994ad56-3aef-4bcc-b95c-8ad00d28d8e4": "GRM1555C1H3R0CA01D"
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "8.33",
+        "type": "C0G/NP0",
+        "value": "3e-12",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "439ad436-f143-4ed6-8d05-d329981109b4",
+    "value": [
+        false,
+        "3 pF - 50 V - C0G - 0.25 pF"
+    ]
+}
