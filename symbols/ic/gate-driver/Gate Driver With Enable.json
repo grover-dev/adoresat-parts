@@ -133,10 +133,10 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": true,
-            "orientation": "left",
+            "orientation": "right",
             "pad_visible": true,
             "position": [
-                2500000,
+                7500000,
                 -6250000
             ]
         }
