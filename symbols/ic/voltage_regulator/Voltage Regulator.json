@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "7ea50e1c-e0ac-4ebc-93c1-18f81bf94107": {
+            "position": [
+                6250000,
+                -5000000
+            ]
+        },
+        "b5fb4cef-6235-4ce3-943e-0bbc3d034c1b": {
+            "position": [
+                -6250000,
+                -5000000
+            ]
+        },
+        "c5ec82ce-dfb9-4985-8a4c-d78d22492e3c": {
+            "position": [
+                6250000,
+                5000000
+            ]
+        },
+        "cf476fd5-c967-4e06-a36b-f22df160eba8": {
+            "position": [
+                -6250000,
+                5000000
+            ]
+        }
+    },
+    "lines": {
+        "0c6a3c1f-4145-4090-883a-cb522c79d67c": {
+            "from": "7ea50e1c-e0ac-4ebc-93c1-18f81bf94107",
+            "layer": 0,
+            "to": "b5fb4cef-6235-4ce3-943e-0bbc3d034c1b",
+            "width": 0
+        },
+        "51cbd7b2-c41e-4714-9cb9-6144e440fa65": {
+            "from": "b5fb4cef-6235-4ce3-943e-0bbc3d034c1b",
+            "layer": 0,
+            "to": "cf476fd5-c967-4e06-a36b-f22df160eba8",
+            "width": 0
+        },
+        "a320de48-ea5e-4434-85fd-9ff2db2376a3": {
+            "from": "cf476fd5-c967-4e06-a36b-f22df160eba8",
+            "layer": 0,
+            "to": "c5ec82ce-dfb9-4985-8a4c-d78d22492e3c",
+            "width": 0
+        },
+        "d85edf20-7b98-41a6-adcc-dd499cb35643": {
+            "from": "c5ec82ce-dfb9-4985-8a4c-d78d22492e3c",
+            "layer": 0,
+            "to": "7ea50e1c-e0ac-4ebc-93c1-18f81bf94107",
+            "width": 0
+        }
+    },
+    "name": "Voltage Regulator",
+    "pins": {
+        "160ab4a5-4d00-448b-afbb-12143f031a5b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                8750000,
+                2500000
+            ]
+        },
+        "a07a7380-78de-4177-91ea-46d07619c713": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -8750000,
+                2500000
+            ]
+        },
+        "c15c93ec-6b5e-48e8-b307-3dcc4b783f80": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                0,
+                -7500000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "13451d8c-5f6a-4e26-b4a9-6082037d1d34": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -6250000,
+                    -10000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "ebd88ce2-d72e-4ebb-979a-593f6620ccd8": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -6250000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "b8f77329-3989-4be2-8504-bebdd0f50967",
+    "uuid": "d9d93e86-1ba7-4f91-9f49-7fc70f6e0795"
+}

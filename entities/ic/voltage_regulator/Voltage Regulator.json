@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "afa81887-f685-4b98-b0a2-17496cf8ac03": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b8f77329-3989-4be2-8504-bebdd0f50967"
+        }
+    },
+    "manufacturer": "",
+    "name": "Voltage Regulator",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "voltage-regulator"
+    ],
+    "type": "entity",
+    "uuid": "9538140d-90d6-4a44-a12c-0bc65dffe841"
+}

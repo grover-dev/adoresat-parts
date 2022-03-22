@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Driver",
+    "pins": {
+        "b84960e8-f875-4122-a8b3-b67774d86d6a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIN",
+            "swap_group": 0
+        },
+        "edbce3f1-58bb-4ce5-8a90-4b413b1db497": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DOUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8bf9ed29-623d-4d8f-a85a-1362f70d151c"
+}

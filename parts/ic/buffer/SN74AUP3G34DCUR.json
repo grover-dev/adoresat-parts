@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "SN74AUP3G34DCUR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/sn74aup3g34.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1644781868584&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
+    ],
+    "description": [
+        false,
+        "3 Channel Noninverting Schmitt Trigger Buffer"
+    ],
+    "entity": "5b6e21a9-570d-469f-8cc2-28443e9898dc",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "6f41e8f1-fd70-415e-99a0-5ce22b576f7c",
+    "orderable_MPNs": {
+        "e718040f-9d09-4136-aec9-78ea9f953fdb": "SN74AUP3G34DCUR"
+    },
+    "package": "30c7c112-341a-4a22-967b-6cd8329abbd0",
+    "pad_map": {
+        "19685d28-9438-4a73-964f-f49c32e33b10": {
+            "gate": "f167055c-8dfd-4a19-8842-db561b29b27c",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "20219590-f768-4a76-9943-221edd293ec9": {
+            "gate": "efc0d2e4-007b-46b7-883a-f99491dfaa8c",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        },
+        "4f352689-51e3-42e8-a635-e7b474fd5d29": {
+            "gate": "e22956db-498d-43b3-b1ff-e8d552a8327d",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "53fba5c1-5737-4d7e-9782-758ef4e17d7e": {
+            "gate": "f167055c-8dfd-4a19-8842-db561b29b27c",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "6c268d21-d21d-4712-bf99-0a50d13a596a": {
+            "gate": "6e50e316-e6e4-49c0-bf44-5db77dd69118",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "825becec-3936-4d63-9ff5-b2183c70e24c": {
+            "gate": "e22956db-498d-43b3-b1ff-e8d552a8327d",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        },
+        "adec6d05-3ba5-4659-b97c-5c446ecc5063": {
+            "gate": "efc0d2e4-007b-46b7-883a-f99491dfaa8c",
+            "pin": "ca8b2eb9-1787-4dfa-a631-005d321f3f2c"
+        },
+        "f495fff9-898e-4f14-957c-84d9194cbdf0": {
+            "gate": "6e50e316-e6e4-49c0-bf44-5db77dd69118",
+            "pin": "4e9e15ea-60dc-4b21-a61d-1df6fee8b9c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "schmitt-trigger"
+    ],
+    "type": "part",
+    "uuid": "332bd98e-f637-411f-8de5-10670092ebeb",
+    "value": [
+        false,
+        "SN74AUP3G34DCUR"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "gates": {
+        "0b1dddbb-8bed-4ce3-873d-e96a28713c3a": {
+            "name": "driver",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "8bf9ed29-623d-4d8f-a85a-1362f70d151c"
+        },
+        "25c732f9-12f2-4163-8a2e-e122c1775d70": {
+            "name": "receiver",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "2b9c53d7-c260-4681-9126-820d7e37d8ce"
+        },
+        "7cfe1b09-1aef-4937-84a8-f148a576883b": {
+            "name": "main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "6f42b39d-da8f-4372-9a1f-632d8b7faa4e"
+        },
+        "e096a79e-ccfe-41db-b149-e3429a5fd302": {
+            "name": "pow",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        }
+    },
+    "manufacturer": "TI",
+    "name": "MAX3221E",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rs232",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "7633772a-432c-45db-9daa-0b9e4484a3ba"
+}

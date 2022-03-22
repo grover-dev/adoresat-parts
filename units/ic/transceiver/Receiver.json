@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Receiver",
+    "pins": {
+        "567f69ee-f24f-4617-aa9c-735c401f293f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RIN",
+            "swap_group": 0
+        },
+        "c4b4c5a7-b5c6-487f-b490-e6649ad7f033": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ROUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "2b9c53d7-c260-4681-9126-820d7e37d8ce"
+}

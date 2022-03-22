@@ -1,0 +1,68 @@
+{
+    "gates": {
+        "08e628af-2e1f-462f-8e70-e1dc2251b2cc": {
+            "name": "pow",
+            "suffix": "I",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "25d94b4c-0a98-4856-9765-efd41a076987": {
+            "name": "shdwn1",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "49e50d28-c0fd-4c13-81bb-f3a3a41f52f3"
+        },
+        "288c2f9f-be62-4780-9810-27e6490aa8e7": {
+            "name": "amp1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "40806a21-c98d-4ecf-9b1b-2442621eb8e9": {
+            "name": "gain1",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "5c1279c1-e0fd-4fd3-b923-0fbfc54bbdf7"
+        },
+        "53f27a42-1166-4222-a412-c88b1157365d": {
+            "name": "amp2",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "5bffb0b4-41fa-4a2f-8532-8320ebb3590a": {
+            "name": "shdwn2",
+            "suffix": "H",
+            "swap_group": 0,
+            "unit": "49e50d28-c0fd-4c13-81bb-f3a3a41f52f3"
+        },
+        "7d302531-d25a-45a4-a085-7d947683ba5f": {
+            "name": "ref2",
+            "suffix": "G",
+            "swap_group": 0,
+            "unit": "93187fb5-f24e-4257-bb73-8da59fe77ada"
+        },
+        "9ac57731-70ea-4465-b440-c1a4ce522865": {
+            "name": "ref1",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "93187fb5-f24e-4257-bb73-8da59fe77ada"
+        },
+        "f0c7f8e1-a761-4fb0-ac61-bb6dda57c252": {
+            "name": "gain2",
+            "suffix": "F",
+            "swap_group": 0,
+            "unit": "5c1279c1-e0fd-4fd3-b923-0fbfc54bbdf7"
+        }
+    },
+    "manufacturer": "",
+    "name": "Dual Op Amp with Resistor Set Gain, Reference, Shutdown",
+    "prefix": "U",
+    "tags": [
+        "differential-amplifier",
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "e2721568-6053-483d-9be5-79450a8f4d31"
+}
