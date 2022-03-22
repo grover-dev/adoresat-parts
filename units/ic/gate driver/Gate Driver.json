@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Gate Driver",
+    "pins": {
+        "4f461432-44be-4d53-b7ac-f022898b6ed2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "54c94618-274d-4539-a809-805250a877a9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "IN",
+            "swap_group": 0
+        },
+        "5dfa94fe-16f2-4188-9166-88978ee153fd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "7f3478af-7c5b-4a6d-8bfe-b2d3e1def56a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1e1aeb12-86ae-4713-b7e0-18713910d5b0"
+}
