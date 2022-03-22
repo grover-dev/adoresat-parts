@@ -1,0 +1,75 @@
+{
+    "MPN": [
+        false,
+        "IXDD609D2TR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/240/IXD_609-1546213.pdf"
+    ],
+    "description": [
+        false,
+        "Low Side Gate Driver"
+    ],
+    "entity": "84ce7d3b-e186-4cf9-be37-6e73f7f3374e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "IXYS"
+    ],
+    "model": "2dab41b7-0543-41c5-843e-1a1e6fea7b08",
+    "orderable_MPNs": {
+        "5caae0a1-06a5-40aa-a0ff-b2fad08bca89": "IXDD609D2TR"
+    },
+    "package": "4ca599a6-abf8-48be-9a55-95040963f140",
+    "pad_map": {
+        "00036d83-d46b-47f5-a2e5-371fd03c330d": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "4f461432-44be-4d53-b7ac-f022898b6ed2"
+        },
+        "046c5b91-2241-4d48-8d86-b1ee216e3b3b": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "7f3478af-7c5b-4a6d-8bfe-b2d3e1def56a"
+        },
+        "0b6e0658-4e32-485e-9b07-d6bd2d4ac0ec": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "a0353d11-0b20-45a5-8bae-3f3ccd5430cc"
+        },
+        "3f89b21c-e66c-462b-a06f-6a47e75edbf5": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "4f461432-44be-4d53-b7ac-f022898b6ed2"
+        },
+        "9187c21f-b38c-4d1e-908c-c1864b79fb41": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "7f3478af-7c5b-4a6d-8bfe-b2d3e1def56a"
+        },
+        "a919f333-4681-4469-ae83-abab3c678cc8": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "5dfa94fe-16f2-4188-9166-88978ee153fd"
+        },
+        "e9dc5439-a8ff-4e7d-8474-1576894ad1b8": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "54c94618-274d-4539-a809-805250a877a9"
+        },
+        "f8a2953a-c301-461e-9f95-aaa5b1c02973": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "4f461432-44be-4d53-b7ac-f022898b6ed2"
+        },
+        "fac975bb-d552-415b-b8b8-95df72fc43e5": {
+            "gate": "cd424d80-189d-41ad-8548-d90f3a21892c",
+            "pin": "5dfa94fe-16f2-4188-9166-88978ee153fd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "gate-driver",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "08d82155-e86f-4771-8f4a-23d715b6faab",
+    "value": [
+        false,
+        ""
+    ]
+}
