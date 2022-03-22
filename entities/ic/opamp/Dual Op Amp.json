@@ -1,0 +1,31 @@
+{
+    "gates": {
+        "0211f73a-0589-4e50-b368-d782af68d7e0": {
+            "name": "ch1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        },
+        "72d3edfc-188e-47c6-bb04-503ed5c4d198": {
+            "name": "pow",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "c31faccd-7342-4edf-af8b-605786ece731": {
+            "name": "ch2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "d02b085b-f9c6-4666-bcce-787cea3a70ec"
+        }
+    },
+    "manufacturer": "",
+    "name": "Dual Op Amp",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "9be6753c-8185-4b50-b4a0-966552ace679"
+}
