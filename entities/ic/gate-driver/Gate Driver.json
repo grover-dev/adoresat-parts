@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "6b6c0ba2-2ff7-497a-910f-33bf4f12ca6c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1e1aeb12-86ae-4713-b7e0-18713910d5b0"
+        }
+    },
+    "manufacturer": "",
+    "name": "Gate Driver",
+    "prefix": "U",
+    "tags": [
+        "gate-driver",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "c59c90d7-ae2a-4804-92d2-43eb6cfcf967"
+}

@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "LM358LVIPWR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/lm358lv.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&DCM=yes&ref_url=https%3A%2F%2Fwww.mouser.com%2F&distId=26"
+    ],
+    "description": [
+        false,
+        "Dual Channel 1 MHz Op Amp"
+    ],
+    "entity": "9be6753c-8185-4b50-b4a0-966552ace679",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TI"
+    ],
+    "model": "77f1c368-cf0d-46fe-a70e-eb9a78555098",
+    "orderable_MPNs": {
+        "6e8b6084-3a58-4889-8646-09f9d3e1e812": "LM358LVIPWR"
+    },
+    "package": "95bcb4c6-77e6-4424-8b67-30820cb26ff6",
+    "pad_map": {
+        "0dd19196-6761-4fd9-852b-ae08a71382d0": {
+            "gate": "c31faccd-7342-4edf-af8b-605786ece731",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "21d71e49-b0ea-46ac-ad39-dbe4de8962a4": {
+            "gate": "72d3edfc-188e-47c6-bb04-503ed5c4d198",
+            "pin": "eebbd8b2-180a-4493-bada-604a04f84bbd"
+        },
+        "2a815c77-3318-4050-a9fb-aafd16b142bb": {
+            "gate": "c31faccd-7342-4edf-af8b-605786ece731",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "48904341-1df1-46e9-9f74-ebfed960556f": {
+            "gate": "c31faccd-7342-4edf-af8b-605786ece731",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "6c37c205-0282-4d0b-94c5-cd701ee2a398": {
+            "gate": "0211f73a-0589-4e50-b368-d782af68d7e0",
+            "pin": "afb3a832-2713-4e25-86bb-b943dc031245"
+        },
+        "afc8af69-274f-4a90-a3d2-60627183acca": {
+            "gate": "0211f73a-0589-4e50-b368-d782af68d7e0",
+            "pin": "8516cea1-5e8c-4d1d-875d-fee4433940cf"
+        },
+        "cdb77a30-5e3e-4c1c-a9e5-b995bb570b65": {
+            "gate": "0211f73a-0589-4e50-b368-d782af68d7e0",
+            "pin": "d56ae805-119d-4be5-b654-60a7eded5a92"
+        },
+        "e2a1716f-91c1-4297-be07-3bf07bffaa01": {
+            "gate": "72d3edfc-188e-47c6-bb04-503ed5c4d198",
+            "pin": "fe89b695-074b-4c48-be39-5c9b3c42ced9"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e8327781-cc3d-4fa7-9094-b6beea9406d3",
+    "value": [
+        false,
+        "LM358LVI"
+    ]
+}

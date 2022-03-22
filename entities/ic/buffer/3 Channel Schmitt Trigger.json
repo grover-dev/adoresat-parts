@@ -1,0 +1,37 @@
+{
+    "gates": {
+        "6e50e316-e6e4-49c0-bf44-5db77dd69118": {
+            "name": "ch3",
+            "suffix": "C",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "e22956db-498d-43b3-b1ff-e8d552a8327d": {
+            "name": "pow",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "833a0c5b-19f2-4a09-a703-163ac0de8e3e"
+        },
+        "efc0d2e4-007b-46b7-883a-f99491dfaa8c": {
+            "name": "ch2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        },
+        "f167055c-8dfd-4a19-8842-db561b29b27c": {
+            "name": "ch1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "a472a112-1d37-4f8c-97f6-641b57400dda"
+        }
+    },
+    "manufacturer": "",
+    "name": "3 Channel Schmitt Trigger",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "schmitt-trigger"
+    ],
+    "type": "entity",
+    "uuid": "5b6e21a9-570d-469f-8cc2-28443e9898dc"
+}
