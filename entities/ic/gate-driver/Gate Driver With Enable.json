@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "cd424d80-189d-41ad-8548-d90f3a21892c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a0e353f0-6cb7-48e6-b682-5f49ed378971"
+        }
+    },
+    "manufacturer": "",
+    "name": "Gate Driver With Enable",
+    "prefix": "U",
+    "tags": [
+        "gate-driver"
+    ],
+    "type": "entity",
+    "uuid": "84ce7d3b-e186-4cf9-be37-6e73f7f3374e"
+}
