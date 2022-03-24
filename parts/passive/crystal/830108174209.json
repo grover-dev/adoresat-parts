@@ -26,19 +26,19 @@
     "pad_map": {
         "7318cd6f-97f0-43d0-959c-2bf35f3857ed": {
             "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
-            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
         },
         "a32f1d4f-45df-4a7d-b19f-e378d7f79fd0": {
             "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
-            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
         },
         "badcd84f-2b37-4785-859f-dc113d076c69": {
             "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
-            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
         },
         "bf9d66a3-1b46-4138-b9e7-d46445ff9372": {
             "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
-            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
         }
     },
     "parametric": {},
