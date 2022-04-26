@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c60edd82-e9af-4272-a28c-75aca8e50cc7"
+        }
+    },
+    "manufacturer": "",
+    "name": "15 Pin Connector",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "9cd33bbf-9bd5-4cbb-a33b-b63e390e647d"
+}

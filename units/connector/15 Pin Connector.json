@@ -1,0 +1,98 @@
+{
+    "manufacturer": "",
+    "name": "15 Pin Connector",
+    "pins": {
+        "062708f1-1db5-4ba3-8391-91304fbfcbcc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "130789af-9632-43ed-bbf0-87b0eb45b4f2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "57be88ea-d7e6-444b-9d01-035e2b84c675": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "5fd8915d-1e8c-4fc4-8ad2-6f9f801e0896": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "15",
+            "swap_group": 0
+        },
+        "6181de71-9578-4a41-a12b-8372cc703101": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "13",
+            "swap_group": 0
+        },
+        "76373d0c-f175-4849-b812-80cab4342d42": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "7853ed1b-528d-4af8-9fa2-c06f2401ea23": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "86bb38b8-e08a-43ef-9729-63eed09202ba": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "90ccda63-8b0c-4485-bb05-d0eaa6281cb7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "14",
+            "swap_group": 0
+        },
+        "a11de6e0-70a1-4ab5-9874-c0ee3d49daf3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "ada8b396-2c3d-4341-8d99-372e26fa0577": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "ae2cf4dd-0bfe-4dfa-9b09-a11806a00dc2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "dbcbc3f5-c6bf-40f7-95f0-456fba292dc3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "e25ff90c-574b-4156-adf5-a32d47656484": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "f9005618-e7d7-49ec-97a4-aef95404e66d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c60edd82-e9af-4272-a28c-75aca8e50cc7"
+}
