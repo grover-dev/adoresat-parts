@@ -1,0 +1,95 @@
+{
+    "MPN": [
+        false,
+        "15 Pin Header - 2.54 mm Pitch"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "15 Pin Header"
+    ],
+    "entity": "9cd33bbf-9bd5-4cbb-a33b-b63e390e647d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0da2a4b5-9d9d-4fae-bd4c-f7ba264c7257",
+    "pad_map": {
+        "24df8d0e-cbda-4660-aa31-f22b27e7dcd2": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "a11de6e0-70a1-4ab5-9874-c0ee3d49daf3"
+        },
+        "2da89125-636c-44b6-b332-759d09e3e02c": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "ada8b396-2c3d-4341-8d99-372e26fa0577"
+        },
+        "30e9381b-82f2-4470-b5de-f37ce1f00dce": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "e25ff90c-574b-4156-adf5-a32d47656484"
+        },
+        "33c118b5-6fc1-47ab-8994-3da28d7698da": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "6181de71-9578-4a41-a12b-8372cc703101"
+        },
+        "47c2b8ef-dadc-424b-8a52-58b463b983eb": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "5fd8915d-1e8c-4fc4-8ad2-6f9f801e0896"
+        },
+        "4d1da209-9a3d-4b1e-bdaf-5f6e592c692b": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "76373d0c-f175-4849-b812-80cab4342d42"
+        },
+        "86dbd9ec-d5b9-41a5-812f-11af18121d00": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "130789af-9632-43ed-bbf0-87b0eb45b4f2"
+        },
+        "a7988232-ca1f-43f6-b5d2-e33403d8272c": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "ae2cf4dd-0bfe-4dfa-9b09-a11806a00dc2"
+        },
+        "b38157ef-f6d8-47c0-8f9d-53be3953af7d": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "f9005618-e7d7-49ec-97a4-aef95404e66d"
+        },
+        "bf41f15b-e5f1-473d-a8d6-5625f48c74ae": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "57be88ea-d7e6-444b-9d01-035e2b84c675"
+        },
+        "c1886ce1-4ab9-4801-ae1c-a7a80f396538": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "86bb38b8-e08a-43ef-9729-63eed09202ba"
+        },
+        "c6db4478-02bc-4430-8db6-838efad0d0fe": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "dbcbc3f5-c6bf-40f7-95f0-456fba292dc3"
+        },
+        "e00fde8b-4882-414b-a09b-44ebf021b0fd": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "062708f1-1db5-4ba3-8391-91304fbfcbcc"
+        },
+        "ecd55c02-b43e-497e-a59f-4671f15925c4": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "90ccda63-8b0c-4485-bb05-d0eaa6281cb7"
+        },
+        "f9b722fb-8146-417d-aa91-91c487d3d70a": {
+            "gate": "ebcce460-4cd8-43f6-8aa2-2ea38434b2d0",
+            "pin": "7853ed1b-528d-4af8-9fa2-c06f2401ea23"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "195234e6-9938-462d-81ef-09ada7592969",
+    "value": [
+        false,
+        ""
+    ]
+}
