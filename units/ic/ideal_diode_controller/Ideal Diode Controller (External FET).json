@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "Ideal Diode Controller (External FET)",
+    "pins": {
+        "327deb03-155c-45db-99d8-cc264256450a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "68b47cbc-fa8d-4cd7-aa03-69fe6e8301b2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "931e4f07-81a4-4a5a-8f15-b0f25fcc0e23": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "STAT",
+            "swap_group": 0
+        },
+        "ad6100b5-5732-4e71-9ff0-a0c075bd4eaa": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "GATE",
+            "swap_group": 0
+        },
+        "c1934ed3-145f-49cb-9d45-a6ee69157e12": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CTL",
+            "swap_group": 0
+        },
+        "d3bc0282-1bc3-4ffd-b728-63db0caade50": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SENSE",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3db7ab97-8517-43bb-8792-c7de5e5d654b"
+}

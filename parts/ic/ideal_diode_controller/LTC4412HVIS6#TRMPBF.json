@@ -1,0 +1,63 @@
+{
+    "MPN": [
+        false,
+        "LTC4412HVIS6#TRMPBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/609/ltc4412hvf-1948688.pdf"
+    ],
+    "description": [
+        false,
+        "Ideal Diode Controller (PFET)"
+    ],
+    "entity": "02757551-918b-4728-b9ea-dee9198328ea",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "c8224379-efb0-412d-b34d-6ab7e3ce1b50",
+    "orderable_MPNs": {
+        "30ce3755-8e16-4370-aca7-bfcc8696ff2f": "LTC4412HVIS6#TRMPBF"
+    },
+    "package": "893ca0d5-0caa-4ce0-b1e8-b6b4dc4ab145",
+    "pad_map": {
+        "36e0f574-28e9-4581-b911-09d52a7ba50f": {
+            "gate": "04b28add-acf9-4ddb-ba51-e218b58b8c79",
+            "pin": "d3bc0282-1bc3-4ffd-b728-63db0caade50"
+        },
+        "412ba428-5a5b-4904-b891-482b274c1210": {
+            "gate": "04b28add-acf9-4ddb-ba51-e218b58b8c79",
+            "pin": "68b47cbc-fa8d-4cd7-aa03-69fe6e8301b2"
+        },
+        "5b52e565-f5f9-475e-8b54-4f2455b472fb": {
+            "gate": "04b28add-acf9-4ddb-ba51-e218b58b8c79",
+            "pin": "327deb03-155c-45db-99d8-cc264256450a"
+        },
+        "6936737b-7bbb-4395-af7b-f61140f044a7": {
+            "gate": "04b28add-acf9-4ddb-ba51-e218b58b8c79",
+            "pin": "c1934ed3-145f-49cb-9d45-a6ee69157e12"
+        },
+        "6de2409c-404b-417c-be96-32ed61b0376c": {
+            "gate": "04b28add-acf9-4ddb-ba51-e218b58b8c79",
+            "pin": "ad6100b5-5732-4e71-9ff0-a0c075bd4eaa"
+        },
+        "ac1f2bf0-a42c-48e9-bb7b-0d5a8c92c219": {
+            "gate": "04b28add-acf9-4ddb-ba51-e218b58b8c79",
+            "pin": "931e4f07-81a4-4a5a-8f15-b0f25fcc0e23"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "ideal-diode"
+    ],
+    "type": "part",
+    "uuid": "a869a77f-5c23-4425-960a-ceebc360c1db",
+    "value": [
+        false,
+        ""
+    ]
+}

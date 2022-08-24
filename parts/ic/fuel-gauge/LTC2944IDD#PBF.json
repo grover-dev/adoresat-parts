@@ -1,0 +1,75 @@
+{
+    "MPN": [
+        false,
+        "LTC2944IDD#PBF"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/609/2944fa-2954378.pdf"
+    ],
+    "description": [
+        false,
+        "Lithium Ion Battery Fuel Gauge"
+    ],
+    "entity": "8804d042-bc43-4817-8ab5-904db223fb99",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "f0e824e9-6c0d-48b7-aff9-06919c0a2543",
+    "orderable_MPNs": {
+        "ee8eedf2-e110-4896-8964-f0515aebef7a": "LTC2944IDD#PBF"
+    },
+    "package": "00f9ff46-5d87-4388-92d9-530844355ce7",
+    "pad_map": {
+        "1cf3df3f-4087-4430-8621-b3f91b836c90": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "388bae43-0bcd-49e0-a820-a651424c6a38"
+        },
+        "562a0d2a-c0c2-4955-805b-0d429ccd661f": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "8781da69-9090-493e-bb5c-eab1ec15b39b"
+        },
+        "59e10eb5-c6e9-45a8-9cd9-377c1af85a93": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "388bae43-0bcd-49e0-a820-a651424c6a38"
+        },
+        "87b65e3c-1286-4bd4-9f0f-81a0df8982fe": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "388bae43-0bcd-49e0-a820-a651424c6a38"
+        },
+        "8d80126f-60f1-413f-9be8-abb6a7931b8a": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "7dbd326d-aaf4-496a-a192-cf2c68c609d5"
+        },
+        "aa609483-c069-41d1-abd3-c662893e3f86": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "42f42cd1-faf2-4bc8-878b-bf31c61802d0"
+        },
+        "b0bf980a-5a2d-4e79-ae69-605589f8c621": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "f53a73ee-2dc4-43bd-b156-d2222d41a694"
+        },
+        "b913d578-d2d9-4bdc-9c4d-1d7b0ac7412e": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "388bae43-0bcd-49e0-a820-a651424c6a38"
+        },
+        "efa74b6b-d2dc-4da5-a869-9f1001904484": {
+            "gate": "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e",
+            "pin": "63284359-7e43-41c5-aa43-8cd87d14b1e0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuel-gauge",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "509d9545-760e-4dfb-b75a-d80b75a074a8",
+    "value": [
+        false,
+        ""
+    ]
+}

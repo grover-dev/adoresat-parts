@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "04b28add-acf9-4ddb-ba51-e218b58b8c79": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3db7ab97-8517-43bb-8792-c7de5e5d654b"
+        }
+    },
+    "manufacturer": "",
+    "name": "Ideal Diode Controller (With External FET)",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "ideal-diode"
+    ],
+    "type": "entity",
+    "uuid": "02757551-918b-4728-b9ea-dee9198328ea"
+}

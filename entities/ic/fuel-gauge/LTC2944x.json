@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "34d4d6c0-b7d4-4d0a-bf3d-a5e9c35da74e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "375a491a-8fba-48ce-8692-2cdad9d1dfda"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "LTC2944x",
+    "prefix": "U",
+    "tags": [
+        "fuel-gauge",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "8804d042-bc43-4817-8ab5-904db223fb99"
+}
