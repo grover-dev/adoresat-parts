@@ -1,0 +1,56 @@
+{
+    "manufacturer": "ABLIC",
+    "name": "S-8209x",
+    "pins": {
+        "234fedcf-cd3e-4629-b077-aa76f266c50f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CO",
+            "swap_group": 0
+        },
+        "2d45a503-48f8-4a48-830d-b3b24aa2d7c6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CTLD",
+            "swap_group": 0
+        },
+        "40e872af-0220-40c7-91d2-08a3e40f892d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "DO",
+            "swap_group": 0
+        },
+        "40ef5dbf-452a-4fee-820b-5ddadfe99404": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CDT",
+            "swap_group": 0
+        },
+        "427a58b9-c95f-40eb-a5a5-f50b21b446c7": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "4ccfb11e-df63-444a-b879-77b74f8d48e0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "65334e9e-495c-4796-9e1c-4cd8c137f44c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CB",
+            "swap_group": 0
+        },
+        "d6c63b42-cfa0-41e7-b5ff-d0022cc3588d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CTLC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3464bb7a-1f1d-4a80-846e-032d096092fd"
+}

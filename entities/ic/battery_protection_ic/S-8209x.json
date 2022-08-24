@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d38ecab6-7e38-410b-92b6-f22e7be4ba49": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3464bb7a-1f1d-4a80-846e-032d096092fd"
+        }
+    },
+    "manufacturer": "ABLIC",
+    "name": "S-8209x",
+    "prefix": "U",
+    "tags": [
+        "battery-protection",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "e6205704-befd-4034-aeee-e88da9d8e81b"
+}

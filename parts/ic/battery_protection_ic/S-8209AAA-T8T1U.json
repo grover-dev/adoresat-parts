@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "S-8209AAA-T8T1U"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/360/S8209A_E-2949461.pdf"
+    ],
+    "description": [
+        false,
+        "Li-Ion Overcharge, Overdischarge Protection and Cell Balancing IC"
+    ],
+    "entity": "e6205704-befd-4034-aeee-e88da9d8e81b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ABLIC"
+    ],
+    "model": "9c566682-0798-487f-86bb-9b1386e135a5",
+    "orderable_MPNs": {
+        "f8fd6365-b525-4667-8811-bd86636cef6c": "S-8209AAA-T8T1U"
+    },
+    "package": "1d4c6205-b8d5-4fbd-8fdb-22285949b01f",
+    "pad_map": {
+        "3d31493a-7381-4c5e-b831-6e467f128f18": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "2d45a503-48f8-4a48-830d-b3b24aa2d7c6"
+        },
+        "50be96fc-794b-4374-946f-a6d4f0a077a4": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "4ccfb11e-df63-444a-b879-77b74f8d48e0"
+        },
+        "7800e1ff-5a30-418c-992d-050d87629502": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "d6c63b42-cfa0-41e7-b5ff-d0022cc3588d"
+        },
+        "89e228d9-9b1c-44a3-8109-a746b15c434a": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "40e872af-0220-40c7-91d2-08a3e40f892d"
+        },
+        "93b3a94b-3184-4cdf-820a-24c85af64a8d": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "40ef5dbf-452a-4fee-820b-5ddadfe99404"
+        },
+        "983ed3d4-d32d-479d-af3d-f6823b4a8fe7": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "65334e9e-495c-4796-9e1c-4cd8c137f44c"
+        },
+        "9d1601f1-d0ec-4ac2-98a9-c989dca28bfb": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "427a58b9-c95f-40eb-a5a5-f50b21b446c7"
+        },
+        "eb010031-43bd-4cd4-8c7c-328319e83d4f": {
+            "gate": "d38ecab6-7e38-410b-92b6-f22e7be4ba49",
+            "pin": "234fedcf-cd3e-4629-b077-aa76f266c50f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "battery-protection",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "cae4f5c3-21fb-4149-be02-af573e55ce62",
+    "value": [
+        false,
+        ""
+    ]
+}
