@@ -1,0 +1,42 @@
+{
+    "MPN": [
+        false,
+        "UR73VD2BTTD25L0F"
+    ],
+    "base": "85440448-6a35-40aa-9321-4ee47b02eebe",
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/219/UR73V-770279.pdf"
+    ],
+    "description": [
+        false,
+        "Current Sense Resistor - AEC-Q200"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "KOA Speer"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "de6b1bd3-15cb-40ee-968e-e31465e7891a": "UR73VD2BTTD25L0F"
+    },
+    "parametric": {
+        "pmax": "0.5",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.025"
+    },
+    "tags": [
+        "aec-q200",
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "4ed2cabe-6625-47fd-9744-02a0d4ec57c7",
+    "value": [
+        false,
+        "25 mOhm - 1% - 0.5 W"
+    ]
+}
