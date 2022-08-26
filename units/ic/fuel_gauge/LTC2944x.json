@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "LTC2944x",
+    "pins": {
+        "388bae43-0bcd-49e0-a820-a651424c6a38": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "42f42cd1-faf2-4bc8-878b-bf31c61802d0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SENSE-",
+            "swap_group": 0
+        },
+        "63284359-7e43-41c5-aa43-8cd87d14b1e0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SENSE+",
+            "swap_group": 0
+        },
+        "7dbd326d-aaf4-496a-a192-cf2c68c609d5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "8781da69-9090-493e-bb5c-eab1ec15b39b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "f53a73ee-2dc4-43bd-b156-d2222d41a694": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~ALCC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "375a491a-8fba-48ce-8692-2cdad9d1dfda"
+}
