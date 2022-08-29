@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "DMP3007SCGQ-7"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/115/DIOD_S_A0006645029_1-2542888.pdf"
+    ],
+    "description": [
+        false,
+        "Power PFET, AEC-Q101"
+    ],
+    "entity": "e141c77a-85ab-4261-9636-aeed4da47ddb",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "1a1a85b6-463e-4380-9669-840491ce8b65",
+    "orderable_MPNs": {
+        "4d0e9464-4904-4f6c-9e0d-ba707cbad64f": "DMP3007SCGQ-7"
+    },
+    "package": "f926e6ed-a85b-4cad-b68b-c7a26cfb5d27",
+    "pad_map": {
+        "1825901e-293f-4665-a292-bf44b557cf47": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "4331281c-4c9d-4b71-b6de-0a83cce78b98"
+        },
+        "4c9c74a6-d0d9-4ad3-93bc-7d9fd4028644": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "1194f64b-0fbc-4247-bbb4-fa41e8640b9b"
+        },
+        "99bf5091-16b1-4423-80a3-af51870fdf28": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "4331281c-4c9d-4b71-b6de-0a83cce78b98"
+        },
+        "acc92495-dbdc-4381-8acf-e1e964783c12": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "82cb66f5-2484-4fe3-832c-ad8790102955"
+        },
+        "e5568653-4538-401b-a1a4-2c476ff76b76": {
+            "gate": "28c460e7-24c0-4317-af01-c4f4d7b7144d",
+            "pin": "4331281c-4c9d-4b71-b6de-0a83cce78b98"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "aec-q101",
+        "mosfet"
+    ],
+    "type": "part",
+    "uuid": "daab6fa4-e835-467e-8e4b-5b03f351b5fa",
+    "value": [
+        false,
+        "-30 V, 50 A PFET"
+    ]
+}
