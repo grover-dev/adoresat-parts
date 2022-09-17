@@ -1,26 +1,26 @@
 {
     "manufacturer": "",
-    "name": "NPN BJT",
+    "name": "PNP BJT",
     "pins": {
-        "31fe5c87-b4df-4a1b-af96-b6e70206ca6a": {
+        "9f4d33d9-ee73-43fe-bfe1-8ad41ba48de8": {
             "direction": "passive",
             "names": [],
             "primary_name": "C",
             "swap_group": 0
         },
-        "4e0385fc-dd6a-4b74-a0f9-adeda8c360c0": {
-            "direction": "passive",
-            "names": [],
-            "primary_name": "B",
-            "swap_group": 0
-        },
-        "97a92b84-eced-4d69-9632-c73ced6f7981": {
+        "d99e2ea3-2693-4c8c-9268-18b8595399a8": {
             "direction": "passive",
             "names": [],
             "primary_name": "E",
             "swap_group": 0
+        },
+        "eeb980cd-23f6-4777-87ae-f83b4234b4ff": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
         }
     },
     "type": "unit",
-    "uuid": "6b7f757e-9b2d-41a4-9e8e-0b590f16954d"
+    "uuid": "55afac87-bb59-4bdf-9e77-feaccbf46307"
 }

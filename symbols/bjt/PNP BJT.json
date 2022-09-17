@@ -23,10 +23,22 @@
                 0
             ]
         },
+        "10b3d267-d92e-44f5-9cda-395335fb2bc1": {
+            "position": [
+                -1250000,
+                -1250000
+            ]
+        },
         "130b6667-2c85-4f41-ae9d-fd0e8c114061": {
             "position": [
                 -2500000,
                 -1250000
+            ]
+        },
+        "2a02290e-d760-4cf0-95cd-57f1deefb90b": {
+            "position": [
+                -500000,
+                -3250000
             ]
         },
         "52c09ead-293b-46b8-8358-e95f6c24b4fb": {
@@ -39,6 +51,12 @@
             "position": [
                 0,
                 2500000
+            ]
+        },
+        "5f76f5a0-224a-4ec7-868e-8498dc0435fb": {
+            "position": [
+                -500000,
+                -2000000
             ]
         },
         "6de9823e-cdc5-4afd-b75f-ccff15138a3b": {
@@ -65,16 +83,34 @@
                 0
             ]
         },
+        "ab22b929-c443-404b-9885-fe4941e6efb0": {
+            "position": [
+                -1250000,
+                -2500000
+            ]
+        },
         "abb2349d-7be9-4474-a7fd-ea54e5b41850": {
             "position": [
                 0,
                 -3750000
             ]
         },
+        "c498130a-fddb-4c73-a992-391113692d82": {
+            "position": [
+                0,
+                -2500000
+            ]
+        },
         "ca5f2cca-bc61-4aee-9c29-881eda746d44": {
             "position": [
                 -2500000,
                 -2500000
+            ]
+        },
+        "e2213dbb-db18-4856-903a-6adf522b9920": {
+            "position": [
+                -1750000,
+                -3250000
             ]
         },
         "e4464984-c075-4f94-a969-b48cca7a61f0": {
@@ -101,6 +137,12 @@
                 3750000
             ]
         },
+        "f7e3fa2c-205e-4fcf-b42f-40ff5bd8236a": {
+            "position": [
+                0,
+                -1250000
+            ]
+        },
         "f8b8439e-a9d1-40f5-880b-06b858ebbf05": {
             "position": [
                 0,
@@ -121,12 +163,6 @@
             "to": "ece17c98-ba87-4467-abca-a027ff927c81",
             "width": 0
         },
-        "2db1f2a7-4df4-493d-86ba-63143aa2305d": {
-            "from": "6de9823e-cdc5-4afd-b75f-ccff15138a3b",
-            "layer": 0,
-            "to": "549cc581-efa9-483c-9cd0-1c972fe94f05",
-            "width": 0
-        },
         "49990f4a-d98f-4879-ba1d-d9e094fd6b25": {
             "from": "a3e4cd16-6f93-4b62-b3ff-ef76de476bef",
             "layer": 0,
@@ -145,10 +181,16 @@
             "to": "abb2349d-7be9-4474-a7fd-ea54e5b41850",
             "width": 0
         },
-        "d82c2464-b549-4ad1-8055-2b4aec124e1d": {
-            "from": "f63a6c5d-d29e-4ff4-9560-7fbe341e6fbd",
+        "ae8ef604-a2d5-47d7-9795-c35a9b799bc3": {
+            "from": "2a02290e-d760-4cf0-95cd-57f1deefb90b",
             "layer": 0,
-            "to": "6de9823e-cdc5-4afd-b75f-ccff15138a3b",
+            "to": "5f76f5a0-224a-4ec7-868e-8498dc0435fb",
+            "width": 0
+        },
+        "eb4a80b2-9a74-4f8f-a007-d6259b986dbe": {
+            "from": "e2213dbb-db18-4856-903a-6adf522b9920",
+            "layer": 0,
+            "to": "2a02290e-d760-4cf0-95cd-57f1deefb90b",
             "width": 0
         },
         "f03d9875-60d4-4b63-a567-20923c01cbb1": {
@@ -158,7 +200,7 @@
             "width": 0
         }
     },
-    "name": "PNP BJT",
+    "name": "NPN BJT",
     "pins": {
         "31fe5c87-b4df-4a1b-af96-b6e70206ca6a": {
             "decoration": {
@@ -170,11 +212,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": false,
-            "orientation": "down",
+            "orientation": "up",
             "pad_visible": true,
             "position": [
                 0,
-                -7500000
+                7500000
             ]
         },
         "4e0385fc-dd6a-4b74-a0f9-adeda8c360c0": {
@@ -204,11 +246,11 @@
             "length": 2500000,
             "name_orientation": "in_line",
             "name_visible": false,
-            "orientation": "up",
+            "orientation": "down",
             "pad_visible": true,
             "position": [
                 0,
-                7500000
+                -7500000
             ]
         }
     },

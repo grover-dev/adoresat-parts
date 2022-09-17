@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "BC847C-QR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.com/datasheet/2/916/BC847X_Q_SER-2498414.pdf"
+    ],
+    "description": [
+        false,
+        "NPN BJT"
+    ],
+    "entity": "5456792c-6df5-44a5-8aa1-6146976bc177",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "bcd77a54-f23f-4e3f-9737-bf827ef91f61",
+    "orderable_MPNs": {
+        "f5c74a59-2a38-454a-aabb-e1b92bae7dd0": "BC847C-QR"
+    },
+    "package": "3c1a610b-4f8e-495d-9f2f-a9fecd347a21",
+    "pad_map": {
+        "80bcd95c-4395-49de-b565-509b3be7189c": {
+            "gate": "ff634023-87c9-4811-967b-f0ba368b7d86",
+            "pin": "31fe5c87-b4df-4a1b-af96-b6e70206ca6a"
+        },
+        "932f0a63-f2f6-450f-b500-b9becc23e00a": {
+            "gate": "ff634023-87c9-4811-967b-f0ba368b7d86",
+            "pin": "4e0385fc-dd6a-4b74-a0f9-adeda8c360c0"
+        },
+        "fa38b6db-b5c3-464a-8b92-e3c5ade10179": {
+            "gate": "ff634023-87c9-4811-967b-f0ba368b7d86",
+            "pin": "97a92b84-eced-4d69-9632-c73ced6f7981"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "npn"
+    ],
+    "type": "part",
+    "uuid": "705377e3-804b-4ece-8209-c18bba80801f",
+    "value": [
+        false,
+        ""
+    ]
+}
